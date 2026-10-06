@@ -1,0 +1,2859 @@
+{
+  "meta": {
+    "lesson_num": 28,
+    "title_jp": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+    "title_mm": "ခရီးထွက်တာလည်း များသလို၊ စာမေးပွဲလည်း ရှိတယ်……",
+    "title_en": "I have many business trips, and exams too…",
+    "theme": "〜ながら (တစ်ပြိုင်တည်း ပြုလုပ်ခြင်း) နှင့် 〜し (အကြောင်းများစွာ ဖော်ပြခြင်း)",
+    "theme_en": "~ながら (doing two things simultaneously) and ~し (listing multiple reasons)",
+    "jlpt": "JLPT N4",
+    "total_illustrations": 4,
+    "title_ruby": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+    "title_hiragana": "しゅっちょうも おおいし、しけんも あるし……",
+    "title_romaji": "Shucchou mo ooishi, shiken mo arushi..."
+  },
+  "original_pages": [
+    {
+      "title": "<ruby>文型<rt>ぶんけい</rt></ruby>・<ruby>例文<rt>れいぶん</rt></ruby> (p.41)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_01_Bunkei_Reibun_p041.png",
+      "title_ruby": "<ruby>文型<rt>ぶんけい</rt></ruby>・<ruby>例文<rt>れいぶん</rt></ruby> (p.41)"
+    },
+    {
+      "title": "<ruby>会話<rt>かいわ</rt></ruby> (p.42)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_02_Kaiwa_p042.png",
+      "title_ruby": "<ruby>会話<rt>かいわ</rt></ruby> (p.42)"
+    },
+    {
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>A (p.43)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_03_RenshuuA_p043.png",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>A (p.43)"
+    },
+    {
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>B-1 (p.44)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_04_RenshuuB1_p044.png",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>B-1 (p.44)"
+    },
+    {
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>B-2 (p.45)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_05_RenshuuB2_p045.png",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>B-2 (p.45)"
+    },
+    {
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>C (p.46)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_06_RenshuuB3_p046.png",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>C (p.46)"
+    },
+    {
+      "title": "<ruby>問題<rt>もんだい</rt></ruby>-1 (p.47)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_07_RenshuuC_p047.png",
+      "title_ruby": "<ruby>問題<rt>もんだい</rt></ruby>-1 (p.47)"
+    },
+    {
+      "title": "<ruby>問題<rt>もんだい</rt></ruby>-2 (p.48)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_08_Mondai_p048.png",
+      "title_ruby": "<ruby>問題<rt>もんだい</rt></ruby>-2 (p.48)"
+    },
+    {
+      "title": "<ruby>解答<rt>かいとう</rt></ruby> <ruby>練習<rt>れんしゅう</rt></ruby>B・C (p.278)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_Ans_BC_p278.png",
+      "title_ruby": "<ruby>解答<rt>かいとう</rt></ruby> <ruby>練習<rt>れんしゅう</rt></ruby>B・C (p.278)"
+    },
+    {
+      "title": "<ruby>問題<rt>もんだい</rt></ruby> <ruby>聴解<rt>ちょうかい</rt></ruby>スクリプト・<ruby>答<rt>こた</rt></ruby>え (p.303)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_Script_Ans_L27_L28_p303.png",
+      "title_ruby": "<ruby>問題<rt>もんだい</rt></ruby> <ruby>聴解<rt>ちょうかい</rt></ruby>スクリプト・<ruby>答<rt>こた</rt></ruby>え (p.303)"
+    },
+    {
+      "title": "<ruby>問題<rt>もんだい</rt></ruby> <ruby>聴解<rt>ちょうかい</rt></ruby>スクリプト・<ruby>答<rt>こた</rt></ruby>え (p.304)",
+      "file": "output/by_lesson/Lesson_28/Lesson_28_Script_Ans_L28_L29_p304.png",
+      "title_ruby": "<ruby>問題<rt>もんだい</rt></ruby> <ruby>聴解<rt>ちょうかい</rt></ruby>スクリプト・<ruby>答<rt>こた</rt></ruby>え (p.304)"
+    }
+  ],
+  "grammar_points": [
+    {
+      "pattern": "〜ながら",
+      "meaning": "〜လုပ်ရင်းနဲ့ (တစ်ပြိုင်တည်း ပြုလုပ်ခြင်း)",
+      "meaning_en": "While doing / simultaneously",
+      "title_en": "Simultaneous Actions (〜ながら)",
+      "explanation_mm": "လုပ်ရပ်နှစ်ခုကို တစ်ပြိုင်တည်း ပြုလုပ်သည်ကို ဖော်ပြသည်။ ကြိယာ ます ပုံစံ၏ မス ကို ဖြုတ်ပြီး ながら ဆက်ပါသည်။ မူဆိုင်ရာ ကြိယာ (main action) သည် ကြောင်းနောက်တွင် ဖော်ပြပြီး、ながら နှင့် ချိတ်ဆက်သော ကြိယာသည် တောင်ကြားကြိယာ (secondary action) ဖြစ်သည်။",
+      "explanation_en": "Expresses two actions occurring simultaneously. The verb stem (drop -ます) + ながら describes the secondary/background action, while the main verb follows at the end.",
+      "formation": "<ruby>動詞<rt>どうし</rt></ruby>ます<ruby>形<rt>けい</rt></ruby>の ます をとる ＋ ながら ＋ <ruby>主<rt>しゅ</rt></ruby>となる<ruby>動詞<rt>どうし</rt></ruby>",
+      "formation_en": "V-stem (drop ます) + ながら + main verb (e.g. <ruby>聞<rt>き</rt></ruby>きながら <ruby>運転<rt>うんてん</rt></ruby>します)",
+      "title_mm": "တစ်ပြိုင်နက်တည်း ပြုလုပ်ခြင်း (~ရင်းနှင့်)",
+      "formation_mm": "ကြိယာ ます-ပုံစံ၏ [ます] ဖြုတ် ＋ ながら ＋ အဓိကကြိယာ (Main Verb)"
+    },
+    {
+      "pattern": "〜し、〜し",
+      "meaning": "〜သည်လည်း ... 〜သည်လည်း ... (အကြောင်းများစွာ ဖော်ပြခြင်း)",
+      "meaning_en": "And also / Not only … but also (listing reasons)",
+      "title_en": "Listing Multiple Reasons (〜し、〜し)",
+      "explanation_mm": "အကြောင်းရင်းများ သို့မဟုတ် အချက်အလက်များစွာကို တစ်ပြိုင်တည်း ဖော်ပြသည်။ <ruby>普通形<rt>ふつうけい</rt></ruby> နောက်တွင် し ကို ဆက်သုံးပါသည်။ 'それに' (ထိုမှတပါး) ဖြင့် နောက်ဆုံး အကြောင်းရင်းကို ဖော်ပြနိုင်သည်။ 〜だし (な<ruby>形容詞<rt>けいようし</rt></ruby>・<ruby>名詞<rt>めいし</rt></ruby> ၏ <ruby>現在<rt>げんざい</rt></ruby><ruby>肯定<rt>こうてい</rt></ruby>) ဖြင့်လည်း သုံးနိုင်သည်。",
+      "explanation_en": "Lists multiple reasons or facts to support a conclusion. Use plain form + し. For な-adjectives and nouns in present affirmative, use だし.",
+      "formation": "<ruby>普通形<rt>ふつうけい</rt></ruby> ＋ し、<ruby>普通形<rt>ふつうけい</rt></ruby> ＋ し (な<ruby>形容詞<rt>けいようし</rt></ruby>・<ruby>名詞<rt>めいし</rt></ruby> の <ruby>現在肯定<rt>げんざいこうてい</rt></ruby>は だし)",
+      "formation_en": "Plain form + し、plain form + し (for な-adj/noun present affirmative: stem + だし)",
+      "title_mm": "အကြောင်းပြချက်များ စုပြုံဖော်ပြခြင်း",
+      "formation_mm": "သာမန်ပုံစံ (Plain form) ＋ し、သာမန်ပုံစံ ＋ し\n(※ な-နာမဝိသေသန နှင့် နာမ်တို့၏ ပစ္စုပ္ပန်အတည်ပြုတွင် [だし] ဖြစ်သည်)"
+    }
+  ],
+  "bunkei": [
+    {
+      "id": "b1",
+      "num": 1,
+      "jp": "音楽を 聞きながら 食事します。",
+      "ruby": "<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>食事<rt>しょくじ</rt></ruby>します。",
+      "japanese": "音楽を 聞きながら 食事します。",
+      "hiragana": "おんがくを ききながら しょくじします。",
+      "romaji": "Ongaku wo kikinagara shokuji shimasu.",
+      "note": "ながら — တစ်ပြိုင်တည်း ပြုလုပ်သည့် ဒုတိယ ကြိယာ + ながら + မူဆိုင်ရာ ကြိယာ",
+      "note_en": "ながら — secondary action + ながら + main action",
+      "translation_mm": "တေးဂီတနားထောင်ရင်း ထမင်းစားပါသည်။",
+      "translation_en": "I eat while listening to music."
+    },
+    {
+      "id": "b2",
+      "num": 2,
+      "jp": "毎朝 ジョギングを して います。",
+      "ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> ジョギングを して います。",
+      "japanese": "毎朝 ジョギングを して います。",
+      "hiragana": "まいあさ じょぎんぐを して います。",
+      "romaji": "Mai asa jogingu wo shite imasu.",
+      "note": "〜て います — နေ့တိုင်း ကြားတောင်းကြိယာ ဖော်ပြ",
+      "note_en": "〜て います — expressing habitual/ongoing actions",
+      "translation_mm": "နံနက်တိုင်း ဂျောကင်းလုပ်နေပါသည်။",
+      "translation_en": "I go jogging every morning."
+    },
+    {
+      "id": "b3",
+      "num": 3,
+      "jp": "地下鉄は 速いし、安いし、地下鉄で 行きましょう。",
+      "ruby": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>は <ruby>速<rt>はや</rt></ruby>いし、<ruby>安<rt>やす</rt></ruby>いし、<ruby>地下鉄<rt>ちかてつ</rt></ruby>で <ruby>行<rt>い</rt></ruby>きましょう。",
+      "japanese": "地下鉄は 速いし、安いし、地下鉄で 行きましょう。",
+      "hiragana": "ちかてつは はやいし、やすいし、ちかてつで いきましょう。",
+      "romaji": "Chikatetsu wa hayai shi, yasui shi, chikatetsu de ikimashou.",
+      "note": "〜し、〜し — အကြောင်းရင်းများစွာ ဖော်ပြပြီး ကောက်ချက် ချသည်",
+      "note_en": "〜し、〜し — listing reasons leading to a conclusion",
+      "translation_mm": "မြေအောက်ရထားက မြန်သည်လည်း မြန်、ချိုသည်လည်း ချိုသောကြောင့်、မြေအောက်ရထားဖြင့် သွားကြပါစို့။",
+      "translation_en": "The subway is fast, and cheap too, so let's go by subway."
+    }
+  ],
+  "reibun": [
+    {
+      "num": 1,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "眠い とき、ガムを かみながら 運転します。",
+        "ruby": "<ruby>眠<rt>ねむ</rt></ruby>い とき、ガムを かみながら <ruby>運転<rt>うんてん</rt></ruby>します。",
+        "japanese": "眠い とき、ガムを かみながら 運転します。",
+        "hiragana": "ねむい とき、がむを かみながら うんてんします。",
+        "romaji": "Nemui toki, gamu wo kaminagara unten shimasu.",
+        "translation_mm": "အိပ်ငိုက်သောအခါ ကြံနယ်ရင်းနဲ့ မောင်းနှင်ပါသည်။",
+        "translation_en": "When I'm sleepy, I drive while chewing gum."
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……そうですか。 わたしは 車を 止めて、しばらく 寝ます。",
+        "ruby": "……そうですか。 わたしは <ruby>車<rt>くるま</rt></ruby>を <ruby>止<rt>と</rt></ruby>めて、しばらく <ruby>寝<rt>ね</rt></ruby>ます。",
+        "japanese": "……そうですか。 わたしは 車を 止めて、しばらく 寝ます。",
+        "hiragana": "……そうですか。 わたしは くるまを とめて、しばらく ねます。",
+        "romaji": "…… Sou desu ka. Watashi wa kuruma wo tomete, shibaraku nemasu.",
+        "translation_mm": "……ဟုတ်လားဗျာ။ ကျွန်တော်ကတော့ ကားရပ်ပြီး ခဏ အိပ်ပါသည်။",
+        "translation_en": "……Really? I stop the car and sleep for a while."
+      }
+    },
+    {
+      "num": 2,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "音楽を 聞きながら 勉強しますか。",
+        "ruby": "<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>勉強<rt>べんきょう</rt></ruby>しますか。",
+        "japanese": "音楽を 聞きながら 勉強しますか。",
+        "hiragana": "おんがくを ききながら べんきょうしますか。",
+        "romaji": "Ongaku wo kikinagara benkyou shimasu ka.",
+        "translation_mm": "တေးဂီတနားထောင်ရင်း ဘာသာစာ သင်ပါသလား။",
+        "translation_en": "Do you study while listening to music?"
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……いいえ。 勉強する ときは、音楽を 聞きません。",
+        "ruby": "……いいえ。 <ruby>勉強<rt>べんきょう</rt></ruby>する ときは、<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きません。",
+        "japanese": "……いいえ。 勉強する ときは、音楽を 聞きません。",
+        "hiragana": "……いいえ。 べんきょうする ときは、おんがくを ききません。",
+        "romaji": "…… Iie. Benkyou suru toki wa, ongaku wo kikimasen.",
+        "translation_mm": "……မဟုတ်ပါဘူး။ ဘာသာစာ သင်သောအခါ တေးဂီတ မနားထောင်ပါ။",
+        "translation_en": "……No. When I study, I don't listen to music."
+      }
+    },
+    {
+      "num": 3,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "彼は 働きながら 大学で 勉強して います。",
+        "ruby": "<ruby>彼<rt>かれ</rt></ruby>は <ruby>働<rt>はたら</rt></ruby>きながら <ruby>大学<rt>だいがく</rt></ruby>で <ruby>勉強<rt>べんきょう</rt></ruby>して います。",
+        "japanese": "彼は 働きながら 大学で 勉強して います。",
+        "hiragana": "かれは はたらきながら だいがくで べんきょうして います。",
+        "romaji": "Kare wa hatarakinagara daigaku de benkyou shite imasu.",
+        "translation_mm": "သူက အလုပ်လုပ်ရင်းနဲ့ တက္ကသိုလ်မှာ ဘာသာစာ သင်နေပါသည်။",
+        "translation_en": "He studies at university while working."
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……そうですか。 偉いですね。",
+        "ruby": "……そうですか。 <ruby>偉<rt>えら</rt></ruby>いですね。",
+        "japanese": "……そうですか。 偉いですね。",
+        "hiragana": "……そうですか。 えらいですね。",
+        "romaji": "…… Sou desu ka. Erai desu ne.",
+        "translation_mm": "……ဟုတ်လားဗျာ။ ဆောင်းရွှင်ပါတယ်နော်။",
+        "translation_en": "……Really? That's admirable."
+      }
+    },
+    {
+      "num": 4,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "休みの 日は いつも 何を して いますか。",
+        "ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は いつも <ruby>何<rt>なに</rt></ruby>を して いますか。",
+        "japanese": "休みの 日は いつも 何を して いますか。",
+        "hiragana": "やすみの ひは いつも なにを して いますか。",
+        "romaji": "Yasumi no hi wa itsumo nani wo shite imasu ka.",
+        "translation_mm": "ရုံးပိတ်ရက်တွေမှာ အမြဲ ဘာလုပ်နေပါသလဲ။",
+        "translation_en": "What do you usually do on your days off?"
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……そうですね。 たいてい 絵を かいて います。",
+        "ruby": "……そうですね。 たいてい <ruby>絵<rt>え</rt></ruby>を かいて います。",
+        "japanese": "……そうですね。 たいてい 絵を かいて います。",
+        "hiragana": "……そうですね。 たいてい えを かいて います。",
+        "romaji": "…… Sou desu ne. Taitei e wo kaite imasu.",
+        "translation_mm": "……ပြောရရင်တော့ပေါ့ဗျာ။ အများအားဖြင့် ပန်းချီဆွဲနေပါသည်။",
+        "translation_en": "……Let me see. I usually draw pictures."
+      }
+    },
+    {
+      "num": 5,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "ワット先生は 熱心だし、おもしろいし、それに 経験も あります。",
+        "ruby": "ワット<ruby>先生<rt>せんせい</rt></ruby>は <ruby>熱心<rt>ねっしん</rt></ruby>だし、おもしろいし、それに <ruby>経験<rt>けいけん</rt></ruby>も あります。",
+        "japanese": "ワット先生は 熱心だし、おもしろいし、それに 経験も あります。",
+        "hiragana": "わっとせんせいは ねっしんだし、おもしろいし、それに けいけんも あります。",
+        "romaji": "Watto sensei wa nesshin da shi, omoshiroi shi, sore ni keiken mo arimasu.",
+        "translation_mm": "ဝပ်ဆရာ/မ က နှလုံးသားပါသည်လည်း ပါ、ဖျော်ဖြေဖွယ်သည်လည်း ဖြစ်、ထိုမှတပါး အတွေ့အကြုံလည်း ရှိပါသည်။",
+        "translation_en": "Professor Watt is passionate, interesting, and experienced too."
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……いい 先生ですね。",
+        "ruby": "……いい <ruby>先生<rt>せんせい</rt></ruby>ですね。",
+        "japanese": "……いい 先生ですね。",
+        "hiragana": "……いい せんせいですね。",
+        "romaji": "…… Ii sensei desu ne.",
+        "translation_mm": "……ဆရာ/မ ကောင်းတစ်ယောက်ပဲနော်။",
+        "translation_en": "……They sound like a great teacher."
+      }
+    },
+    {
+      "num": 6,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "よく この すし屋へ 来るんですか。",
+        "ruby": "よく この すし<ruby>屋<rt>や</rt></ruby>へ <ruby>来<rt>く</rt></ruby>るんですか。",
+        "japanese": "よく この すし屋へ 来るんですか。",
+        "hiragana": "よく この すしやへ くるんですか。",
+        "romaji": "Yoku kono sushiya e kurun desu ka.",
+        "translation_mm": "ဤဆူရှီဆိုင်ကို မကြာခဏ လာပါသလား။",
+        "translation_en": "Do you often come to this sushi restaurant?"
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……ええ。 ここは 値段も 安いし、魚も 新しいし、よく 食べに 来ます。",
+        "ruby": "……ええ。 ここは <ruby>値段<rt>ねだん</rt></ruby>も <ruby>安<rt>やす</rt></ruby>いし、<ruby>魚<rt>さかな</rt></ruby>も <ruby>新<rt>あたら</rt></ruby>しいし、よく <ruby>食<rt>た</rt></ruby>べに <ruby>来<rt>き</rt></ruby>ます。",
+        "japanese": "……ええ。 ここは 値段も 安いし、魚も 新しいし、よく 食べに 来ます。",
+        "hiragana": "……ええ。 ここは ねだんも やすいし、さかなも あたらしいし、よく たべに きます。",
+        "romaji": "…… Ee. Koko wa nedan mo yasui shi, sakana mo atarashii shi, yoku tabe ni kimasu.",
+        "translation_mm": "……ဟုတ်ကဲ့ပါ။ ဒီနေရာက ဈေးနှုန်းလည်း ချိုပြီး၊ ငါးလည်း လတ်ဆတ်တာကြောင့် မကြာခဏ စားဖို့ လာပါသည်။",
+        "translation_en": "……Yes. The prices are reasonable, and the fish is fresh, so I come often."
+      }
+    },
+    {
+      "num": 7,
+      "q": {
+        "speaker": "A",
+        "speaker_en": "A",
+        "jp": "どうして 富士大学を 選んだんですか。",
+        "ruby": "どうして <ruby>富士大学<rt>ふじだいがく</rt></ruby>を <ruby>選<rt>えら</rt></ruby>んだんですか。",
+        "japanese": "どうして 富士大学を 選んだんですか。",
+        "hiragana": "どうして ふじだいがくを えらんだんですか。",
+        "romaji": "Doushite Fuji daigaku wo erandandesu ka.",
+        "translation_mm": "ဘာကြောင့် ဖူဂျီတက္ကသိုလ်ကို ရွေးချယ်ခဲ့တာလဲ။",
+        "translation_en": "Why did you choose Fuji University?"
+      },
+      "a": {
+        "speaker": "B",
+        "speaker_en": "B",
+        "jp": "……富士大学は 有名だし、いい 先生も 多いし、寮も ありますから。",
+        "ruby": "……<ruby>富士大学<rt>ふじだいがく</rt></ruby>は <ruby>有名<rt>ゆうめい</rt></ruby>だし、いい <ruby>先生<rt>せんせい</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>寮<rt>りょう</rt></ruby>も ありますから。",
+        "japanese": "……富士大学は 有名だし、いい 先生も 多いし、寮も ありますから。",
+        "hiragana": "……ふじだいがくは ゆうめいだし、いい せんせいも おおいし、りょうも ありますから。",
+        "romaji": "…… Fuji daigaku wa yuumei da shi, ii sensei mo ooi shi, ryou mo arimasu kara.",
+        "translation_mm": "……ဖူဂျီတက္ကသိုလ်က နာမည်ကြီးသည်လည်း ကြီး、ဆရာကောင်းများလည်း များပြီး、အဆောင်ပါ ရှိတာကြောင့်ပါ။",
+        "translation_en": "……Because Fuji University is famous, has great teachers, and has a dormitory."
+      }
+    }
+  ],
+  "kaiwa": {
+    "title_jp": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+    "title_mm": "ခရီးထွက်တာလည်း များသလို၊ စာမေးပွဲလည်း ရှိတယ်……",
+    "title_en": "I have many business trips, and exams too…",
+    "theme": "〜し ဖြင့် ငြင်းဆိုကြောင်း ရှင်းပြခြင်း",
+    "theme_en": "Explaining reasons for declining a request using ~し",
+    "scene": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby> (Ogawa Sachiko) က မီလာစံကို အင်္ဂလိပ်စကား ကျူရှင်ဆရာ ဖြစ်ပေးဖို့ တောင်းဆိုသည်",
+    "scene_en": "Ogawa Sachiko asks Miller to be her English conversation teacher",
+    "illustration": "Lesson_28_img01_Kaiwa_Drawing.webp",
+    "caption": "မီလာစံနှင့် ဩဂါဝါဆာချကို - ကျူရှင်ဆရာ တောင်းဆိုသော မြင်ကွင်း",
+    "dialogue": [
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "ミラーさん、ちょっと お願いが あるんですが。",
+        "ruby": "ミラーさん、ちょっと お<ruby>願<rt>ねが</rt></ruby>いが あるんですが。",
+        "japanese": "ミラーさん、ちょっと お願いが あるんですが。",
+        "hiragana": "みらーさん、ちょっと おねがいが あるんですが。",
+        "romaji": "Miraa san, chotto onegai ga arun desu ga.",
+        "mm_meaning": "မီလာစံ、နည်းနည်း မေတ္တာရပ်ခံချင်တာ ရှိလို့ပါ။",
+        "eng_meaning": "Mr. Miller, I have a small favor to ask.",
+        "translation_mm": "မီလာစံ、နည်းနည်း မေတ္တာရပ်ခံချင်တာ ရှိလို့ပါ။",
+        "translation_en": "Mr. Miller, I have a small favor to ask."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "何ですか。",
+        "ruby": "<ruby>何<rt>なん</rt></ruby>ですか。",
+        "japanese": "何ですか。",
+        "hiragana": "なんですか。",
+        "romaji": "Nan desu ka.",
+        "mm_meaning": "ဘာပါလဲ။",
+        "eng_meaning": "What is it?",
+        "translation_mm": "ဘာပါလဲ။",
+        "translation_en": "What is it?"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "実は 8月に オーストラリアへ ホームステイに 行くんです。",
+        "ruby": "<ruby>実<rt>じつ</rt></ruby>は 8<ruby>月<rt>がつ</rt></ruby>に オーストラリアへ ホームステイに <ruby>行<rt>い</rt></ruby>くんです。",
+        "japanese": "実は 8月に オーストラリアへ ホームステイに 行くんです。",
+        "hiragana": "じつは はちがつに おーすとらりあへ ほーむすていに いくんです。",
+        "romaji": "Jitsu wa hachigatsu ni Oosutoraria e hoomusutei ni ikundesu.",
+        "mm_meaning": "တကယ်တော့ ၈ လပိုင်းမှာ ဩစတြေးလျားကို Homestay သွားမှာပါ။",
+        "eng_meaning": "Actually, I'm going to Australia for a homestay in August.",
+        "translation_mm": "တကယ်တော့ ၈ လပိုင်းမှာ ဩစတြေးလျားကို Homestay သွားမှာပါ။",
+        "translation_en": "Actually, I'm going to Australia for a homestay in August."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "ホームステイですか。 いいですね。",
+        "ruby": "ホームステイですか。 いいですね。",
+        "japanese": "ホームステイですか。 いいですね。",
+        "hiragana": "ほーむすていですか。 いいですね。",
+        "romaji": "Hoomusutei desu ka. Ii desu ne.",
+        "mm_meaning": "Homestay တာလားဗျာ။ ကောင်းတာပဲနော်။",
+        "eng_meaning": "A homestay? That sounds great.",
+        "translation_mm": "Homestay တာလားဗျာ။ ကောင်းတာပဲနော်။",
+        "translation_en": "A homestay? That sounds great."
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "ええ。 それで 今 友達と 英語を 勉強して いるんですが……。",
+        "ruby": "ええ。 それで <ruby>今<rt>いま</rt></ruby> <ruby>友達<rt>ともだち</rt></ruby>と <ruby>英語<rt>えいご</rt></ruby>を <ruby>勉強<rt>べんきょう</rt></ruby>して いるんですが……。",
+        "japanese": "ええ。 それで 今 友達と 英語を 勉強して いるんですが……。",
+        "hiragana": "ええ。 それで いま ともだちと えいごを べんきょうして いるんですが……。",
+        "romaji": "Ee. Sorede ima tomodachi to eigo wo benkyou shite irun desu ga……",
+        "mm_meaning": "ဟုတ်ကဲ့ပါ။ ဒါကြောင့် အခု သူငယ်ချင်းနဲ့ အင်္ဂလိပ်စာ သင်နေပါသည်……。",
+        "eng_meaning": "Yes. So I've been studying English with a friend, but…",
+        "translation_mm": "ဟုတ်ကဲ့ပါ။ ဒါကြောင့် အခု သူငယ်ချင်းနဲ့ အင်္ဂလိပ်စာ သင်နေပါသည်……。",
+        "translation_en": "Yes. So I've been studying English with a friend, but…"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "ええ。",
+        "ruby": "ええ。",
+        "japanese": "ええ。",
+        "hiragana": "ええ。",
+        "romaji": "Ee.",
+        "mm_meaning": "ဟုတ်ကဲ့ပါ။",
+        "eng_meaning": "Yes.",
+        "translation_mm": "ဟုတ်ကဲ့ပါ။",
+        "translation_en": "Yes."
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "なかなか 上手に なりないんです。 先生も いないし、英語で 話す チャンスも ないし……。 ミラーさん、会話の 先生に なって いただけませんか。",
+        "ruby": "なかなか <ruby>上手<rt>じょうず</rt></ruby>に なりないんです。 <ruby>先生<rt>せんせい</rt></ruby>も いないし、<ruby>英語<rt>えいご</rt></ruby>で <ruby>話<rt>はな</rt></ruby>す チャンスも ないし……。 ミラーさん、<ruby>会話<rt>かいわ</rt></ruby>の <ruby>先生<rt>せんせい</rt></ruby>に なって いただけませんか。",
+        "japanese": "なかなか 上手に なりないんです。 先生も いないし、英語で 話す チャンスも ないし……。 ミラーさん、会話の 先生に なって いただけませんか。",
+        "hiragana": "なかなか じょうずに なりないんです。 せんせいも いないし、えいごで はなす ちゃんすも ないし……。 みらーさん、かいわの せんせいに なって いただけませんか。",
+        "romaji": "Nakanaka jouzu ni nara naindsu. Sensei mo inai shi, eigo de hanasu chansu mo nai shi…… Miraa san, kaiwa no sensei ni natte itadakemasen ka.",
+        "mm_meaning": "သိပ်ကျွမ်းကျင်မလာဘူးပဲ ဖြစ်နေတာပါ။ ဆရာ/မ လည်း မရှိ、အင်္ဂလိပ်လို ပြောဆိုနိုင်တဲ့ အခွင့်အရေးလည်း မရှိပဲ……။ မီလာစံ、စကားပြောဆရာ ဖြစ်ပေးနိုင်မလားခင်ဗျာ။",
+        "eng_meaning": "I can't seem to get better. There's no teacher, and no chance to speak in English… Mr. Miller, could you become my conversation teacher?",
+        "translation_mm": "သိပ်ကျွမ်းကျင်မလာဘူးပဲ ဖြစ်နေတာပါ။ ဆရာ/မ လည်း မရှိ、အင်္ဂလိပ်လို ပြောဆိုနိုင်တဲ့ အခွင့်အရေးလည်း မရှိပဲ……။ မီလာစံ、စကားပြောဆရာ ဖြစ်ပေးနိုင်မလားခင်ဗျာ။",
+        "translation_en": "I can't seem to get better. There's no teacher, and no chance to speak in English… Mr. Miller, could you become my conversation teacher?"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "え？ 先生に？ うーん、ちょっと 仕事が……。",
+        "ruby": "え？ <ruby>先生<rt>せんせい</rt></ruby>に？ うーん、ちょっと <ruby>仕事<rt>しごと</rt></ruby>が……。",
+        "japanese": "え？ 先生に？ うーん、ちょっと 仕事が……。",
+        "hiragana": "え？ せんせいに？ うーん、ちょっと しごとが……。",
+        "romaji": "E? Sensei ni? Uun, chotto shigoto ga……",
+        "mm_meaning": "ဘာ? ဆရာ ဖြစ်ပေးရမလား? အား…… နည်းနည်း အလုပ်ကကြောင်​ ……",
+        "eng_meaning": "What? Be a teacher? Hmm, it's a bit difficult with my work…",
+        "translation_mm": "ဘာ? ဆရာ ဖြစ်ပေးရမလား? အား…… နည်းနည်း အလုပ်ကကြောင်​ ……",
+        "translation_en": "What? Be a teacher? Hmm, it's a bit difficult with my work…"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "お暇な とき、お茶でも 飲みながら……。",
+        "ruby": "お<ruby>暇<rt>ひま</rt></ruby>な とき、お<ruby>茶<rt>ちゃ</rt></ruby>でも <ruby>飲<rt>の</rt></ruby>みながら……。",
+        "japanese": "お暇な とき、お茶でも 飲みながら……。",
+        "hiragana": "おひまな とき、おちゃでも のみながら……。",
+        "romaji": "Ohima na toki, ocha demo nominagara……",
+        "mm_meaning": "အားလပ်တဲ့အချိန်မှာ ဆေးဖျော်ရည်တောင်း သောက်ရင်းနဲ့ ……。",
+        "eng_meaning": "When you have free time, over tea or something…",
+        "translation_mm": "အားလပ်တဲ့အချိန်မှာ ဆေးဖျော်ရည်တောင်း သောက်ရင်းနဲ့ ……。",
+        "translation_en": "When you have free time, over tea or something…"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "うーん、出張も 多いし、もうすぐ 日本語の 試験も あるし……。",
+        "ruby": "うーん、<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、もうすぐ <ruby>日本語<rt>にほんご</rt></ruby>の <ruby>試験<rt>しけん</rt></ruby>も あるし……。",
+        "japanese": "うーん、出張も 多いし、もうすぐ 日本語の 試験も あるし……。",
+        "hiragana": "うーん、しゅっちょうも おおいし、もうすぐ にほんごの しけんも あるし……。",
+        "romaji": "Uun, shucchou mo ooi shi, mousugu nihongo no shiken mo aru shi……",
+        "mm_meaning": "အား……、ခရီးထွက်တာလည်း များတာ、မကြာမှီ ဂျပန်စာ စာမေးပွဲ​လည်း ရှိတာ……",
+        "eng_meaning": "Hmm… I have many business trips, and my Japanese exam is coming up soon…",
+        "translation_mm": "အား……、ခရီးထွက်တာလည်း များတာ、မကြာမှီ ဂျပန်စာ စာမေးပွဲ​လည်း ရှိတာ……",
+        "translation_en": "Hmm… I have many business trips, and my Japanese exam is coming up soon…"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "そうですか。",
+        "ruby": "そうですか。",
+        "japanese": "そうですか。",
+        "hiragana": "そうですか。",
+        "romaji": "Sou desu ka.",
+        "mm_meaning": "ဟုတ်လားဗျာ။",
+        "eng_meaning": "I see.",
+        "translation_mm": "ဟုတ်လားဗျာ။",
+        "translation_en": "I see."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "すみません。",
+        "ruby": "すみません。",
+        "japanese": "すみません。",
+        "hiragana": "すみません。",
+        "romaji": "Sumimasen.",
+        "mm_meaning": "တောင်းပန်ပါတယ်ခင်ဗျာ။",
+        "eng_meaning": "I'm sorry.",
+        "translation_mm": "တောင်းပန်ပါတယ်ခင်ဗျာ။",
+        "translation_en": "I'm sorry."
+      }
+    ],
+    "lines": [
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "ミラーさん、ちょっと お願いが あるんですが。",
+        "ruby": "ミラーさん、ちょっと お<ruby>願<rt>ねが</rt></ruby>いが あるんですが。",
+        "japanese": "ミラーさん、ちょっと お願いが あるんですが。",
+        "hiragana": "みらーさん、ちょっと おねがいが あるんですが。",
+        "romaji": "Miraa san, chotto onegai ga arun desu ga.",
+        "mm_meaning": "မီလာစံ、နည်းနည်း မေတ္တာရပ်ခံချင်တာ ရှိလို့ပါ။",
+        "eng_meaning": "Mr. Miller, I have a small favor to ask.",
+        "translation_mm": "မီလာစံ、နည်းနည်း မေတ္တာရပ်ခံချင်တာ ရှိလို့ပါ။",
+        "translation_en": "Mr. Miller, I have a small favor to ask."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "何ですか。",
+        "ruby": "<ruby>何<rt>なん</rt></ruby>ですか。",
+        "japanese": "何ですか。",
+        "hiragana": "なんですか。",
+        "romaji": "Nan desu ka.",
+        "mm_meaning": "ဘာပါလဲ။",
+        "eng_meaning": "What is it?",
+        "translation_mm": "ဘာပါလဲ။",
+        "translation_en": "What is it?"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "実は 8月に オーストラリアへ ホームステイに 行くんです。",
+        "ruby": "<ruby>実<rt>じつ</rt></ruby>は 8<ruby>月<rt>がつ</rt></ruby>に オーストラリアへ ホームステイに <ruby>行<rt>い</rt></ruby>くんです。",
+        "japanese": "実は 8月に オーストラリアへ ホームステイに 行くんです。",
+        "hiragana": "じつは はちがつに おーすとらりあへ ほーむすていに いくんです。",
+        "romaji": "Jitsu wa hachigatsu ni Oosutoraria e hoomusutei ni ikundesu.",
+        "mm_meaning": "တကယ်တော့ ၈ လပိုင်းမှာ ဩစတြေးလျားကို Homestay သွားမှာပါ။",
+        "eng_meaning": "Actually, I'm going to Australia for a homestay in August.",
+        "translation_mm": "တကယ်တော့ ၈ လပိုင်းမှာ ဩစတြေးလျားကို Homestay သွားမှာပါ။",
+        "translation_en": "Actually, I'm going to Australia for a homestay in August."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "ホームステイですか。 いいですね。",
+        "ruby": "ホームステイですか。 いいですね。",
+        "japanese": "ホームステイですか。 いいですね。",
+        "hiragana": "ほーむすていですか。 いいですね。",
+        "romaji": "Hoomusutei desu ka. Ii desu ne.",
+        "mm_meaning": "Homestay တာလားဗျာ။ ကောင်းတာပဲနော်။",
+        "eng_meaning": "A homestay? That sounds great.",
+        "translation_mm": "Homestay တာလားဗျာ။ ကောင်းတာပဲနော်။",
+        "translation_en": "A homestay? That sounds great."
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "ええ。 それで 今 友達と 英語を 勉強して いるんですが……。",
+        "ruby": "ええ。 それで <ruby>今<rt>いま</rt></ruby> <ruby>友達<rt>ともだち</rt></ruby>と <ruby>英語<rt>えいご</rt></ruby>を <ruby>勉強<rt>べんきょう</rt></ruby>して いるんですが……。",
+        "japanese": "ええ。 それで 今 友達と 英語を 勉強して いるんですが……。",
+        "hiragana": "ええ。 それで いま ともだちと えいごを べんきょうして いるんですが……。",
+        "romaji": "Ee. Sorede ima tomodachi to eigo wo benkyou shite irun desu ga……",
+        "mm_meaning": "ဟုတ်ကဲ့ပါ။ ဒါကြောင့် အခု သူငယ်ချင်းနဲ့ အင်္ဂလိပ်စာ သင်နေပါသည်……。",
+        "eng_meaning": "Yes. So I've been studying English with a friend, but…",
+        "translation_mm": "ဟုတ်ကဲ့ပါ။ ဒါကြောင့် အခု သူငယ်ချင်းနဲ့ အင်္ဂလိပ်စာ သင်နေပါသည်……。",
+        "translation_en": "Yes. So I've been studying English with a friend, but…"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "ええ。",
+        "ruby": "ええ。",
+        "japanese": "ええ。",
+        "hiragana": "ええ。",
+        "romaji": "Ee.",
+        "mm_meaning": "ဟုတ်ကဲ့ပါ။",
+        "eng_meaning": "Yes.",
+        "translation_mm": "ဟုတ်ကဲ့ပါ။",
+        "translation_en": "Yes."
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "なかなか 上手に なりないんです。 先生も いないし、英語で 話す チャンスも ないし……。 ミラーさん、会話の 先生に なって いただけませんか。",
+        "ruby": "なかなか <ruby>上手<rt>じょうず</rt></ruby>に なりないんです。 <ruby>先生<rt>せんせい</rt></ruby>も いないし、<ruby>英語<rt>えいご</rt></ruby>で <ruby>話<rt>はな</rt></ruby>す チャンスも ないし……。 ミラーさん、<ruby>会話<rt>かいわ</rt></ruby>の <ruby>先生<rt>せんせい</rt></ruby>に なって いただけませんか。",
+        "japanese": "なかなか 上手に なりないんです。 先生も いないし、英語で 話す チャンスも ないし……。 ミラーさん、会話の 先生に なって いただけませんか。",
+        "hiragana": "なかなか じょうずに なりないんです。 せんせいも いないし、えいごで はなす ちゃんすも ないし……。 みらーさん、かいわの せんせいに なって いただけませんか。",
+        "romaji": "Nakanaka jouzu ni nara naindsu. Sensei mo inai shi, eigo de hanasu chansu mo nai shi…… Miraa san, kaiwa no sensei ni natte itadakemasen ka.",
+        "mm_meaning": "သိပ်ကျွမ်းကျင်မလာဘူးပဲ ဖြစ်နေတာပါ။ ဆရာ/မ လည်း မရှိ、အင်္ဂလိပ်လို ပြောဆိုနိုင်တဲ့ အခွင့်အရေးလည်း မရှိပဲ……။ မီလာစံ、စကားပြောဆရာ ဖြစ်ပေးနိုင်မလားခင်ဗျာ။",
+        "eng_meaning": "I can't seem to get better. There's no teacher, and no chance to speak in English… Mr. Miller, could you become my conversation teacher?",
+        "translation_mm": "သိပ်ကျွမ်းကျင်မလာဘူးပဲ ဖြစ်နေတာပါ။ ဆရာ/မ လည်း မရှိ、အင်္ဂလိပ်လို ပြောဆိုနိုင်တဲ့ အခွင့်အရေးလည်း မရှိပဲ……။ မီလာစံ、စကားပြောဆရာ ဖြစ်ပေးနိုင်မလားခင်ဗျာ။",
+        "translation_en": "I can't seem to get better. There's no teacher, and no chance to speak in English… Mr. Miller, could you become my conversation teacher?"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "え？ 先生に？ うーん、ちょっと 仕事が……。",
+        "ruby": "え？ <ruby>先生<rt>せんせい</rt></ruby>に？ うーん、ちょっと <ruby>仕事<rt>しごと</rt></ruby>が……。",
+        "japanese": "え？ 先生に？ うーん、ちょっと 仕事が……。",
+        "hiragana": "え？ せんせいに？ うーん、ちょっと しごとが……。",
+        "romaji": "E? Sensei ni? Uun, chotto shigoto ga……",
+        "mm_meaning": "ဘာ? ဆရာ ဖြစ်ပေးရမလား? အား…… နည်းနည်း အလုပ်ကကြောင်​ ……",
+        "eng_meaning": "What? Be a teacher? Hmm, it's a bit difficult with my work…",
+        "translation_mm": "ဘာ? ဆရာ ဖြစ်ပေးရမလား? အား…… နည်းနည်း အလုပ်ကကြောင်​ ……",
+        "translation_en": "What? Be a teacher? Hmm, it's a bit difficult with my work…"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "お暇な とき、お茶でも 飲みながら……。",
+        "ruby": "お<ruby>暇<rt>ひま</rt></ruby>な とき、お<ruby>茶<rt>ちゃ</rt></ruby>でも <ruby>飲<rt>の</rt></ruby>みながら……。",
+        "japanese": "お暇な とき、お茶でも 飲みながら……。",
+        "hiragana": "おひまな とき、おちゃでも のみながら……。",
+        "romaji": "Ohima na toki, ocha demo nominagara……",
+        "mm_meaning": "အားလပ်တဲ့အချိန်မှာ ဆေးဖျော်ရည်တောင်း သောက်ရင်းနဲ့ ……。",
+        "eng_meaning": "When you have free time, over tea or something…",
+        "translation_mm": "အားလပ်တဲ့အချိန်မှာ ဆေးဖျော်ရည်တောင်း သောက်ရင်းနဲ့ ……。",
+        "translation_en": "When you have free time, over tea or something…"
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "うーん、出張も 多いし、もうすぐ 日本語の 試験も あるし……。",
+        "ruby": "うーん、<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、もうすぐ <ruby>日本語<rt>にほんご</rt></ruby>の <ruby>試験<rt>しけん</rt></ruby>も あるし……。",
+        "japanese": "うーん、出張も 多いし、もうすぐ 日本語の 試験も あるし……。",
+        "hiragana": "うーん、しゅっちょうも おおいし、もうすぐ にほんごの しけんも あるし……。",
+        "romaji": "Uun, shucchou mo ooi shi, mousugu nihongo no shiken mo aru shi……",
+        "mm_meaning": "အား……、ခရီးထွက်တာလည်း များတာ、မကြာမှီ ဂျပန်စာ စာမေးပွဲ​လည်း ရှိတာ……",
+        "eng_meaning": "Hmm… I have many business trips, and my Japanese exam is coming up soon…",
+        "translation_mm": "အား……、ခရီးထွက်တာလည်း များတာ、မကြာမှီ ဂျပန်စာ စာမေးပွဲ​လည်း ရှိတာ……",
+        "translation_en": "Hmm… I have many business trips, and my Japanese exam is coming up soon…"
+      },
+      {
+        "speaker": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_en": "Ogawa Sachiko",
+        "speaker_ruby": "<ruby>小川幸子<rt>おがわさちこ</rt></ruby>",
+        "speaker_role": "left",
+        "avatar": "小",
+        "jp": "そうですか。",
+        "ruby": "そうですか。",
+        "japanese": "そうですか。",
+        "hiragana": "そうですか。",
+        "romaji": "Sou desu ka.",
+        "mm_meaning": "ဟုတ်လားဗျာ။",
+        "eng_meaning": "I see.",
+        "translation_mm": "ဟုတ်လားဗျာ။",
+        "translation_en": "I see."
+      },
+      {
+        "speaker": "ミラー",
+        "speaker_en": "Miller",
+        "speaker_ruby": "ミラー",
+        "speaker_role": "right",
+        "avatar": "米",
+        "jp": "すみません。",
+        "ruby": "すみません。",
+        "japanese": "すみません。",
+        "hiragana": "すみません。",
+        "romaji": "Sumimasen.",
+        "mm_meaning": "တောင်းပန်ပါတယ်ခင်ဗျာ။",
+        "eng_meaning": "I'm sorry.",
+        "translation_mm": "တောင်းပန်ပါတယ်ခင်ဗျာ။",
+        "translation_en": "I'm sorry."
+      }
+    ],
+    "title": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+    "title_ruby": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+    "title_hiragana": "しゅっちょうも おおいし、しけんも あるし……",
+    "title_romaji": "Shucchou mo ooi shi, shiken mo aru shi......"
+  },
+  "renshuua": [
+    {
+      "section": 1,
+      "num": 1,
+      "title": "<ruby>写真<rt>しゃしん</rt></ruby>を <ruby>見<rt>み</rt></ruby>せながら <ruby>説明<rt>せつめい</rt></ruby>します",
+      "title_en": "Explaining while showing photos (~nagara Simultaneous actions)",
+      "table": [
+        {
+          "cols": [
+            "<ruby>写真<rt>しゃしん</rt></ruby>を",
+            "みせ",
+            "ながら",
+            "<ruby>説明<rt>せつめい</rt></ruby>します。"
+          ],
+          "highlight_indices": [
+            1
+          ]
+        },
+        {
+          "cols": [
+            "ガムを",
+            "かみ",
+            "ながら",
+            "<ruby>先生<rt>せんせい</rt></ruby>の <ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>いては いけません。"
+          ],
+          "highlight_indices": [
+            1
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "はたらき",
+            "ながら",
+            "<ruby>日本語<rt>にほんご</rt></ruby>を <ruby>勉強<rt>べんきょう</rt></ruby>して います。"
+          ],
+          "highlight_indices": [
+            1
+          ]
+        },
+        {
+          "cols": [
+            "<ruby>大学<rt>だいがく</rt></ruby>で",
+            "おしえ",
+            "ながら",
+            "<ruby>研究<rt>けんきゅう</rt></ruby>して います。"
+          ],
+          "highlight_indices": [
+            1
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "num": 1,
+          "japanese": "写真を みせながら 説明します。",
+          "jp": "写真を みせながら 説明します。",
+          "ruby": "<ruby>写真<rt>しゃしん</rt></ruby>を みせながら <ruby>説明<rt>せつめい</rt></ruby>します。",
+          "romaji": "Shashin o misenagara setsumei shimasu.",
+          "hiragana": "しゃしんを みせながら せつめいします。",
+          "translation_mm": "ဓာတ်ပုံပြရင်း ရှင်းပြပါမည်။",
+          "translation_en": "I will explain while showing pictures."
+        },
+        {
+          "num": 2,
+          "japanese": "ガムを かみながら 先生の 話を 聞いては いけません。",
+          "jp": "ガムを かみながら 先生の 話を 聞いては いけません。",
+          "ruby": "ガムを かみながら <ruby>先生<rt>せんせい</rt></ruby>の <ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>いては いけません。",
+          "romaji": "Gamu o kaminagara sensei no hanashi o kiite wa ikemasen.",
+          "hiragana": "がむを かみながら せんせいの はなしを きいては いけません。",
+          "translation_mm": "ပီကေဝါးရင်း ဆရာပြောတာကို နားမထောင်ရပါ။",
+          "translation_en": "You must not listen to the teacher while chewing gum."
+        },
+        {
+          "num": 3,
+          "japanese": "働きながら 日本語を 勉強して います。",
+          "jp": "働きながら 日本語を 勉強して います。",
+          "ruby": "<ruby>働<rt>はたら</rt></ruby>きながら <ruby>日本語<rt>にほんご</rt></ruby>を <ruby>勉強<rt>べんきょう</rt></ruby>して います。",
+          "romaji": "Hatarakinagara nihongo o benkyou shite imasu.",
+          "hiragana": "はたらきながら にほんごを べんきょうして います。",
+          "translation_mm": "အလုပ်လုပ်ရင်း ဂျပန်စာ လေ့လာနေပါသည်။",
+          "translation_en": "I am studying Japanese while working."
+        },
+        {
+          "num": 4,
+          "japanese": "大学で 教えながら 研究して います。",
+          "jp": "大学で 教えながら 研究して います。",
+          "ruby": "<ruby>大学<rt>だいがく</rt></ruby>で <ruby>教<rt>おし</rt></ruby>えながら <ruby>研究<rt>けんきゅう</rt></ruby>して います。",
+          "romaji": "Daigaku de oshienagara kenkyuu shite imasu.",
+          "hiragana": "だいがくで おしえながら けんきゅうして います。",
+          "translation_mm": "တက္ကသိုလ်တွင် သင်ကြားရင်း သုတေသန ပြုလုပ်နေပါသည်။",
+          "translation_en": "I am doing research while teaching at university."
+        }
+      ],
+      "note": "【Vます<ruby>形<rt>けい</rt></ruby> ＋ ながら】 <ruby>同<rt>どう</rt></ruby><ruby>時<rt>とき</rt></ruby>に <ruby>行<rt>おこな</rt></ruby>う <ruby>二<rt>ふた</rt></ruby>つの <ruby>動作<rt>どうさ</rt></ruby>を <ruby>表<rt>あらわ</rt></ruby>します。 <ruby>後<rt>うし</rt></ruby>ろの <ruby>動作<rt>どうさ</rt></ruby>が <ruby>主動<rt>しゅどう</rt></ruby><ruby>作<rt>さく</rt></ruby>です。",
+      "note_en": "【Verb ます-stem + ながら】 Used to express two actions happening at the same time. The main action follows after.",
+      "title_ruby": "<ruby>写真<rt>しゃしん</rt></ruby>を <ruby>見<rt>み</rt></ruby>せながら <ruby>説明<rt>せつめい</rt></ruby>します",
+      "title_hiragana": "しゃしんを みせながら せつめいします",
+      "title_romaji": "Shashin o misenagara setsumei shimasu",
+      "title_translation_mm": "ဓာတ်ပုံပြရင်း ရှင်းပြပါမည် (〜ながら တစ်ပြိုင်နက်လုပ်ဆောင်ခြင်း)",
+      "title_translation_en": "Explaining while showing photos (~nagara Simultaneous actions)",
+      "pattern": "Vます形 ＋ ながら",
+      "pattern_ruby": "Vます<ruby>形<rt>けい</rt></ruby> ＋ ながら",
+      "pattern_hiragana": "Vますけい ＋ ながら",
+      "pattern_romaji": "V-masu-kei + nagara",
+      "pattern_translation_mm": "ကြိယာ ます ဖြုတ် + ながら (တစ်ပြိုင်နက် လုပ်ဆောင်ခြင်း)",
+      "pattern_translation_en": "Verb stem + nagara (Doing while doing)",
+      "note_ruby": "【Vます<ruby>形<rt>けい</rt></ruby> ＋ ながら】 <ruby>同<rt>どう</rt></ruby><ruby>時<rt>とき</rt></ruby>に <ruby>行<rt>おこな</rt></ruby>う <ruby>二<rt>ふた</rt></ruby>つの <ruby>動作<rt>どうさ</rt></ruby>を <ruby>表<rt>あらわ</rt></ruby>します。 <ruby>後<rt>うし</rt></ruby>ろの <ruby>動作<rt>どうさ</rt></ruby>が <ruby>主動<rt>しゅどう</rt></ruby><ruby>作<rt>さく</rt></ruby>です。",
+      "note_hiragana": "【Vますけい ＋ ながら】 どうじに おこなう ふたつの どうさを あらわします。 うしろの どうさが しゅどうさです。",
+      "note_romaji": "[V masukei + nagara] Douji ni okonau futatsu no dousa o arawashimasu. Ushiro no dousa ga shudousa desu.",
+      "note_translation_mm": "【Vます<ruby>形<rt>けい</rt></ruby> (ます ဖြုတ်) ＋ ながら】 တစ်ပြိုင်နက်တည်း ပြုမူဆောင်ရွက်သော အပြုအမူ ၂ ခုကို ဖော်ပြရာတွင် သုံးပါသည်။ နောက်မှလိုက်သော ကြိယာသည် အဓိကပြုမူမှု (main action) ဖြစ်ပါသည်။",
+      "note_translation_en": "【Verb ます-stem + ながら】 Used to express two actions happening at the same time. The main action follows after."
+    },
+    {
+      "section": 2,
+      "num": 2,
+      "title": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>絵<rt>え</rt></ruby>を <ruby>描<rt>か</rt></ruby>いて います",
+      "title_en": "Painting on days off (~te imasu Habitual action)",
+      "table": [
+        {
+          "cols": [
+            "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は",
+            "<ruby>絵<rt>え</rt></ruby>を",
+            "かいて",
+            "います。"
+          ],
+          "highlight_indices": [
+            2
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "<ruby>息子<rt>むすこ</rt></ruby>と <ruby>釣<rt>つ</rt></ruby>りに",
+            "いって",
+            "います。"
+          ],
+          "highlight_indices": [
+            2
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "<ruby>娘<rt>むすめ</rt></ruby>と <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>ったり、<ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>たり",
+            "して",
+            "います。"
+          ],
+          "highlight_indices": [
+            2
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "num": 1,
+          "japanese": "休みの 日は 絵を かいて います。",
+          "jp": "休みの 日は 絵を かいて います。",
+          "ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>絵<rt>え</rt></ruby>を かいて います。",
+          "romaji": "Yasumi no hi wa e o kaite imasu.",
+          "hiragana": "やすみの ひは えを かいて います。",
+          "translation_mm": "အားလပ်ရက်များတွင် ပန်းချီဆွဲလေ့ရှိပါသည်။",
+          "translation_en": "On holidays, I draw pictures."
+        },
+        {
+          "num": 2,
+          "japanese": "休みの 日は 息子と 釣りに 行って います。",
+          "jp": "休みの 日は 息子と 釣りに 行って います。",
+          "ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>息子<rt>むすこ</rt></ruby>と <ruby>釣<rt>つ</rt></ruby>りに <ruby>行<rt>い</rt></ruby>って います。",
+          "romaji": "Yasumi no hi wa musuko to tsuri ni itte imasu.",
+          "hiragana": "やすみの ひは むすこと つりに いって います。",
+          "translation_mm": "အားလပ်ရက်များတွင် သားဖြစ်သူနှင့် ငါးမျှားသွားလေ့ရှိပါသည်။",
+          "translation_en": "On holidays, I go fishing with my son."
+        },
+        {
+          "num": 3,
+          "japanese": "休みの 日は 娘と 買い物に 行ったり、映画を 見たり して います。",
+          "jp": "休みの 日は 娘と 買い物に 行ったり、映画を 見たり して います。",
+          "ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>娘<rt>むすめ</rt></ruby>と <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>ったり、<ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>たり して います。",
+          "romaji": "Yasumi no hi wa musume to kaimono ni ittari, eiga o mitari shite imasu.",
+          "hiragana": "やすみの ひは むすめと かいものに いったり、えいがを みたり して います。",
+          "translation_mm": "အားလပ်ရက်များတွင် သမီးဖြစ်သူနှင့် ဈေးဝယ်ထွက်ခြင်း၊ ရုပ်ရှင်ကြည့်ခြင်းများ ပြုလုပ်လေ့ရှိပါသည်။",
+          "translation_en": "On holidays, I go shopping and watch movies with my daughter."
+        }
+      ],
+      "note": "【Vています】 <ruby>習慣的<rt>しゅうかんてき</rt></ruby>に <ruby>繰り返<rt>くりかえ</rt></ruby>して <ruby>行<rt>おこな</rt></ruby>われる <ruby>動作<rt>どうさ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
+      "note_en": "【V-te imasu】 Expresses a habitual, ongoing activity or custom carried out periodically over time.",
+      "title_ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>絵<rt>え</rt></ruby>を <ruby>描<rt>か</rt></ruby>いて います",
+      "title_hiragana": "やすみの ひは えを かいて います",
+      "title_romaji": "Yasumi no hi wa e o kaite imasu",
+      "title_translation_mm": "အားလပ်ရက်များတွင် ပန်းချီဆွဲလေ့ရှိပါသည် (〜ています အလေ့အထပြ)",
+      "title_translation_en": "Painting on days off (~te imasu Habitual action)",
+      "pattern": "Vて形 ＋ います",
+      "pattern_ruby": "Vて<ruby>形<rt>けい</rt></ruby> ＋ います",
+      "pattern_hiragana": "Vてけい ＋ います",
+      "pattern_romaji": "V-te-kei + imasu",
+      "pattern_translation_mm": "ကြိယာ て ပုံစံ + います (ပုံမှန် အလေ့အထ)",
+      "pattern_translation_en": "Verb te-form + imasu (Habitual action)",
+      "note_ruby": "【Vています】 <ruby>習慣的<rt>しゅうかんてき</rt></ruby>に <ruby>繰り返<rt>くりかえ</rt></ruby>して <ruby>行<rt>おこな</rt></ruby>われる <ruby>動作<rt>どうさ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>します。",
+      "note_hiragana": "【Vています】 しゅうかんてきに くりかえして おこなわれる どうさを あらわします。",
+      "note_romaji": "[V te imasu] Shuukanteki ni kurikaeshite okonawareru dousa o arawashimasu.",
+      "note_translation_mm": "【Vています】 အလေ့အထအရ အချိန်ကာလတစ်ခုအတွင်း ပုံမှန်ထပ်ခါတလဲလဲ ပြုလုပ်လေ့ရှိသော အပြုအမူများကို ဖော်ပြရာတွင် သုံးပါသည်။",
+      "note_translation_en": "【V-te imasu】 Expresses a habitual, ongoing activity or custom carried out periodically over time."
+    },
+    {
+      "section": 3,
+      "num": 3,
+      "title": "<ruby>鈴木<rt>すずき</rt></ruby>さんは ピアノも <ruby>弾<rt>ひ</rt></ruby>けるし、<ruby>歌<rt>うた</rt></ruby>も <ruby>歌<rt>うた</rt></ruby>えるし、それに ダンスも できます",
+      "title_en": "Mr. Suzuki can play piano, sing, and dance (~shi, ~shi Listing qualities)",
+      "table": [
+        {
+          "cols": [
+            "<ruby>鈴木<rt>すずき</rt></ruby>さんは",
+            "ピアノも",
+            "ひける",
+            "し、",
+            "<ruby>歌<rt>うた</rt></ruby>も",
+            "うたえる",
+            "し、それに",
+            "ダンスも できます。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "",
+            "わかい",
+            "し、",
+            "<ruby>体<rt>からだ</rt></ruby>も",
+            "おおきい",
+            "し、それに",
+            "<ruby>力<rt>ちから</rt></ruby>も <ruby>強<rt>つよ</rt></ruby>いです。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "",
+            "まじめだ",
+            "し、",
+            "<ruby>中国語<rt>ちゅうごくご</rt></ruby>も",
+            "じょうずだ",
+            "し、それに",
+            "<ruby>経験<rt>けいけん</rt></ruby>も あります。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "num": 1,
+          "japanese": "鈴木さんは ピアノも 弾けるし、歌も 歌えるし、それに ダンスも できます。",
+          "jp": "鈴木さんは ピアノも 弾けるし、歌も 歌えるし、それに ダンスも できます。",
+          "ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは ピアノも <ruby>弾<rt>ひ</rt></ruby>けるし、<ruby>歌<rt>うた</rt></ruby>も <ruby>歌<rt>うた</rt></ruby>えるし、それに ダンスも できます。",
+          "romaji": "Suzuki-san wa piano mo hikeru shi, uta mo utaeru shi, soreni dansu mo dekimasu.",
+          "hiragana": "すずきさんは ぴあのも ひけるし、うたも うたえるし、それに だんすも できます。",
+          "translation_mm": "ဆူဇူကီးဆန်က စန္ဒရားလည်း တီးတတ်သလို သီချင်းလည်း ဆိုတတ်ပြီး ကလည်း ကတတ်ပါသည်။",
+          "translation_en": "Mr. Suzuki can play piano, can sing, and moreover can dance."
+        },
+        {
+          "num": 2,
+          "japanese": "鈴木さんは 若いし、体も 大きいし、それに 力も 強いです。",
+          "jp": "鈴木さんは 若いし、体も 大きいし、それに 力も 強いです。",
+          "ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは <ruby>若<rt>わか</rt></ruby>いし、<ruby>体<rt>からだ</rt></ruby>も <ruby>大<rt>おお</rt></ruby>きいし、それに <ruby>力<rt>ちから</rt></ruby>も <ruby>強<rt>つよ</rt></ruby>いです。",
+          "romaji": "Suzuki-san wa wakai shi, karada mo ookii shi, soreni chikara mo tsuyoi desu.",
+          "hiragana": "すずきさんは わかいし、からだも おおきいし、それに ちからも つよいです。",
+          "translation_mm": "ဆူဇူကီးဆန်က ငယ်ရွယ်ပြီး ခန္ဓာကိုယ်လည်း ထွားကြိုင်းသလို အားလည်း သန်ပါသည်။",
+          "translation_en": "Mr. Suzuki is young, large-built, and moreover strong."
+        },
+        {
+          "num": 3,
+          "japanese": "鈴木さんは まじめだし、中国語も 上手だし、それに 経験も あります。",
+          "jp": "鈴木さんは まじめだし、中国語も 上手だし、それに 経験も あります。",
+          "ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは まじめだし、<ruby>中国語<rt>ちゅうごくご</rt></ruby>も <ruby>上手<rt>じょうず</rt></ruby>だし、それに <ruby>経験<rt>けいけん</rt></ruby>も あります。",
+          "romaji": "Suzuki-san wa majime da shi, chuugokugo mo jouzu da shi, soreni keiken mo arimasu.",
+          "hiragana": "すずきさんは まじめだし、ちゅうごくごも じょうずだし、それに けいけんも あります。",
+          "translation_mm": "ဆူဇူကီးဆန်က ရိုးသားကြိုးစားပြီး တရုတ်စကားလည်း ကျွမ်းကျင်သလို အတွေ့အကြုံလည်း ရှိပါသည်။",
+          "translation_en": "Mr. Suzuki is earnest, good at Chinese, and moreover has experience."
+        }
+      ],
+      "note": "【〜し、〜し、それに...】 <ruby>同<rt>おな</rt></ruby>じ<ruby>性質<rt>せいしつ</rt></ruby>の <ruby>事柄<rt>ことがら</rt></ruby>や <ruby>特徴<rt>とくちょう</rt></ruby>を <ruby>並<rt>な</rt></ruby>べて <ruby>述<rt>の</rt></ruby>べる<ruby>時<rt>とき</rt></ruby>に <ruby>使<rt>つか</rt></ruby>います。",
+      "note_en": "【~shi, ~shi, soreni...】 Used to list two or more reasons, traits, or aspects about the same topic.",
+      "title_ruby": "<ruby>鈴木<rt>すずき</rt></ruby>さんは ピアノも <ruby>弾<rt>ひ</rt></ruby>けるし、<ruby>歌<rt>うた</rt></ruby>も <ruby>歌<rt>うた</rt></ruby>えるし、それに ダンスも できます",
+      "title_hiragana": "すずきさんは ピアノも ひけるし、うたも うたえるし、それに ダンスも できます",
+      "title_romaji": "Suzuki-san wa piano mo hikeru shi, uta mo utaeru shi, soreni dansu mo dekimasu",
+      "title_translation_mm": "ဆူဇူခိစံသည် စန္ဒရားလည်း တီးနိုင်၊ သီချင်းလည်း ဆိုနိုင်သည့်အပြင် အကလည်း ကနိုင်သည် (〜し、〜し အချက်အလက်များ ဆက်တိုက်ဖော်ပြခြင်း)",
+      "title_translation_en": "Mr. Suzuki can play piano, sing, and dance (~shi, ~shi Listing qualities)",
+      "pattern": "普通形 ＋ し、普通形 ＋ し、それに 〜",
+      "pattern_ruby": "<ruby>普通形<rt>ふつうけい</rt></ruby> ＋ し、<ruby>普通形<rt>ふつうけい</rt></ruby> ＋ し、それに 〜",
+      "pattern_hiragana": "ふつうけい ＋ し、ふつうけい ＋ し、それに 〜",
+      "pattern_romaji": "Futsuukei + shi, Futsuukei + shi, soreni ~",
+      "pattern_translation_mm": "... လည်း ... သလို၊ ... လည်း ... သည့်အပြင် ...",
+      "pattern_translation_en": "Not only..., but also..., and on top of that...",
+      "note_ruby": "【〜し、〜し、それに...】 <ruby>同<rt>おな</rt></ruby>じ<ruby>性質<rt>せいしつ</rt></ruby>の <ruby>事柄<rt>ことがら</rt></ruby>や <ruby>特徴<rt>とくちょう</rt></ruby>を <ruby>並<rt>な</rt></ruby>べて <ruby>述<rt>の</rt></ruby>べる<ruby>時<rt>とき</rt></ruby>に <ruby>使<rt>つか</rt></ruby>います。",
+      "note_hiragana": "【〜し、〜し、それに...】 おなじせいしつの ことがらや とくちょうを ならべて のべるときに つかいます。",
+      "note_romaji": "[~ shi, ~ shi, soreni...] Onaji seishitsu no kotogara ya tokuchou o narabete noberu toki ni tsukaimasu.",
+      "note_translation_mm": "【〜し、〜し、それに...】 တူညီသော သဘောသဘာဝရှိသည့် အချက်အလက်များ သို့မဟုတ် အရည်အချင်းများကို ဆက်တိုက်ဖော်ပြလိုသည့်အခါ သုံးပါသည်။",
+      "note_translation_en": "【~shi, ~shi, soreni...】 Used to list two or more reasons, traits, or aspects about the same topic."
+    },
+    {
+      "section": 4,
+      "num": 4,
+      "title": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かだし、<ruby>広<rt>ひろ</rt></ruby>いし、いつも ここで <ruby>食<rt>た</rt></ruby>べて います",
+      "title_en": "This shop is quiet and spacious, so I always eat here (~shi, ~shi Stating reasons for action)",
+      "table": [
+        {
+          "cols": [
+            "この <ruby>店<rt>みせ</rt></ruby>は",
+            "",
+            "しずかだ",
+            "し、",
+            "",
+            "ひろい",
+            "し、",
+            "いつも ここで <ruby>食<rt>た</rt></ruby>べて います。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "<ruby>値段<rt>ねだん</rt></ruby>も",
+            "やすい",
+            "し、",
+            "<ruby>味<rt>あじ</rt></ruby>も",
+            "いい",
+            "し、",
+            "いつも ここで <ruby>食<rt>た</rt></ruby>べて います。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        },
+        {
+          "cols": [
+            "",
+            "おすしも",
+            "ある",
+            "し、",
+            "カレーライスも",
+            "ある",
+            "し、",
+            "いつも ここで <ruby>食<rt>た</rt></ruby>べて います。"
+          ],
+          "highlight_indices": [
+            2,
+            5
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "num": 1,
+          "japanese": "この 店は 静かだし、広いし、いつも ここで 食べて います。",
+          "jp": "この 店は 静かだし、広いし、いつも ここで 食べて います。",
+          "ruby": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かだし、<ruby>広<rt>ひろ</rt></ruby>いし、いつも ここで <ruby>食<rt>た</rt></ruby>べて います。",
+          "romaji": "Kono mise wa shizuka da shi, hiroi shi, itsumo koko de tabete imasu.",
+          "hiragana": "この みせは しずかだし、ひろいし、いつも ここで たべて います。",
+          "translation_mm": "ဒီဆိုင်က တိတ်ဆိတ်ပြီး ကျယ်ဝန်းတာကြောင့် ဒီမှာ အမြဲ စားလေ့ရှိပါသည်။",
+          "translation_en": "This shop is quiet and spacious, so I always eat here."
+        },
+        {
+          "num": 2,
+          "japanese": "この 店は 値段も 安いし、味も いいし、いつも ここで 食べて います。",
+          "jp": "この 店は 値段も 安いし、味も いいし、いつも ここで 食べて います。",
+          "ruby": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>値段<rt>ねだん</rt></ruby>も <ruby>安<rt>やす</rt></ruby>いし、<ruby>味<rt>あじ</rt></ruby>も いいし、いつも ここで <ruby>食<rt>た</rt></ruby>べて います。",
+          "romaji": "Kono mise wa nedan mo yasui shi, aji mo ii shi, itsumo koko de tabete imasu.",
+          "hiragana": "この みせは ねだんも やすいし、あじも いいし、いつも ここで たべて います。",
+          "translation_mm": "ဒီဆိုင်က ဈေးလည်း ချိုသာပြီး အရသာလည်း ကောင်းတာကြောင့် ဒီမှာ အမြဲ စားလေ့ရှိပါသည်။",
+          "translation_en": "This shop is cheap and tastes good, so I always eat here."
+        },
+        {
+          "num": 3,
+          "japanese": "この 店は おすしも あるし、カレーライスも あるし、いつも ここで 食べて います。",
+          "jp": "この 店は おすしも あるし、カレーライスも あるし、いつも ここで 食べて います。",
+          "ruby": "この <ruby>店<rt>みせ</rt></ruby>は おすしも あるし、カレーライスも あるし、いつも ここで <ruby>食<rt>た</rt></ruby>べて います。",
+          "romaji": "Kono mise wa osushi mo aru shi, kare-raisu mo aru shi, itsumo koko de tabete imasu.",
+          "hiragana": "この みせは おすしも あるし、かれーらいすも あるし、いつも ここで たべて います。",
+          "translation_mm": "ဒီဆိုင်မှာ ဆူရှီလည်း ရှိသလို ကာရီထမင်းလည်း ရှိတာကြောင့် ဒီမှာ အမြဲ စားလေ့ရှိပါသည်။",
+          "translation_en": "This shop has sushi and curry rice, so I always eat here."
+        }
+      ],
+      "note": "【〜し、〜し、(<ruby>結果<rt>けっか</rt></ruby>/<ruby>行動<rt>こうどう</rt></ruby>)】 <ruby>複数<rt>ふくすう</rt></ruby>の <ruby>理由<rt>りゆう</rt></ruby>を <ruby>挙<rt>あ</rt></ruby>げて、<ruby>結論<rt>けつろん</rt></ruby>や <ruby>行動<rt>こうどう</rt></ruby>を <ruby>述<rt>の</rt></ruby>べます。",
+      "note_en": "【~shi, ~shi, (Action/Result)】 States multiple reasons leading up to a habitual conclusion or choice.",
+      "title_ruby": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かだし、<ruby>広<rt>ひろ</rt></ruby>いし、いつも ここで <ruby>食<rt>た</rt></ruby>べて います",
+      "title_hiragana": "この みせは しずかだし、ひろいし、いつも ここで たべて います",
+      "title_romaji": "Kono mise wa shizuka da shi, hiroi shi, itsumo koko de tabete imasu",
+      "title_translation_mm": "ဒီဆိုင်က တိတ်ဆိတ်ပြီး ကျယ်ဝန်းတာကြောင့် ဒီမှာ အမြဲ စားလေ့ရှိပါသည် (〜し、〜し အကြောင်းပြချက်များဖြင့် ရလဒ်ဖော်ပြခြင်း)",
+      "title_translation_en": "This shop is quiet and spacious, so I always eat here (~shi, ~shi Stating reasons for action)",
+      "pattern": "〜し、〜し、いつも 〜ています",
+      "pattern_ruby": "〜し、〜し、いつも 〜ています",
+      "pattern_hiragana": "〜し、〜し、いつも 〜ています",
+      "pattern_romaji": "~shi, ~shi, itsumo ~te imasu",
+      "pattern_translation_mm": "အကြောင်းပြချက်များစွာကြောင့် အလေ့အထအရ ပြုမူခြင်း",
+      "pattern_translation_en": "Reasons leading to habitual action",
+      "note_ruby": "【〜し、〜し、(<ruby>結果<rt>けっか</rt></ruby>/<ruby>行動<rt>こうどう</rt></ruby>)】 <ruby>複数<rt>ふくすう</rt></ruby>の <ruby>理由<rt>りゆう</rt></ruby>を <ruby>挙<rt>あ</rt></ruby>げて、<ruby>結論<rt>けつろん</rt></ruby>や <ruby>行動<rt>こうどう</rt></ruby>を <ruby>述<rt>の</rt></ruby>べます。",
+      "note_hiragana": "【〜し、〜し、(けっか/こうどう)】 ふくすうの りゆうを あげて、けつろんや こうどうを のべます。",
+      "note_romaji": "[~ shi, ~ shi, (kekka / koudou)] Fukusuu no riyuu o agete, ketsuron ya koudou o nobemasu.",
+      "note_translation_mm": "【〜し、〜し、(ရလဒ်/အပြုအမူ)】 အကြောင်းပြချက်များစွာကို စီတန်းပြသပြီးနောက် နောက်ဆုံးတွင် ဖြစ်ပေါ်လာသော ရလဒ် သို့မဟုတ် အပြုအမူကို ဆက်စပ်ဖော်ပြပါသည်။",
+      "note_translation_en": "【~shi, ~shi, (Action/Result)】 States multiple reasons leading up to a habitual conclusion or choice."
+    },
+    {
+      "section": 5,
+      "num": 5,
+      "title": "どうして <ruby>日本<rt>にほん</rt></ruby>の アニメが <ruby>好<rt>す</rt></ruby>きなんですか。……<ruby>話<rt>はなし</rt></ruby>も おもしろいし、<ruby>音楽<rt>おんがく</rt></ruby>も すてきですから",
+      "title_en": "Why do you like Japanese anime? ...Stories are interesting and music is great (~shi, ~shi, ~kara)",
+      "table": [
+        {
+          "cols": [
+            "…… <ruby>話<rt>はなし</rt></ruby>も",
+            "おもしろい",
+            "し、",
+            "<ruby>音楽<rt>おんがく</rt></ruby>も",
+            "すてきです",
+            "から。"
+          ],
+          "highlight_indices": [
+            1,
+            4
+          ]
+        },
+        {
+          "cols": [
+            "<ruby>絵<rt>え</rt></ruby>も",
+            "きれいだ",
+            "し、",
+            "<ruby>夢<rt>ゆめ</rt></ruby>も",
+            "あります",
+            "から。"
+          ],
+          "highlight_indices": [
+            1,
+            4
+          ]
+        },
+        {
+          "cols": [
+            "<ruby>日本語<rt>にほんご</rt></ruby>も",
+            "べんきょうできる",
+            "し、",
+            "<ruby>日本<rt>にほん</rt></ruby>の ことも",
+            "わかります",
+            "から。"
+          ],
+          "highlight_indices": [
+            1,
+            4
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "num": 1,
+          "japanese": "どうして 日本の アニメが 好きなんですか。……話も おもしろいし、音楽も すてきですから。",
+          "jp": "どうして 日本の アニメが 好きなんですか。……話も おもしろいし、音楽も すてきですから。",
+          "ruby": "どうして <ruby>日本<rt>にほん</rt></ruby>の アニメが <ruby>好<rt>す</rt></ruby>きなんですか。……<ruby>話<rt>はなし</rt></ruby>も おもしろいし、<ruby>音楽<rt>おんがく</rt></ruby>も すてきですから。",
+          "romaji": "Doushite Nihon no anime ga suki nan desu ka. ...Hanashi mo omoshiroi shi, ongaku mo suteki desu kara.",
+          "hiragana": "どうして にほんの あにめが すきなんですか。……はなしも おもしろいし、おんがくも すてきですから。",
+          "translation_mm": "ဘာကြောင့် ဂျပန်အန်နီမေး ကြိုက်တာလဲ။ ……ဇာတ်လမ်းလည်း စိတ်ဝင်စားဖို့ကောင်းပြီး တေးဂီတလည်း သာယာကောင်းမွန်လို့ပါ။",
+          "translation_en": "Why do you like Japanese anime? ...Because the stories are interesting and the music is wonderful."
+        },
+        {
+          "num": 2,
+          "japanese": "どうして 日本の アニメが 好きなんですか。……絵も きれいだし、夢も ありますから。",
+          "jp": "どうして 日本の アニメが 好きなんですか。……絵も きれいだし、夢も ありますから。",
+          "ruby": "どうして <ruby>日本<rt>にほん</rt></ruby>の アニメが <ruby>好<rt>す</rt></ruby>きなんですか。……<ruby>絵<rt>え</rt></ruby>も きれいだし、<ruby>夢<rt>ゆめ</rt></ruby>も ありますから。",
+          "romaji": "Doushite Nihon no anime ga suki nan desu ka. ...E mo kirei da shi, yume mo arimasu kara.",
+          "hiragana": "どうして にほんの あにめが すきなんですか。……えも きれいだし、ゆめも ありますから。",
+          "translation_mm": "ဘာကြောင့် ဂျပန်အန်နီမေး ကြိုက်တာလဲ။ ……ရုပ်ပုံတွေလည်း လှပပြီး အိပ်မက်တွေလည်း ပါဝင်လို့ပါ။",
+          "translation_en": "Why do you like Japanese anime? ...Because the art is pretty and full of dreams."
+        },
+        {
+          "num": 3,
+          "japanese": "どうして 日本の アニメが 好きなんですか。……日本語も 勉強できるし、日本の ことも わかりますから。",
+          "jp": "どうして 日本の アニメが 好きなんですか。……日本語も 勉強できるし、日本の ことも わかりますから。",
+          "ruby": "どうして <ruby>日本<rt>にほん</rt></ruby>の アニメが <ruby>好<rt>す</rt></ruby>きなんですか。……<ruby>日本語<rt>にほんご</rt></ruby>も <ruby>勉強<rt>べんきょう</rt></ruby>できるし、<ruby>日本<rt>にほん</rt></ruby>の ことも わかりますから。",
+          "romaji": "Doushite Nihon no anime ga suki nan desu ka. ...Nihongo mo benkyou dekiru shi, Nihon no koto mo wakarimasu kara.",
+          "hiragana": "どうして にほんの あにめが すきなんですか。……にほんごも べんきょうできるし、にほんの ことも わかりますから。",
+          "translation_mm": "ဘာကြောင့် ဂျပန်အန်နီမေး ကြိုက်တာလဲ။ ……ဂျပန်စာလည်း လေ့လာနိုင်သလို ဂျပန်နိုင်ငံအကြောင်းလည်း နားလည်နိုင်လို့ပါ။",
+          "translation_en": "Why do you like Japanese anime? ...Because I can study Japanese and learn about Japan."
+        }
+      ],
+      "note": "【〜し、〜し、〜から】 「どうして〜んですか」の <ruby>質問<rt>しつもん</rt></ruby>に <ruby>理由<rt>りゆう</rt></ruby>を <ruby>複数<rt>ふくすう</rt></ruby> <ruby>答<rt>こた</rt></ruby>える<ruby>時<rt>とき</rt></ruby>に <ruby>使<rt>つか</rt></ruby>います。",
+      "note_en": "【~shi, ~shi, ~kara】 Used to give multiple explanatory reasons when answering \"Why ~?\" (Doushite... nan desu ka).",
+      "title_ruby": "どうして <ruby>日本<rt>にほん</rt></ruby>の アニメが <ruby>好<rt>す</rt></ruby>きなんですか。……<ruby>話<rt>はなし</rt></ruby>も おもしろいし、<ruby>音楽<rt>おんがく</rt></ruby>も すてきですから",
+      "title_hiragana": "どうして にほんの アニメが すきなんですか。……はなしも おもしろいし、おんがくも すてきですから",
+      "title_romaji": "Doushite Nihon no anime ga suki na n desu ka. ...Hanashi mo omoshiroi shi, ongaku mo suteki desu kara",
+      "title_translation_mm": "ဘာကြောင့် ဂျပန်အန်နီမေး ကြိုက်တာလဲ။ ……ဇာတ်လမ်းလည်း စိတ်ဝင်စားဖို့ကောင်းပြီး ဂီတလည်း သာယာလို့ပါ (〜し、〜し、〜から)",
+      "title_translation_en": "Why do you like Japanese anime? ...Stories are interesting and music is great (~shi, ~shi, ~kara)",
+      "pattern": "〜し、〜し、〜ですから",
+      "pattern_ruby": "〜し、〜し、〜ですから",
+      "pattern_hiragana": "〜し、〜し、〜ですから",
+      "pattern_romaji": "~shi, ~shi, ~desu kara",
+      "pattern_translation_mm": "... လည်း ... သလို ... လည်း ... သောကြောင့် ဖြစ်ပါသည်",
+      "pattern_translation_en": "Because... and also...",
+      "note_ruby": "【〜し、〜し、〜から】 「どうして〜んですか」の <ruby>質問<rt>しつもん</rt></ruby>に <ruby>理由<rt>りゆう</rt></ruby>を <ruby>複数<rt>ふくすう</rt></ruby> <ruby>答<rt>こた</rt></ruby>える<ruby>時<rt>とき</rt></ruby>に <ruby>使<rt>つか</rt></ruby>います。",
+      "note_hiragana": "【〜し、〜し、〜から】 「どうして〜んですか」の しつもんに りゆうを ふくすう こたえるときに つかいます。",
+      "note_romaji": "[~ shi, ~ shi, ~ kara] \"Doushite ~ ndesu ka\" no shitsumon ni riyuu o fukusuu kotaeru toki ni tsukaimasu.",
+      "note_translation_mm": "【〜し、〜し、〜から】 「どうして〜んですか」 မေးခွန်းကို အကြောင်းပြချက် တစ်ခုထက်မက ပေး၍ ဖြေဆိုရာတွင် သုံးပါသည်။",
+      "note_translation_en": "【~shi, ~shi, ~kara】 Used to give multiple explanatory reasons when answering \"Why ~?\" (Doushite... nan desu ka)."
+    }
+  ],
+  "renshuub": [
+    {
+      "section_num": 1,
+      "title": "1<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 1",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img02_RenshuuB_Comic_Strip.webp",
+      "caption": "ရုပ်ပြဇာတ်ကွက် (例 〜 4)",
+      "caption_en": "Comic Strip Illustration (Ex. - 4)",
+      "rei": {
+        "num": 0,
+        "cue": "れい: (イラスト: 音楽 + 運転)",
+        "ans": "→ 音楽を 聞きながら 運転します。",
+        "translation_mm": "ဂီတနားထောင်ရင်းနဲ့ ကားမောင်းပါတယ်။",
+        "translation_en": "I drive while listening to music.",
+        "cue_translation_mm": "ဂီတနားထောင်ရင်း ကားမောင်းသည်။",
+        "cue_translation_en": "Listening to music while driving.",
+        "cue_hiragana": "れい: (いらすと: おんがく + うんてん)",
+        "cue_romaji": "rei : (irasuto : ongaku + unten)",
+        "ans_hiragana": "→ おんがくを ききながら うんてんします。",
+        "ans_romaji": "→ ongakuwo kikinagara untenshimasu.",
+        "cue_ruby": "れい: (イラスト: <ruby>音楽<rt>おんがく</rt></ruby> + <ruby>運転<rt>うんてん</rt></ruby>)",
+        "ans_ruby": "→ <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>運転<rt>うんてん</rt></ruby>します。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "(イラスト: 本 + 何か食べる)",
+          "ans": "本を 見ながら 料理をします。",
+          "translation_mm": "စာအုပ်ကြည့်ရင်းနဲ့ ဟင်းချက်ပါတယ်။",
+          "translation_en": "I cook while looking at a book.",
+          "cue_translation_mm": "စာဖတ်ရင်း တစ်ခုခုစားသည်။",
+          "cue_translation_en": "Reading while eating something.",
+          "cue_hiragana": "(いらすと: ほん + なにかたべる)",
+          "cue_romaji": "(irasuto : hon + nanikataberu)",
+          "ans_hiragana": "ほんを みながら りょうりをします。",
+          "ans_romaji": "honwo minagara ryouriwoshimasu.",
+          "cue_ruby": "(イラスト: <ruby>本<rt>ほん</rt></ruby> + <ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べる)",
+          "ans_ruby": "<ruby>本<rt>ほん</rt></ruby>を <ruby>見<rt>み</rt></ruby>ながら <ruby>料理<rt>りょうり</rt></ruby>をします。"
+        },
+        {
+          "num": 2,
+          "cue": "(イラスト: 踊る + 歌う)",
+          "ans": "歌いながら 踊ります。",
+          "translation_mm": "သီချင်းဆိုရင်းနဲ့ ကခုန်ပါတယ်။",
+          "translation_en": "I dance while singing.",
+          "cue_translation_mm": "ကရင်း သီချင်းဆိုသည်။",
+          "cue_translation_en": "Dancing while singing.",
+          "cue_hiragana": "(いらすと: おどる + うたう)",
+          "cue_romaji": "(irasuto : odoru + utau)",
+          "ans_hiragana": "うたいながら おどります。",
+          "ans_romaji": "utainagara odorimasu.",
+          "cue_ruby": "(イラスト: <ruby>踊<rt>おど</rt></ruby>る + <ruby>歌<rt>うた</rt></ruby>う)",
+          "ans_ruby": "<ruby>歌<rt>うた</rt></ruby>いながら <ruby>踊<rt>おど</rt></ruby>ります。"
+        },
+        {
+          "num": 3,
+          "cue": "(イラスト: 音楽 + 食事)",
+          "ans": "音楽を 聞きながら 食事をします。",
+          "translation_mm": "ဂီတနားထောင်ရင်းနဲ့ ထမင်းစားပါတယ်။",
+          "translation_en": "I have a meal while listening to music.",
+          "cue_translation_mm": "ဂီတနားထောင်ရင်း ထမင်းစားသည်။",
+          "cue_translation_en": "Listening to music while having a meal.",
+          "cue_hiragana": "(いらすと: おんがく + しょくじ)",
+          "cue_romaji": "(irasuto : ongaku + shokuji)",
+          "ans_hiragana": "おんがくを ききながら しょくじをします。",
+          "ans_romaji": "ongakuwo kikinagara shokujiwoshimasu.",
+          "cue_ruby": "(イラスト: <ruby>音楽<rt>おんがく</rt></ruby> + <ruby>食事<rt>しょくじ</rt></ruby>)",
+          "ans_ruby": "<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>食事<rt>しょくじ</rt></ruby>をします。"
+        },
+        {
+          "num": 4,
+          "cue": "(イラスト: レストランで 本 + 食べる)",
+          "ans": "本を 読みながら 食べています。",
+          "translation_mm": "စာအုပ်ဖတ်ရင်းနဲ့ စားသောက်နေပါတယ်။",
+          "translation_en": "I am eating while reading a book.",
+          "cue_translation_mm": "စားသောက်ဆိုင်တွင် စာဖတ်ရင်း စားသည်။",
+          "cue_translation_en": "Eating while reading in a restaurant.",
+          "cue_hiragana": "(いらすと: れすとらんで ほん + たべる)",
+          "cue_romaji": "(irasuto : resutorande hon + taberu)",
+          "ans_hiragana": "ほんを よみながら たべています。",
+          "ans_romaji": "honwo yominagara tabeteimasu.",
+          "cue_ruby": "(イラスト: レストランで <ruby>本<rt>ほん</rt></ruby> + <ruby>食<rt>た</rt></ruby>べる)",
+          "ans_ruby": "<ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みながら <ruby>食<rt>た</rt></ruby>べています。"
+        }
+      ],
+      "title_ruby": "1<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "1ばん",
+      "title_romaji": "Ex 1",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 1",
+      "title_translation_en": "Exercise B No. 1",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    },
+    {
+      "section_num": 2,
+      "title": "2<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 2",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "",
+      "caption": "",
+      "caption_en": "",
+      "rei": {
+        "num": 0,
+        "cue": "れい: 歩きます・話しませんか",
+        "ans": "→ 歩きながら 話しませんか。",
+        "translation_mm": "လမ်းလျှောက်ရင်းနဲ့ စကားပြောကြမလား။",
+        "translation_en": "Shall we talk while walking?",
+        "cue_translation_mm": "လမ်းလျှောက်သည်၊ စကားပြောကြမလား။",
+        "cue_translation_en": "Walking; shall we talk?",
+        "cue_hiragana": "れい: あるきます・はなしませんか",
+        "cue_romaji": "rei : arukimasu ・ hanashimasenka",
+        "ans_hiragana": "→ あるきながら はなしませんか。",
+        "ans_romaji": "→ arukinagara hanashimasenka.",
+        "cue_ruby": "れい: <ruby>歩<rt>ある</rt></ruby>きます・<ruby>話<rt>はなし</rt></ruby>しませんか",
+        "ans_ruby": "→ <ruby>歩<rt>ある</rt></ruby>きながら <ruby>話<rt>はなし</rt></ruby>しませんか。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "話を 聞きます・メモして ください",
+          "ans": "話を 聞きながら メモして ください。",
+          "translation_mm": "စကားနားထောင်ရင်းနဲ့ မှတ်စုရေးမှတ်ပေးပါ။",
+          "translation_en": "Please take notes while listening to the talk.",
+          "cue_translation_mm": "စကားနားထောင်သည်၊ မှတ်စုရေးမှတ်ပါ။",
+          "cue_translation_en": "Listening to talk; please take notes.",
+          "cue_hiragana": "はなしを ききます・めもして ください",
+          "cue_romaji": "hanashiwo kikimasu ・ memoshite kudasai",
+          "ans_hiragana": "はなしを ききながら めもして ください。",
+          "ans_romaji": "hanashiwo kikinagara memoshite kudasai.",
+          "cue_ruby": "<ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きます・メモして ください",
+          "ans_ruby": "<ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら メモして ください。"
+        },
+        {
+          "num": 2,
+          "cue": "運転します・電話を しないで ください",
+          "ans": "運転しながら 電話を しないで ください。",
+          "translation_mm": "ကားမောင်းရင်းနဲ့ ဖုန်းမပြောပါနဲ့။",
+          "translation_en": "Please do not use your phone while driving.",
+          "cue_translation_mm": "ကားမောင်းသည်၊ ဖုန်းမပြောပါနှင့်။",
+          "cue_translation_en": "Driving; please don't use phone.",
+          "cue_hiragana": "うんてんします・でんわを しないで ください",
+          "cue_romaji": "untenshimasu ・ denwawo shinaide kudasai",
+          "ans_hiragana": "うんてんしながら でんわを しないで ください。",
+          "ans_romaji": "untenshinagara denwawo shinaide kudasai.",
+          "cue_ruby": "<ruby>運転<rt>うんてん</rt></ruby>します・<ruby>電話<rt>でんわ</rt></ruby>を しないで ください",
+          "ans_ruby": "<ruby>運転<rt>うんてん</rt></ruby>しながら <ruby>電話<rt>でんわ</rt></ruby>を しないで ください。"
+        },
+        {
+          "num": 3,
+          "cue": "お茶を 飲みます・話しましょう",
+          "ans": "お茶を 飲みながら 話しましょう。",
+          "translation_mm": "လက်ဖက်ရည်သောက်ရင်းနဲ့ စကားပြောကြရအောင်။",
+          "translation_en": "Let's chat while drinking tea.",
+          "cue_translation_mm": "လက်ဖက်ရည် သောက်သည်၊ စကားပြောကြရအောင်။",
+          "cue_translation_en": "Drinking tea; let's talk.",
+          "cue_hiragana": "おちゃを のみます・はなしましょう",
+          "cue_romaji": "ochawo nomimasu ・ hanashimashou",
+          "ans_hiragana": "おちゃを のみながら はなしましょう。",
+          "ans_romaji": "ochawo nominagara hanashimashou.",
+          "cue_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>みます・<ruby>話<rt>はな</rt></ruby>しましょう",
+          "ans_ruby": "お<ruby>茶<rt>ちゃ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>みながら <ruby>話<rt>はな</rt></ruby>しましょう。"
+        },
+        {
+          "num": 4,
+          "cue": "ピアノを 弾きます・歌えますか",
+          "ans": "ピアノを 弾きながら 歌えますか。",
+          "translation_mm": "ပီယာနိုတီးရင်းနဲ့ သီချင်းဆိုနိုင်ပါသလား။",
+          "translation_en": "Can you sing while playing the piano?",
+          "cue_translation_mm": "စန္ဒယားတီးသည်၊ သီချင်းဆိုနိုင်ပါသလား။",
+          "cue_translation_en": "Playing piano; can you sing?",
+          "cue_hiragana": "ぴあのを ひきます・うたえますか",
+          "cue_romaji": "pianowo hikimasu ・ utaemasuka",
+          "ans_hiragana": "ぴあのを ひきながら うたえますか。",
+          "ans_romaji": "pianowo hikinagara utaemasuka.",
+          "cue_ruby": "ピアノを <ruby>弾<rt>ひ</rt></ruby>きます・<ruby>歌<rt>うた</rt></ruby>えますか",
+          "ans_ruby": "ピアノを <ruby>弾<rt>ひ</rt></ruby>きながら <ruby>歌<rt>うた</rt></ruby>えますか。"
+        },
+        {
+          "num": 5,
+          "cue": "ボランティアを します・世界を 旅行して います",
+          "ans": "ボランティアを しながら 世界を 旅行して います。",
+          "translation_mm": "စေတနာ့ဝန်ထမ်းလုပ်ရင်းနဲ့ ကမ္ဘာလှည့် ခရီးသွားနေပါတယ်။",
+          "translation_en": "I am traveling the world while volunteering.",
+          "cue_translation_mm": "စေတနာ့ဝန်ထမ်း လုပ်သည်၊ ကမ္ဘာအနှံ့ ခရီးသွားနေသည်။",
+          "cue_translation_en": "Volunteering; traveling the world.",
+          "cue_hiragana": "ぼらんてぃあを します・せかいを りょこうして います",
+          "cue_romaji": "boranteiawo shimasu ・ sekaiwo ryokoushite imasu",
+          "ans_hiragana": "ぼらんてぃあを しながら せかいを りょこうして います。",
+          "ans_romaji": "boranteiawo shinagara sekaiwo ryokoushite imasu.",
+          "cue_ruby": "ボランティアを します・<ruby>世界<rt>せかい</rt></ruby>を <ruby>旅行<rt>りょこう</rt></ruby>して います",
+          "ans_ruby": "ボランティアを しながら <ruby>世界<rt>せかい</rt></ruby>を <ruby>旅行<rt>りょこう</rt></ruby>して います。"
+        },
+        {
+          "num": 6,
+          "cue": "絵を 教えます・マンガを かいて います",
+          "ans": "絵を 教えながら マンガを かいて います。",
+          "translation_mm": "ပန်းချီသင်ပြရင်းနဲ့ မန်ဂါ (ကာတွန်း) ရေးဆွဲနေပါတယ်။",
+          "translation_en": "I am drawing manga while teaching painting.",
+          "cue_translation_mm": "ပန်းချီဆွဲနည်း သင်ပေးသည်၊ ကာတွန်းရေးဆွဲနေသည်။",
+          "cue_translation_en": "Teaching art; drawing manga.",
+          "cue_hiragana": "えを おしえます・まんがを かいて います",
+          "cue_romaji": "ewo oshiemasu ・ mangawo kaite imasu",
+          "ans_hiragana": "えを おしえながら まんがを かいて います。",
+          "ans_romaji": "ewo oshienagara mangawo kaite imasu.",
+          "cue_ruby": "<ruby>絵<rt>え</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えます・マンガを かいて います",
+          "ans_ruby": "<ruby>絵<rt>え</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えながら マンガを かいて います。"
+        }
+      ],
+      "title_ruby": "2<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "2ばん",
+      "title_romaji": "Ex 2",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 2",
+      "title_translation_en": "Exercise B No. 2",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    },
+    {
+      "section_num": 3,
+      "title": "3<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 3",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "",
+      "caption": "",
+      "caption_en": "",
+      "rei": {
+        "num": 0,
+        "cue": "れい: 暇な とき、いつも 何を して いますか。 (パソコンで ゲームを します)",
+        "ans": "→ パソコンで ゲームを して います。",
+        "translation_mm": "ကွန်ပျူတာနဲ့ ဂိမ်းကစားနေလေ့ရှိပါတယ်။",
+        "translation_en": "I play games on my computer.",
+        "cue_translation_mm": "အားလပ်ချိန်မှာ အမြဲ ဘာလုပ်နေပါသလဲ (ကွန်ပျူတာဖြင့် ဂိမ်းဆော့သည်)",
+        "cue_translation_en": "What do you do when free? (Play computer games)",
+        "cue_hiragana": "れい: ひまな とき、いつも なにを して いますか。 (ぱそこんで げーむを します)",
+        "cue_romaji": "rei : himana toki, itsumo naniwo shite imasuka. (pasokonde geemuwo shimasu)",
+        "ans_hiragana": "→ ぱそこんで げーむを して います。",
+        "ans_romaji": "→ pasokonde geemuwo shite imasu.",
+        "cue_ruby": "れい: <ruby>暇<rt>ひま</rt></ruby>な とき、いつも <ruby>何<rt>なに</rt></ruby>を して いますか。 (パソコンで ゲームを します)",
+        "ans_ruby": "→ パソコンで ゲームを して います。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "毎晩 どんな 番組を 見て いますか。 (ニュースや ドラマ)",
+          "ans": "ニュースや ドラマを 見て います。",
+          "translation_mm": "သတင်းတွေ၊ ဒရာမာဇာတ်လမ်းတွဲတွေ ကြည့်လေ့ရှိပါတယ်။",
+          "translation_en": "I watch the news and dramas.",
+          "cue_translation_mm": "ညတိုင်း ဘယ်လို အစီအစဉ်မျိုး ကြည့်နေပါသလဲ (သတင်းနှင့် ဇာတ်လမ်းတွဲ)",
+          "cue_translation_en": "What program do you watch nightly? (News and drama)",
+          "cue_hiragana": "まいばん どんな ばんぐみを みて いますか。 (にゅーすや どらま)",
+          "cue_romaji": "maiban donna bangumiwo mite imasuka. (nyuusuya dorama)",
+          "ans_hiragana": "にゅーすや どらまを みて います。",
+          "ans_romaji": "nyuusuya doramawo mite imasu.",
+          "cue_ruby": "<ruby>毎晩<rt>まいばん</rt></ruby> どんな <ruby>番組<rt>ばんぐみ</rt></ruby>を <ruby>見<rt>み</rt></ruby>て いますか。 (ニュースや ドラマ)",
+          "ans_ruby": "ニュースや ドラマを <ruby>見<rt>み</rt></ruby>て います。"
+        },
+        {
+          "num": 2,
+          "cue": "休みの 日は 何を して いますか。 (子どもと 遊んだり、買い物に 行ったり します)",
+          "ans": "子どもと 遊んだり、買い物に 行ったり して います。",
+          "translation_mm": "ကလေးနဲ့ ကစားတာ၊ ဈေးဝယ်ထွက်တာတွေ လုပ်လေ့ရှိပါတယ်။",
+          "translation_en": "I play with my children and go shopping.",
+          "cue_translation_mm": "အားလပ်ရက်တွေမှာ ဘာလုပ်နေပါသလဲ (ကလေးများနှင့် ကစားခြင်း၊ ဈေးဝယ်ထွက်ခြင်း)",
+          "cue_translation_en": "What do you do on days off? (Play with kids, go shopping)",
+          "cue_hiragana": "やすみの ひは なにを して いますか。 (こどもと あそんだり、かいものに いったり します)",
+          "cue_romaji": "yasumino hiha naniwo shite imasuka. (kodomoto asondari, kaimononi ittari shimasu)",
+          "ans_hiragana": "こどもと あそんだり、かいものに いったり して います。",
+          "ans_romaji": "kodomoto asondari, kaimononi ittari shite imasu.",
+          "cue_ruby": "<ruby>休<rt>やす</rt></ruby>みの <ruby>日<rt>ひ</rt></ruby>は <ruby>何<rt>なに</rt></ruby>を して いますか。 (<ruby>子<rt>こ</rt></ruby>どもと <ruby>遊<rt>あそ</rt></ruby>んだり、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>ったり します)",
+          "ans_ruby": "<ruby>子<rt>こ</rt></ruby>どもと <ruby>遊<rt>あそ</rt></ruby>んだり、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>ったり して います。"
+        },
+        {
+          "num": 3,
+          "cue": "いつも 何で 学校に 通って いますか。 (自転車)",
+          "ans": "自転車で 通って います。",
+          "translation_mm": "စက်ဘီးနဲ့ သွားလာ (အလုပ်တက်) နေပါတယ်။",
+          "translation_en": "I commute by bicycle.",
+          "cue_translation_mm": "ကျောင်းကို အမြဲ ဘာနဲ့ သွားနေပါသလဲ (စက်ဘီး)",
+          "cue_translation_en": "How do you commute to school? (Bicycle)",
+          "cue_hiragana": "いつも なんで がっこうに かよって いますか。 (じてんしゃ)",
+          "cue_romaji": "itsumo nande gakkouni kayotte imasuka. (jitensha)",
+          "ans_hiragana": "じてんしゃで かよって います。",
+          "ans_romaji": "jitenshade kayotte imasu.",
+          "cue_ruby": "いつも <ruby>何<rt>なん</rt></ruby>で <ruby>学校<rt>がっこう</rt></ruby>に <ruby>通<rt>かよ</rt></ruby>って いますか。 (<ruby>自転車<rt>じてんしゃ</rt></ruby>)",
+          "ans_ruby": "<ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>通<rt>かよ</rt></ruby>って います。"
+        },
+        {
+          "num": 4,
+          "cue": "毎朝 電車の 中で 何を して いますか。 (音楽を 聞きながら 本を 読みます)",
+          "ans": "音楽を 聞きながら 本を 読んで います。",
+          "translation_mm": "ဂီတနားထောင်ရင်းနဲ့ စာအုပ်ဖတ်လေ့ရှိပါတယ်။",
+          "translation_en": "I read books while listening to music.",
+          "cue_translation_mm": "မနက်တိုင်း ရထားပေါ်မှာ ဘာလုပ်နေပါသလဲ (ဂီတနားထောင်ရင်း စာဖတ်သည်)",
+          "cue_translation_en": "What do you do on morning train? (Listen to music while reading)",
+          "cue_hiragana": "まいあさ でんしゃの なかで なにを して いますか。 (おんがくを ききながら ほんを よみます)",
+          "cue_romaji": "maiasa denshano nakade naniwo shite imasuka. (ongakuwo kikinagara honwo yomimasu)",
+          "ans_hiragana": "おんがくを ききながら ほんを よんで います。",
+          "ans_romaji": "ongakuwo kikinagara honwo yonde imasu.",
+          "cue_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> <ruby>電車<rt>でんしゃ</rt></ruby>の <ruby>中<rt>なか</rt></ruby>で <ruby>何<rt>なに</rt></ruby>を して いますか。 (<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます)",
+          "ans_ruby": "<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>んで います。"
+        }
+      ],
+      "title_ruby": "3<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "3ばん",
+      "title_romaji": "Ex 3",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 3",
+      "title_translation_en": "Exercise B No. 3",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    },
+    {
+      "section_num": 4,
+      "title": "4<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 4",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "",
+      "caption": "",
+      "caption_en": "",
+      "rei": {
+        "num": 0,
+        "cue": "れい: この 掃除機は 小さいです・軽いです・音が 静かです",
+        "ans": "→ この 掃除機は 小さいし、軽いし、それに 音も 静かです。",
+        "translation_mm": "ဒီဖုန်စုပ်စက်က သေးငယ်တယ်၊ ပေါ့ပါးတယ်၊ ဒါ့အပြင် အသံလည်း ငြိမ်ပါတယ်။",
+        "translation_en": "This vacuum cleaner is small, light, and moreover quiet.",
+        "cue_translation_mm": "ဒီဖုန်စုပ်စက်သည် သေးငယ်သည်၊ ပေါ့ပါးသည်၊ အသံတိတ်ဆိတ်သည်။",
+        "cue_translation_en": "This vacuum cleaner is small, light, quiet.",
+        "cue_hiragana": "れい: この そうじきは ちーさいです・かるいです・おとが しずかです",
+        "cue_romaji": "rei : kono soujikiha chiisaidesu ・ karuidesu ・ otoga shizukadesu",
+        "ans_hiragana": "→ この そうじきは ちーさいし、かるいし、それに おとも しずかです。",
+        "ans_romaji": "→ kono soujikiha chiisaishi, karuishi, soreni otomo shizukadesu.",
+        "cue_ruby": "れい: この <ruby>掃除機<rt>そうじき</rt></ruby>は <ruby>小<rt>ちー</rt></ruby>さいです・<ruby>軽<rt>かる</rt></ruby>いです・<ruby>音<rt>おと</rt></ruby>が <ruby>静<rt>しず</rt></ruby>かです",
+        "ans_ruby": "→ この <ruby>掃除機<rt>そうじき</rt></ruby>は <ruby>小<rt>ちー</rt></ruby>さいし、<ruby>軽<rt>かる</rt></ruby>いし、それに <ruby>音<rt>おと</rt></ruby>も <ruby>静<rt>しず</rt></ruby>かです。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "北海道は 涼しいです・景色が きれいです・食べ物が おいしいです",
+          "ans": "北海道は 涼しいし、景色も きれいだし、それに 食べ物も おいしいです。",
+          "translation_mm": "ဟော့ကိုင်းဒိုးက အေးချမ်းတယ်၊ ရှုခင်းလည်း လှပတယ်၊ ဒါ့အပြင် အစားအသောက်လည်း အရသာရှိပါတယ်။",
+          "translation_en": "Hokkaido is cool, the scenery is beautiful, and moreover the food is delicious.",
+          "cue_translation_mm": "ဟော့ကိုင်းဒိုးသည် အေးမြသည်၊ ရှုခင်းလှသည်၊ အစားအစာ အရသာရှိသည်။",
+          "cue_translation_en": "Hokkaido is cool, beautiful, delicious.",
+          "cue_hiragana": "ほっかいどうは すずしいです・けしきが きれいです・たべものが おいしいです",
+          "cue_romaji": "hokkaidouha suzushiidesu ・ keshikiga kireidesu ・ tabemonoga oishiidesu",
+          "ans_hiragana": "ほっかいどうは すずしいし、けしきも きれいだし、それに たべものも おいしいです。",
+          "ans_romaji": "hokkaidouha suzushiishi, keshikimo kireidashi, soreni tabemonomo oishiidesu.",
+          "cue_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>は <ruby>涼<rt>すず</rt></ruby>しいです・<ruby>景色<rt>けしき</rt></ruby>が きれいです・<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が おいしいです",
+          "ans_ruby": "<ruby>北海道<rt>ほっかいどう</rt></ruby>は <ruby>涼<rt>すず</rt></ruby>しいし、<ruby>景色<rt>けしき</rt></ruby>も きれいだし、それに <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>も おいしいです。"
+        },
+        {
+          "num": 2,
+          "cue": "あの 美容院は 上手です・速いです・安いです",
+          "ans": "あの 美容院は 上手だし、速いし、それに 安いです。",
+          "translation_mm": "ဟိုဆံပင်ညှပ်ဆိုင်က လက်ရာတော်တယ်၊ မြန်ဆန်တယ်၊ ဒါ့အပြင် ဈေးလည်းချိုပါတယ်။",
+          "translation_en": "That beauty salon is skillful, fast, and moreover inexpensive.",
+          "cue_translation_mm": "ဟိုဆံပင်ညှပ်ဆိုင်သည် ကျွမ်းကျင်သည်၊ မြန်ဆန်သည်၊ ဈေးချိုသည်။",
+          "cue_translation_en": "That salon is skilled, fast, cheap.",
+          "cue_hiragana": "あの びよういんは じょうずです・はやいです・やすいです",
+          "cue_romaji": "ano biyouinha jouzudesu ・ hayaidesu ・ yasuidesu",
+          "ans_hiragana": "あの びよういんは じょうずだし、はやいし、それに やすいです。",
+          "ans_romaji": "ano biyouinha jouzudashi, hayaishi, soreni yasuidesu.",
+          "cue_ruby": "あの <ruby>美容院<rt>びよういん</rt></ruby>は <ruby>上手<rt>じょうず</rt></ruby>です・<ruby>速<rt>はや</rt></ruby>いです・<ruby>安<rt>やす</rt></ruby>いです",
+          "ans_ruby": "あの <ruby>美容院<rt>びよういん</rt></ruby>は <ruby>上手<rt>じょうず</rt></ruby>だし、<ruby>速<rt>はや</rt></ruby>いし、それに <ruby>安<rt>やす</rt></ruby>いです。"
+        },
+        {
+          "num": 3,
+          "cue": "新しい 台所は きれいです・広いです・便利です",
+          "ans": "新しい 台所は きれいだし、広いし、それに 便利です。",
+          "translation_mm": "မီးဖိုချောင်အသစ်က သန့်ရှင်းသပ်ရပ်တယ်၊ ကျယ်ဝန်းတယ်၊ ဒါ့အပြင် အဆင်လည်းပြေပါတယ်။",
+          "translation_en": "The new kitchen is clean, spacious, and moreover convenient.",
+          "cue_translation_mm": "မီးဖိုချောင်အသစ်သည် သန့်ရှင်းသည်၊ ကျယ်ဝန်းသည်၊ အဆင်ပြေသည်။",
+          "cue_translation_en": "New kitchen is clean, spacious, convenient.",
+          "cue_hiragana": "あたらしい だいどころは きれいです・ひろいです・べんりです",
+          "cue_romaji": "atarashii daidokoroha kireidesu ・ hiroidesu ・ benridesu",
+          "ans_hiragana": "あたらしい だいどころは きれいだし、ひろいし、それに べんりです。",
+          "ans_romaji": "atarashii daidokoroha kireidashi, hiroishi, soreni benridesu.",
+          "cue_ruby": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>台所<rt>だいどころ</rt></ruby>は きれいです・<ruby>広<rt>ひろ</rt></ruby>いです・<ruby>便利<rt>べんり</rt></ruby>です",
+          "ans_ruby": "<ruby>新<rt>あたら</rt></ruby>しい <ruby>台所<rt>だいどころ</rt></ruby>は きれいだし、<ruby>広<rt>ひろ</rt></ruby>いし、それに <ruby>便利<rt>べんり</rt></ruby>です。"
+        },
+        {
+          "num": 4,
+          "cue": "この 車は 形が いいです・色が きれいです・値段が そんなに 高くないです",
+          "ans": "この 車は 形もいいし、色もきれいだし、それに 値段もそんなに 高くないです。",
+          "translation_mm": "ဒီကားက ပုံစံလည်းကောင်းတယ်၊ အရောင်လည်းလှတယ်၊ ဒါ့အပြင် ဈေးနှုန်းလည်း သိပ်မကြီးပါဘူး။",
+          "translation_en": "This car has a good shape, a nice color, and moreover the price isn't that expensive.",
+          "cue_translation_mm": "ဒီကားသည် ပုံစံလှသည်၊ အရောင်လှသည်၊ ဈေးနှုန်း သိပ်မကြီးပါ။",
+          "cue_translation_en": "This car has good shape, nice color, not expensive.",
+          "cue_hiragana": "この くるまは かたちが いいです・いろが きれいです・ねだんが そんなに たかくないです",
+          "cue_romaji": "kono kurumaha katachiga iidesu ・ iroga kireidesu ・ nedanga sonnani takakunaidesu",
+          "ans_hiragana": "この くるまは かたちもいいし、いろもきれいだし、それに ねだんもそんなに たかくないです。",
+          "ans_romaji": "kono kurumaha katachimoiishi, iromokireidashi, soreni nedanmosonnani takakunaidesu.",
+          "cue_ruby": "この <ruby>車<rt>くるま</rt></ruby>は <ruby>形<rt>かたち</rt></ruby>が いいです・<ruby>色<rt>いろ</rt></ruby>が きれいです・<ruby>値段<rt>ねだん</rt></ruby>が そんなに <ruby>高<rt>たか</rt></ruby>くないです",
+          "ans_ruby": "この <ruby>車<rt>くるま</rt></ruby>は <ruby>形<rt>かたち</rt></ruby>もいいし、<ruby>色<rt>いろ</rt></ruby>もきれいだし、それに <ruby>値段<rt>ねだん</rt></ruby>もそんなに <ruby>高<rt>たか</rt></ruby>くないです。"
+        }
+      ],
+      "title_ruby": "4<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "4ばん",
+      "title_romaji": "Ex 4",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 4",
+      "title_translation_en": "Exercise B No. 4",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    },
+    {
+      "section_num": 5,
+      "title": "5<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 5",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "",
+      "caption": "",
+      "caption_en": "",
+      "rei": {
+        "num": 0,
+        "cue": "れい: 熱が あります・頭が 痛いです・きょうは 会社を 休みます",
+        "ans": "→ 熱も あるし、頭も 痛いし、きょうは 会社を 休みます。",
+        "translation_mm": "အဖျားလည်းရှိတယ်၊ ခေါင်းလည်းကိုက်နေတာမို့လို့၊ ဒီနေ့ အလုပ်နားပါမယ်။",
+        "translation_en": "I have a fever and a headache, so I will take today off work.",
+        "cue_translation_mm": "အဖျားရှိသည်၊ ခေါင်းကိုက်သည်၊ ဒီနေ့ ကုမ္ပဏီ အလုပ်နားမည်။",
+        "cue_translation_en": "Have fever, headache, taking off work today.",
+        "cue_hiragana": "れい: ねつが あります・あたまが いたいです・きょうは かいしゃを やすみます",
+        "cue_romaji": "rei : netsuga arimasu ・ atamaga itaidesu ・ kyouha kaishawo yasumimasu",
+        "ans_hiragana": "→ ねつも あるし、あたまも いたいし、きょうは かいしゃを やすみます。",
+        "ans_romaji": "→ netsumo arushi, atamamo itaishi, kyouha kaishawo yasumimasu.",
+        "cue_ruby": "れい: <ruby>熱<rt>ねつ</rt></ruby>が あります・<ruby>頭<rt>あたま</rt></ruby>が <ruby>痛<rt>いた</rt></ruby>いです・きょうは <ruby>会社<rt>かいしゃ</rt></ruby>を <ruby>休<rt>やす</rt></ruby>みます",
+        "ans_ruby": "→ <ruby>熱<rt>ねつ</rt></ruby>も あるし、<ruby>頭<rt>あたま</rt></ruby>も <ruby>痛<rt>いた</rt></ruby>いし、きょうは <ruby>会社<rt>かいしゃ</rt></ruby>を <ruby>休<rt>やす</rt></ruby>みます。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "この 店は 安いです・品物が 多いです・いつも ここで 買い物して います",
+          "ans": "この 店は 安いし、品物も 多いし、いつもここで 買い物して います。",
+          "translation_mm": "ဒီဆိုင်က ဈေးလည်းချိုတယ်၊ ပစ္စည်းလည်းစုံတာမို့လို့၊ အမြဲ ဒီမှာပဲ ဈေးဝယ်ပါတယ်။",
+          "translation_en": "This shop is cheap and has a lot of goods, so I always shop here.",
+          "cue_translation_mm": "ဒီဆိုင်သည် ဈေးချိုသည်၊ ပစ္စည်းစုံသည်၊ အမြဲ ဒီမှာ ဈေးဝယ်နေသည်။",
+          "cue_translation_en": "This shop is cheap, variety of goods, always shopping here.",
+          "cue_hiragana": "この みせは やすいです・しなものが おおいです・いつも ここで かいものして います",
+          "cue_romaji": "kono miseha yasuidesu ・ shinamonoga ooidesu ・ itsumo kokode kaimonoshite imasu",
+          "ans_hiragana": "この みせは やすいし、しなものも おおいし、いつもここで かいものして います。",
+          "ans_romaji": "kono miseha yasuishi, shinamonomo ooishi, itsumokokode kaimonoshite imasu.",
+          "cue_ruby": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>安<rt>やす</rt></ruby>いです・<ruby>品物<rt>しなもの</rt></ruby>が <ruby>多<rt>おお</rt></ruby>いです・いつも ここで <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>して います",
+          "ans_ruby": "この <ruby>店<rt>みせ</rt></ruby>は <ruby>安<rt>やす</rt></ruby>いし、<ruby>品物<rt>しなもの</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、いつもここで <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>して います。"
+        },
+        {
+          "num": 2,
+          "cue": "あしたは 休みです・用事が ありません・うちで ゆっくり 映画を 見ます",
+          "ans": "あしたは 休みだし、用事もないし、うちで ゆっくり 映画を 見ます。",
+          "translation_mm": "မနက်ဖြန်က အားလပ်ရက်ဖြစ်တယ်၊ ကိစ္စလည်းမရှိတာမို့လို့၊ အိမ်မှာ အေးအေးဆေးဆေး ရုပ်ရှင်ကြည့်ပါမယ်။",
+          "translation_en": "Tomorrow is a holiday and I have no errands, so I'll relax at home and watch a movie.",
+          "cue_translation_mm": "မနက်ဖြန် အားလပ်ရက်ဖြစ်သည်၊ အလုပ်ကိစ္စ မရှိပါ၊ အိမ်မှာ ရုပ်ရှင်ကြည့်မည်။",
+          "cue_translation_en": "Tomorrow is day off, no errands, watching movies at home.",
+          "cue_hiragana": "あしたは やすみです・ようじが ありません・うちで ゆっくり えいがを みます",
+          "cue_romaji": "ashitaha yasumidesu ・ youjiga arimasen ・ uchide yukkuri eigawo mimasu",
+          "ans_hiragana": "あしたは やすみだし、ようじもないし、うちで ゆっくり えいがを みます。",
+          "ans_romaji": "ashitaha yasumidashi, youjimonaishi, uchide yukkuri eigawo mimasu.",
+          "cue_ruby": "あしたは <ruby>休<rt>やす</rt></ruby>みです・<ruby>用事<rt>ようじ</rt></ruby>が ありません・うちで ゆっくり <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます",
+          "ans_ruby": "あしたは <ruby>休<rt>やす</rt></ruby>みだし、<ruby>用事<rt>ようじ</rt></ruby>もないし、うちで ゆっくり <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます。"
+        },
+        {
+          "num": 3,
+          "cue": "デザインが すてきです・サイズが ちょうど いいです・この 靴を 買います",
+          "ans": "デザインも すてきだし、サイズも ちょうど いいし、この 靴を 買います。",
+          "translation_mm": "ဒီဇိုင်းလည်း လှပတယ်၊ ဆိုဒ်လည်း အနေတော်ဖြစ်တာမို့လို့၊ ဒီဖိနပ်ကို ဝယ်ပါမယ်။",
+          "translation_en": "The design is great and the size fits just right, so I'll buy these shoes.",
+          "cue_translation_mm": "ဒီဇိုင်းကောင်းမွန်သည်၊ ဆိုဒ် ကွက်တိဖြစ်သည်၊ ဒီဖိနပ်ကို ဝယ်မည်။",
+          "cue_translation_en": "Design is wonderful, size is just right, buying these shoes.",
+          "cue_hiragana": "でざいんが すてきです・さいずが ちょうど いいです・この くつを かいます",
+          "cue_romaji": "dezainga sutekidesu ・ saizuga choudo iidesu ・ kono kutsuwo kaimasu",
+          "ans_hiragana": "でざいんも すてきだし、さいずも ちょうど いいし、この くつを かいます。",
+          "ans_romaji": "dezainmo sutekidashi, saizumo choudo iishi, kono kutsuwo kaimasu.",
+          "cue_ruby": "デザインが すてきです・サイズが ちょうど いいです・この <ruby>靴<rt>くつ</rt></ruby>を <ruby>買<rt>か</rt></ruby>います",
+          "ans_ruby": "デザインも すてきだし、サイズも ちょうど いいし、この <ruby>靴<rt>くつ</rt></ruby>を <ruby>買<rt>か</rt></ruby>います。"
+        },
+        {
+          "num": 4,
+          "cue": "この マンションは 景色が すばらしいです・ペットが 飼えます・よく 売れて います",
+          "ans": "この マンションは 景色も すばらしいし、ペットも 飼えるし、よく 売れて います。",
+          "translation_mm": "ဒီကွန်ဒိုက ရှုခင်းလည်း အရမ်းကောင်းတယ်၊ အိမ်မွေးတိရစ္ဆာန်လည်း မွေးနိုင်တာမို့လို့၊ အရောင်းသွက်နေပါတယ်။",
+          "translation_en": "This condo has wonderful views and allows pets, so it sells very well.",
+          "cue_translation_mm": "ဒီတိုက်ခန်းသည် ရှုခင်းကောင်းသည်၊ အိမ်မွေးတိရစ္ဆာန် မွေးနိုင်သည်၊ ရောင်းအားကောင်းသည်။",
+          "cue_translation_en": "Apartment has great view, allows pets, selling well.",
+          "cue_hiragana": "この まんしょんは けしきが すばらしいです・ぺっとが かえます・よく うれて います",
+          "cue_romaji": "kono manshonha keshikiga subarashiidesu ・ pettoga kaemasu ・ yoku urete imasu",
+          "ans_hiragana": "この まんしょんは けしきも すばらしいし、ぺっとも かえるし、よく うれて います。",
+          "ans_romaji": "kono manshonha keshikimo subarashiishi, pettomo kaerushi, yoku urete imasu.",
+          "cue_ruby": "この マンションは <ruby>景色<rt>けしき</rt></ruby>が すばらしいです・ペットが <ruby>飼<rt>か</rt></ruby>えます・よく <ruby>売<rt>う</rt></ruby>れて います",
+          "ans_ruby": "この マンションは <ruby>景色<rt>けしき</rt></ruby>も すばらしいし、ペットも <ruby>飼<rt>か</rt></ruby>えるし、よく <ruby>売<rt>う</rt></ruby>れて います。"
+        }
+      ],
+      "title_ruby": "5<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "5ばん",
+      "title_romaji": "Ex 5",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 5",
+      "title_translation_en": "Exercise B No. 5",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    },
+    {
+      "section_num": 6,
+      "title": "6<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Exercise B No. 6",
+      "instruction": "れい のように いって ください。",
+      "instruction_en": "Please say it as in the example.",
+      "comic_strip": "",
+      "caption": "",
+      "caption_en": "",
+      "rei": {
+        "num": 0,
+        "cue": "れい: どうして あの 歌手は 若い 人に 人気が あるんですか。 (声が いいです・ダンスが 上手です)",
+        "ans": "→ 声も いいし、ダンスも 上手ですから。",
+        "translation_mm": "အသံလည်းကောင်းတယ်၊ အကလည်း တော်လို့ပါခင်ဗျာ။",
+        "translation_en": "Because they have a good voice and are good at dancing.",
+        "cue_translation_mm": "ဘာဖြစ်လို့ ဟိုအဆိုတော်က လူငယ်တွေကြား ရေပန်းစားတာလဲ (အသံကောင်းသည်၊ အကတော်သည်)",
+        "cue_translation_en": "Why is singer popular? (Good voice, dances well)",
+        "cue_hiragana": "れい: どうして あの かしゅは わかい ひとに にんきが あるんですか。 (こえが いいです・だんすが じょうずです)",
+        "cue_romaji": "rei : doushite ano kashuha wakai hitoni ninkiga arundesuka. (koega iidesu ・ dansuga jouzudesu)",
+        "ans_hiragana": "→ こえも いいし、だんすも じょうずですから。",
+        "ans_romaji": "→ koemo iishi, dansumo jouzudesukara.",
+        "cue_ruby": "れい: どうして あの <ruby>歌手<rt>かしゅ</rt></ruby>は <ruby>若<rt>わか</rt></ruby>い <ruby>人<rt>ひと</rt></ruby>に <ruby>人気<rt>にんき</rt></ruby>が あるんですか。 (<ruby>声<rt>こえ</rt></ruby>が いいです・ダンスが <ruby>上手<rt>じょうず</rt></ruby>です)",
+        "ans_ruby": "→ <ruby>声<rt>こえ</rt></ruby>も いいし、ダンスも <ruby>上手<rt>じょうず</rt></ruby>ですから。"
+      },
+      "items": [
+        {
+          "num": 1,
+          "cue": "どうして 田舎に 住みたいんですか。 (緑が 多いです・食べ物が おいしいです)",
+          "ans": "緑も 多いし、食べ物も おいしいですから。",
+          "translation_mm": "သစ်ပင်စိမ်းလန်းစိုပြည်မှုလည်း များတယ်၊ အစားအသောက်လည်း အရသာရှိလို့ပါခင်ဗျာ။",
+          "translation_en": "Because there is plenty of greenery and the food is delicious.",
+          "cue_translation_mm": "ဘာဖြစ်လို့ ကျေးလက်မှာ နေထိုင်ချင်တာလဲ (သစ်ပင်စိမ်းလန်းသည်၊ အစားအစာ အရသာရှိသည်)",
+          "cue_translation_en": "Why live in countryside? (Lots of greenery, good food)",
+          "cue_hiragana": "どうして いなかに すみたいんですか。 (みどりが おおいです・たべものが おいしいです)",
+          "cue_romaji": "doushite inakani sumitaindesuka. (midoriga ooidesu ・ tabemonoga oishiidesu)",
+          "ans_hiragana": "みどりも おおいし、たべものも おいしいですから。",
+          "ans_romaji": "midorimo ooishi, tabemonomo oishiidesukara.",
+          "cue_ruby": "どうして <ruby>田舎<rt>いなか</rt></ruby>に <ruby>住<rt>す</rt></ruby>みたいんですか。 (<ruby>緑<rt>みどり</rt></ruby>が <ruby>多<rt>おお</rt></ruby>いです・<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が おいしいです)",
+          "ans_ruby": "<ruby>緑<rt>みどり</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>も おいしいですから。"
+        },
+        {
+          "num": 2,
+          "cue": "どうして 先生に なりたいんですか。 (子どもが 好きです・大切な 仕事だと 思います)",
+          "ans": "子どもも 好きだし、大切な 仕事だと 思いますから。",
+          "translation_mm": "ကလေးတွေကိုလည်း ချစ်တယ်၊ အရေးကြီးတဲ့ အလုပ်တစ်ခုလို့လည်း ယူဆလို့ပါခင်ဗျာ။",
+          "translation_en": "Because I like children and think it's an important job.",
+          "cue_translation_mm": "ဘာဖြစ်လို့ ဆရာတစ်ယောက် ဖြစ်ချင်တာလဲ (ကလေးတွေကို ချစ်ခင်သည်၊ အရေးကြီးသောအလုပ်)",
+          "cue_translation_en": "Why become a teacher? (Like kids, important job)",
+          "cue_hiragana": "どうして せんせいに なりたいんですか。 (こどもが すきです・たいせつな しごとだと おもいます)",
+          "cue_romaji": "doushite senseini naritaindesuka. (kodomoga sukidesu ・ taisetsuna shigotodato omoimasu)",
+          "ans_hiragana": "こどもも すきだし、たいせつな しごとだと おもいますから。",
+          "ans_romaji": "kodomomo sukidashi, taisetsuna shigotodato omoimasukara.",
+          "cue_ruby": "どうして <ruby>先生<rt>せんせい</rt></ruby>に なりたいんですか。 (<ruby>子<rt>こ</rt></ruby>どもが <ruby>好<rt>す</rt></ruby>きです・<ruby>大切<rt>たいせつ</rt></ruby>な <ruby>仕事<rt>しごと</rt></ruby>だと <ruby>思<rt>おも</rt></ruby>います)",
+          "ans_ruby": "<ruby>子<rt>こ</rt></ruby>どもも <ruby>好<rt>す</rt></ruby>きだし、<ruby>大切<rt>たいせつ</rt></ruby>な <ruby>仕事<rt>しごと</rt></ruby>だと <ruby>思<rt>おも</rt></ruby>いますから。"
+        },
+        {
+          "num": 3,
+          "cue": "どうして 会社を やめたんですか。 (ボーナスが ありません・給料が 少ないです)",
+          "ans": "ボーナスも ないし、給料も 少ないですから。",
+          "translation_mm": "ဘောနပ်စ်လည်း မရှိဘူး၊ လစာလည်း နည်းလို့ပါခင်ဗျာ။",
+          "translation_en": "Because there is no bonus and the salary is low.",
+          "cue_translation_mm": "ဘာဖြစ်လို့ ကုမ္ပဏီကနေ ထွက်ခဲ့တာလဲ (ဘောနပ်စ် မရှိပါ၊ လစာ နည်းပါးသည်)",
+          "cue_translation_en": "Why quit company? (No bonus, low salary)",
+          "cue_hiragana": "どうして かいしゃを やめたんですか。 (ぼーなすが ありません・きゅうりょうが すくないです)",
+          "cue_romaji": "doushite kaishawo yametandesuka. (boonasuga arimasen ・ kyuuryouga sukunaidesu)",
+          "ans_hiragana": "ぼーなすも ないし、きゅうりょうも すくないですから。",
+          "ans_romaji": "boonasumo naishi, kyuuryoumo sukunaidesukara.",
+          "cue_ruby": "どうして <ruby>会社<rt>かいしゃ</rt></ruby>を やめたんですか。 (ボーナスが ありません・<ruby>給料<rt>きゅうりょう</rt></ruby>が <ruby>少<rt>すく</rt></ruby>ないです)",
+          "ans_ruby": "ボーナスも ないし、<ruby>給料<rt>きゅうりょう</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないですから。"
+        },
+        {
+          "num": 4,
+          "cue": "どうして パワー電気の 製品は よく 売れるんですか。 (値段が 安いです・デザインが いいです・故障が 少ないです)",
+          "ans": "値段も 安いし、デザインも いいし、故障も 少ないですから。",
+          "translation_mm": "ဈေးနှုန်းလည်း သက်သာတယ်၊ ဒီဇိုင်းလည်းကောင်းတယ်၊ ပျက်စီးချို့ယွင်းမှုလည်း နည်းလို့ပါခင်ဗျာ။",
+          "translation_en": "Because the price is low, the design is good, and it rarely breaks down.",
+          "cue_translation_mm": "ဘာဖြစ်လို့ ပါဝါလျှပ်စစ်ပစ္စည်းတွေ ရောင်းအားကောင်းတာလဲ (ဈေးချိုသည်၊ ဒီဇိုင်းကောင်းသည်၊ ပျက်စီးမှု နည်းသည်)",
+          "cue_translation_en": "Why Power Electric sells well? (Cheap, good design, few breakdowns)",
+          "cue_hiragana": "どうして ぱわーでんきの せいひんは よく うれるんですか。 (ねだんが やすいです・でざいんが いいです・こしょうが すくないです)",
+          "cue_romaji": "doushite pawaadenkino seihinha yoku urerundesuka. (nedanga yasuidesu ・ dezainga iidesu ・ koshouga sukunaidesu)",
+          "ans_hiragana": "ねだんも やすいし、でざいんも いいし、こしょうも すくないですから。",
+          "ans_romaji": "nedanmo yasuishi, dezainmo iishi, koshoumo sukunaidesukara.",
+          "cue_ruby": "どうして パワー<ruby>電気<rt>でんき</rt></ruby>の <ruby>製品<rt>せいひん</rt></ruby>は よく <ruby>売<rt>う</rt></ruby>れるんですか。 (<ruby>値段<rt>ねだん</rt></ruby>が <ruby>安<rt>やす</rt></ruby>いです・デザインが いいです・<ruby>故障<rt>こしょう</rt></ruby>が <ruby>少<rt>すく</rt></ruby>ないです)",
+          "ans_ruby": "<ruby>値段<rt>ねだん</rt></ruby>も <ruby>安<rt>やす</rt></ruby>いし、デザインも いいし、<ruby>故障<rt>こしょう</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないですから。"
+        }
+      ],
+      "title_ruby": "6<ruby>番<rt>ばん</rt></ruby>",
+      "title_hiragana": "6ばん",
+      "title_romaji": "Ex 6",
+      "title_translation_mm": "လေ့ကျင့်ခန်း B အမှတ် 6",
+      "title_translation_en": "Exercise B No. 6",
+      "instruction_ruby": "<ruby>例<rt>れい</rt></ruby>のように <ruby>言<rt>い</rt></ruby>って ください。",
+      "instruction_hiragana": "れいの ように いって ください。",
+      "instruction_romaji": "Rei no you ni itte kudasai.",
+      "instruction_translation_mm": "ဥပမာအတိုင်း ပြောဆိုပေးပါ။",
+      "instruction_translation_en": "Please say it as in the example."
+    }
+  ],
+  "renshuuc": [
+    {
+      "num": 1,
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>C 1<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Practice C No. 1 (~nagara Simultaneous Actions)",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>C 1<ruby>番<rt>ばん</rt></ruby>",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "jp": "将来の 夢は 何ですか。",
+          "ruby": "<ruby>将来<rt>しょうらい</rt></ruby>の <ruby>夢<rt>ゆめ</rt></ruby>は <ruby>何<rt>なん</rt></ruby>ですか。",
+          "romaji": "Shōrai no yume wa nan desu ka.",
+          "hiragana": "しょうらいの ゆめは なんですか。",
+          "translation_mm": "အနာဂတ် အိပ်မက်က ဘာပါလဲ?",
+          "translation_en": "What is your dream for the future?"
+        },
+        {
+          "speaker": "B",
+          "jp": "そうですね。 いつか ①コンピューターの 会社を 作りたいです。",
+          "ruby": "そうですね。 いつか ①コンピューターの <ruby>会社<rt>かいしゃ</rt></ruby>を <ruby>作<rt>つく</rt></ruby>りたいです。",
+          "romaji": "Sōdesu ne. Itsuka ① conpyuuta no kaisha wo tsukuritai desu.",
+          "hiragana": "そうですね。 いつか ①こんぴゅーたーの かいしゃを つくりたいです。",
+          "translation_mm": "ပြောရရင်တော့ပေါ့ဗျာ။ တစ်ချိန်ချိန်မှာ ①ကွန်ပျူတာ ကုမ္ပဏီ တစ်ခု တည်ထောင်ချင်တာပါ။",
+          "translation_en": "Let me see. Someday I want to start ① a computer company."
+        },
+        {
+          "speaker": "A",
+          "jp": "すごいですねえ。",
+          "ruby": "すごいですねえ。",
+          "romaji": "Sugoi desu nee.",
+          "hiragana": "すごいですねえ。",
+          "translation_mm": "အံ့သြဖွယ်ကောင်းပါတယ်နော်。",
+          "translation_en": "That's amazing!"
+        },
+        {
+          "speaker": "B",
+          "jp": "それで 今は ②会社で 働きながら ③夜 大学で 勉強して います。",
+          "ruby": "それで <ruby>今<rt>いま</rt></ruby>は ②<ruby>会社<rt>かいしゃ</rt></ruby>で <ruby>働<rt>はたら</rt></ruby>きながら ③<ruby>夜<rt>よる</rt></ruby> <ruby>大学<rt>だいがく</rt></ruby>で <ruby>勉強<rt>べんきょう</rt></ruby>して います。",
+          "romaji": "Sorede ima wa ② kaisha de hatarakinagara ③ yoru daigaku de benkyou shite imasu.",
+          "hiragana": "それで いまは ②かいしゃで はたらきながら ③よる だいがくで べんきょうして います。",
+          "translation_mm": "ဒါကြောင့် အခု ②ကုမ္ပဏီမှာ အလုပ်လုပ်ရင်းနဲ့ ③ ညဘက်တွင် တက္ကသိုလ်မှာ ဘာသာစာ သင်နေပါသည်။",
+          "translation_en": "So right now I'm ② working at a company while ③ studying at university in the evenings."
+        },
+        {
+          "speaker": "A",
+          "jp": "そうですか。 頑張って ください。",
+          "ruby": "そうですか。 <ruby>頑張<rt>がんば</rt></ruby>って ください。",
+          "romaji": "Sou desu ka. Ganbatte kudasai.",
+          "hiragana": "そうですか。 がんばって ください。",
+          "translation_mm": "ဟုတ်လားဗျာ။ ကြိုးစားပါ",
+          "translation_en": "Is that so? Please do your best!"
+        }
+      ],
+      "substitutions": [
+        {
+          "sub_num": 1,
+          "cues": [
+            "① 小説家に なります",
+            "② アルバイトを します",
+            "③ 小説を 書きます"
+          ],
+          "cues_ruby": [
+            "① <ruby>小説家<rt>しょうせつか</rt></ruby>に なります",
+            "② アルバイトを します",
+            "③ <ruby>小説<rt>しょうせつ</rt></ruby>を <ruby>書<rt>か</rt></ruby>きます"
+          ],
+          "cues_romaji": [
+            "1) Shousetsuka ni narimasu",
+            "2) Arubaito o shimasu",
+            "3) Shousetsu o kakimasu"
+          ],
+          "cues_hiragana": [
+            "① しょうせつかに なります",
+            "② アルバイトを します",
+            "③ しょうせつを かきます"
+          ],
+          "cues_translation_mm": [
+            "① ဝတ္ထုရေးဆရာ ဖြစ်သည်",
+            "② အချိန်ပိုင်းအလုပ် လုပ်သည်",
+            "③ ဝတ္ထုရေးသည်"
+          ],
+          "cues_translation_en": [
+            "① Become a novelist",
+            "② Work part-time",
+            "③ Write novels"
+          ],
+          "ans": "A: 将来の 夢は 何ですか。\nB: そうですね。 いつか 小説家に なりたいです。\nA: すごいですねえ。\nB: それで 今は アルバイトを しながら 小説を 書いて います。\nA: そうですか。 頑張って ください。",
+          "ans_ruby": "A: <ruby>将来<rt>しょうらい</rt></ruby>の <ruby>夢<rt>ゆめ</rt></ruby>は <ruby>何<rt>なん</rt></ruby>ですか。\nB: そうですね。 いつか <ruby>小説家<rt>しょうせつか</rt></ruby>に なりたいです。\nA: すごいですねえ。\nB: それで <ruby>今<rt>いま</rt></ruby>は アルバイトを しながら <ruby>小説<rt>しょうせつ</rt></ruby>を <ruby>書<rt>か</rt></ruby>いて います。\nA: そうですか。 <ruby>頑張<rt>がんば</rt></ruby>って ください。",
+          "ans_romaji": "A: Shourai no yume wa nan desu ka.\nB: Sou desu ne. Itsuka shousetsuka ni naritai desu.\nA: Sugoi desu nee.\nB: Sorede ima wa arubaito o shinagara shousetsu o kaite imasu.\nA: Sou desu ka. Ganbatte kudasai.",
+          "ans_hiragana": "A: しょうらいの ゆめは なんですか。\nB: そうですね。 いつか しょうせつかに なりたいです。\nA: すごいですねえ。\nB: それで いまは アルバイトを しながら しょうせつを かいて います。\nA: そうですか。 がんばって ください。",
+          "translation_mm": "A: အနာဂတ် အိပ်မက်က ဘာပါလဲခင်ဗျာ။\nB: ဟုတ်ကဲ့၊ တစ်ချိန်ချိန်မှာ ဝတ္ထုရေးဆရာ ဖြစ်ချင်တာပါ။\nA: အံ့ဩဖို့ကောင်းလိုက်တာနော်။\nB: ဒါကြောင့် အခုအချိန်မှာ အချိန်ပိုင်းအလုပ် လုပ်ရင်း ဝတ္ထုရေးနေပါတယ်။\nA: ဟုတ်လားခင်ဗျာ။ ကြိုးစားပါနော်။",
+          "translation_en": "A: What is your dream for the future?\nB: Well, someday I want to become a novelist.\nA: That's wonderful!\nB: So right now I'm writing novels while working part-time.\nA: I see. Good luck!"
+        },
+        {
+          "sub_num": 2,
+          "cues": [
+            "① 自分の 店を 持ちます",
+            "② レストランで 働きます",
+            "③ 料理の 勉強を します"
+          ],
+          "cues_ruby": [
+            "① <ruby>自分<rt>じぶん</rt></ruby>の <ruby>店<rt>みせ</rt></ruby>を <ruby>持<rt>も</rt></ruby>ちます",
+            "② レストランで <ruby>働<rt>はたら</rt></ruby>きます",
+            "③ <ruby>料理<rt>りょうり</rt></ruby>の <ruby>勉強<rt>べんきょう</rt></ruby>を します"
+          ],
+          "cues_romaji": [
+            "1) Jibun no mise o mochimasu",
+            "2) Resutoran de hatarakimasu",
+            "3) Ryouri no benkyou o shimasu"
+          ],
+          "cues_hiragana": [
+            "① じぶんの みせを もちます",
+            "② レストランで はたらきます",
+            "③ りょうりの べんきょうを します"
+          ],
+          "cues_translation_mm": [
+            "① ကိုယ်ပိုင်ဆိုင်လေး ပိုင်ဆိုင်သည်",
+            "② စားသောက်ဆိုင်တွင် အလုပ်လုပ်သည်",
+            "③ ဟင်းချက်နည်း လေ့လာသည်"
+          ],
+          "cues_translation_en": [
+            "① Have my own restaurant",
+            "② Work at a restaurant",
+            "③ Study cooking"
+          ],
+          "ans": "A: 将来の 夢は 何ですか。\nB: そうですね。 いつか 自分の 店を 持ちたいです。\nA: すごいですねえ。\nB: それで 今は レストランで 働きながら 料理の 勉強を して います。\nA: そうですか。 頑張って ください。",
+          "ans_ruby": "A: <ruby>将来<rt>しょうらい</rt></ruby>の <ruby>夢<rt>ゆめ</rt></ruby>は <ruby>何<rt>なん</rt></ruby>ですか。\nB: そうですね。 いつか <ruby>自分<rt>じぶん</rt></ruby>の <ruby>店<rt>みせ</rt></ruby>を <ruby>持<rt>も</rt></ruby>ちたいです。\nA: すごいですねえ。\nB: それで <ruby>今<rt>いま</rt></ruby>は レストランで <ruby>働<rt>はたら</rt></ruby>きながら <ruby>料理<rt>りょうり</rt></ruby>の <ruby>勉強<rt>べんきょう</rt></ruby>を して います。\nA: そうですか。 <ruby>頑張<rt>がんば</rt></ruby>って ください。",
+          "ans_romaji": "A: Shourai no yume wa nan desu ka.\nB: Sou desu ne. Itsuka jibun no mise o mochitai desu.\nA: Sugoi desu nee.\nB: Sorede ima wa resutoran de hatarakinagara ryouri no benkyou o shite imasu.\nA: Sou desu ka. Ganbatte kudasai.",
+          "ans_hiragana": "A: しょうらいの ゆめは なんですか。\nB: そうですね。 いつか じぶんの みせを もちたいです。\nA: すごいですねえ。\nB: それで いまは レストランで はたらきながら りょうりの べんきょうを して います。\nA: そうですか。 がんばって ください。",
+          "translation_mm": "A: အနာဂတ် အိပ်မက်က ဘာပါလဲခင်ဗျာ။\nB: ဟုတ်ကဲ့၊ တစ်ချိန်ချိန်မှာ ကိုယ်ပိုင်ဆိုင်လေး ပိုင်ဆိုင်ချင်တာပါ။\nA: အံ့ဩဖို့ကောင်းလိုက်တာနော်။\nB: ဒါကြောင့် အခုအချိန်မှာ စားသောက်ဆိုင်မှာ အလုပ်လုပ်ရင်း ဟင်းချက်နည်း သင်ယူနေပါတယ်။\nA: ဟုတ်လားခင်ဗျာ။ ကြိုးစားပါနော်။",
+          "translation_en": "A: What is your dream for the future?\nB: Well, someday I want to have my own restaurant.\nA: That's wonderful!\nB: So right now I'm studying cooking while working at a restaurant.\nA: I see. Good luck!"
+        }
+      ],
+      "comic_strip": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img03_RenshuuB_Drawing.webp",
+      "illustration": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img03_RenshuuB_Drawing.webp",
+      "title_hiragana": "れんしゅうC 1ばん",
+      "title_romaji": "Renshuu C 1-ban",
+      "title_translation_mm": "လေ့ကျင့်ခန်း C အမှတ် ၁ (〜ながら တစ်ပြိုင်နက်ဆောင်ရွက်ခြင်း)",
+      "title_translation_en": "Practice C No. 1 (~nagara Simultaneous Actions)"
+    },
+    {
+      "num": 2,
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>C 2<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Practice C No. 2 (~shi, ~shi Listing Reasons)",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>C 2<ruby>番<rt>ばん</rt></ruby>",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "jp": "ずいぶん 人が 多いですね。",
+          "ruby": "ずいぶん <ruby>人<rt>ひと</rt></ruby>が <ruby>多<rt>おお</rt></ruby>いですね。",
+          "romaji": "Zuibun hito ga ooi desu ne.",
+          "hiragana": "ずいぶん ひとが おおいですね。",
+          "translation_mm": "လူတွေ တော်တော်များနေတာပဲနော်。",
+          "translation_en": "There are quite a lot of people, aren't there."
+        },
+        {
+          "speaker": "B",
+          "jp": "ええ。 ここは ①コーヒーも おいしいし、②食事も できるし……。",
+          "ruby": "ええ。 ここは ①コーヒーも おいしいし、②<ruby>食事<rt>しょくじ</rt></ruby>も できるし……。",
+          "romaji": "Ee. Koko wa ① koohii mo oishii shi, ② shokuji mo dekiru shi……",
+          "hiragana": "ええ。 ここは ①こーひーも おいしいし、②しょくじも できるし……。",
+          "translation_mm": "ဟုတ်ကဲ့ပါ။ ဒီနေရာက ①ကော်ဖီလည်း အရသာ ရှိသည်လည်း ရှိ、②ထမင်းစားနိုင်သည်လည်း ဖြစ်……",
+          "translation_en": "Yes. The ①coffee is delicious here, and ②you can have a meal too…"
+        },
+        {
+          "speaker": "A",
+          "jp": "それで 人気が あるんですね。",
+          "ruby": "それで <ruby>人気<rt>にんき</rt></ruby>が あるんですね。",
+          "romaji": "Sorede ninki ga arun desu ne.",
+          "hiragana": "それで にんきが あるんですね。",
+          "translation_mm": "ဒါကြောင့် လူကြိုက်များ တာပေါ့နော်。",
+          "translation_en": "That's why it's so popular."
+        }
+      ],
+      "substitutions": [
+        {
+          "sub_num": 1,
+          "cues": [
+            "① 店が きれいです",
+            "② サービスが いいです"
+          ],
+          "cues_ruby": [
+            "① <ruby>店<rt>みせ</rt></ruby>が きれいです",
+            "② サービスが いいです"
+          ],
+          "cues_romaji": [
+            "1) Mise ga kirei desu",
+            "2) Saabisu ga ii desu"
+          ],
+          "cues_hiragana": [
+            "① みせが きれいです",
+            "② サービスが いいです"
+          ],
+          "cues_translation_mm": [
+            "① ဆိုင်က သန့်ရှင်းလှပတယ်",
+            "② ဝန်ဆောင်မှု ကောင်းတယ်"
+          ],
+          "cues_translation_en": [
+            "① The shop is clean",
+            "② Service is good"
+          ],
+          "ans": "A: ずいぶん 人が 多いですね。\nB: ええ。 ここは 店も きれいだし、サービスも いいし……。\nA: それで 人気が あるんですね。",
+          "ans_ruby": "A: ずいぶん <ruby>人<rt>ひと</rt></ruby>が <ruby>多<rt>おお</rt></ruby>いですね。\nB: ええ。 ここは <ruby>店<rt>みせ</rt></ruby>も きれいだし、サービスも いいし……。\nA: それで <ruby>人気<rt>にんき</rt></ruby>が あるんですね。",
+          "ans_romaji": "A: Zuibun hito ga ooi desu ne.\nB: Ee. Koko wa mise mo kirei da shi, saabisu mo ii shi...\nA: Sorede ninki ga aru n desu ne.",
+          "ans_hiragana": "A: ずいぶん ひとが おおいですね。\nB: ええ。 ここは みせも きれいだし、サービスも いいし……。\nA: それで にんきが あるんですね。",
+          "translation_mm": "A: လူတွေ တော်တော်များနေတာပဲနော်။\nB: ဟုတ်ကဲ့၊ ဒီဆိုင်က သန့်ရှင်းလှပသလို ဝန်ဆောင်မှုလည်း ကောင်းမွန်တာမို့လို့ပါ……။\nA: ဒါကြောင့် လူကြိုက်များတာပေါ့နော်။",
+          "translation_en": "A: There are quite a lot of people, aren't there?\nB: Yes. The place is clean, and the service is good too...\nA: That's why it's so popular."
+        },
+        {
+          "sub_num": 2,
+          "cues": [
+            "① 値段が 安いです",
+            "② いい 音楽が 聞けます"
+          ],
+          "cues_ruby": [
+            "① <ruby>値段<rt>ねだん</rt></ruby>が <ruby>安<rt>やす</rt></ruby>いです",
+            "② いい <ruby>音楽<rt>おんがく</rt></ruby>が <ruby>聞<rt>き</rt></ruby>けます"
+          ],
+          "cues_romaji": [
+            "1) Nedan ga yasui desu",
+            "2) Ii ongaku ga kikemasu"
+          ],
+          "cues_hiragana": [
+            "① ねだんが やすいです",
+            "② いい おんがくが きけます"
+          ],
+          "cues_translation_mm": [
+            "① ဈေးနှုန်းချိုသာတယ်",
+            "② ဂီတကောင်းကောင်း နားထောင်နိုင်တယ်"
+          ],
+          "cues_translation_en": [
+            "① Prices are cheap",
+            "② Can listen to good music"
+          ],
+          "ans": "A: ずいぶん 人が 多いですね。\nB: ええ。 ここは 値段も 安いし、いい 音楽も 聞けるし……。\nA: それで 人気が あるんですね。",
+          "ans_ruby": "A: ずいぶん <ruby>人<rt>ひと</rt></ruby>が <ruby>多<rt>おお</rt></ruby>いですね。\nB: ええ。 ここは <ruby>値段<rt>ねだん</rt></ruby>も <ruby>安<rt>やす</rt></ruby>いし、いい <ruby>音楽<rt>おんがく</rt></ruby>も <ruby>聞<rt>き</rt></ruby>けるし……。\nA: それで <ruby>人気<rt>にんき</rt></ruby>が あるんですね。",
+          "ans_romaji": "A: Zuibun hito ga ooi desu ne.\nB: Ee. Koko wa nedan mo yasui shi, ii ongaku mo kikeru shi...\nA: Sorede ninki ga aru n desu ne.",
+          "ans_hiragana": "A: ずいぶん ひとが おおいですね。\nB: ええ。 ここは ねだんも やすいし、いい おんがくも きけるし……。\nA: それで にんきが あるんですね。",
+          "translation_mm": "A: လူတွေ တော်တော်များနေတာပဲနော်။\nB: ဟုတ်ကဲ့၊ ဒီမှာ ဈေးနှုန်းလည်း ချိုသာသလို ဂီတကောင်းကောင်းလည်း နားထောင်နိုင်တာမို့လို့ပါ……။\nA: ဒါကြောင့် လူကြိုက်များတာပေါ့နော်။",
+          "translation_en": "A: There are quite a lot of people, aren't there?\nB: Yes. The prices are cheap, and good music is played too...\nA: That's why it's so popular."
+        }
+      ],
+      "comic_strip": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img04_RenshuuB_Drawing.webp",
+      "illustration": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img04_RenshuuB_Drawing.webp",
+      "title_hiragana": "れんしゅうC 2ばん",
+      "title_romaji": "Renshuu C 2-ban",
+      "title_translation_mm": "လေ့ကျင့်ခန်း C အမှတ် ၂ (〜し、〜し အကြောင်းပြချက်များ စီတန်းဖော်ပြခြင်း)",
+      "title_translation_en": "Practice C No. 2 (~shi, ~shi Listing Reasons)"
+    },
+    {
+      "num": 3,
+      "title": "<ruby>練習<rt>れんしゅう</rt></ruby>C 3<ruby>番<rt>ばん</rt></ruby>",
+      "title_en": "Practice C No. 3 (~shi, soreni~ Polite Refusal)",
+      "title_ruby": "<ruby>練習<rt>れんしゅう</rt></ruby>C 3<ruby>番<rt>ばん</rt></ruby>",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "jp": "これから いっしょに 飲みに 行きませんか。",
+          "ruby": "これから いっしょに <ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きませんか。",
+          "romaji": "Korekara issho ni nomi ni ikimasen ka.",
+          "hiragana": "これから いっしょに のみに いきませんか。",
+          "translation_mm": "အခုကနေ အတူ သောက်ဖို့ မသွားကြပါဘူးလား?",
+          "translation_en": "Shall we go for a drink together now?"
+        },
+        {
+          "speaker": "B",
+          "jp": "きょうは ちょっと……。 きのうも 飲んだし、それに あした 大阪へ 出張ですから。",
+          "ruby": "きょうは ちょっと……。 きのうも <ruby>飲<rt>の</rt></ruby>んだし、それに あした <ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>出張<rt>しゅっちょう</rt></ruby>ですから。",
+          "romaji": "Kyou wa chotto……. Kinou mo nonda shi, sore ni ashita Oosaka e shucchou desu kara.",
+          "hiragana": "きょうは ちょっと……。 きのうも のんだし、それに あした おおさかへ しゅっちょうですから。",
+          "translation_mm": "ဒီနေ့က နည်းနည်း……。 မနေ့ကလည်း သောက်ခဲ့ပြီ、ထိုမှတပါး မနက်ဖြန် အိုဆာကာ ခရီးထွက်ရမှာမို့လို့ပါ。",
+          "translation_en": "Today is a bit… I drank yesterday too, and I have a business trip to Osaka tomorrow."
+        },
+        {
+          "speaker": "A",
+          "jp": "そうですか。",
+          "ruby": "そうですか。",
+          "romaji": "Sou desu ka.",
+          "hiragana": "そうですか。",
+          "translation_mm": "ဟုတ်လားဗျာ?",
+          "translation_en": "I see."
+        },
+        {
+          "speaker": "B",
+          "jp": "すみません。",
+          "ruby": "すみません。",
+          "romaji": "Sumimasen.",
+          "hiragana": "すみません。",
+          "translation_mm": "တောင်းပန်ပါတယ်ခင်ဗျာ。",
+          "translation_en": "I'm sorry."
+        }
+      ],
+      "substitutions": [
+        {
+          "sub_num": 1,
+          "cues": [
+            "もう 遅いです"
+          ],
+          "cues_ruby": [
+            "もう <ruby>遅<rt>おそ</rt></ruby>いです"
+          ],
+          "cues_romaji": [
+            "Mou osoi desu"
+          ],
+          "cues_hiragana": [
+            "もう おそいです"
+          ],
+          "cues_translation_mm": [
+            "အချိန်နောက်ကျနေပြီဖြစ်သည်"
+          ],
+          "cues_translation_en": [
+            "It's already late"
+          ],
+          "ans": "A: これから いっしょに 飲みに 行きませんか。\nB: きょうは ちょっと……。 もう 遅いし、それに あした 大阪へ 出張ですから。\nA: そうですか。\nB: すみません。",
+          "ans_ruby": "A: これから いっしょに <ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きませんか。\nB: きょうは ちょっと……。 もう <ruby>遅<rt>おそ</rt></ruby>いし、それに あした <ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>出張<rt>しゅっちょう</rt></ruby>ですから。\nA: そうですか。\nB: すみません。",
+          "ans_romaji": "A: Korekara issho ni nomi ni ikimasen ka.\nB: Kyou wa chotto... Mou osoi shi, soreni ashita Oosaka e shucchou desu kara.\nA: Sou desu ka.\nB: Sumimasen.",
+          "ans_hiragana": "A: これから いっしょに のみに いきませんか。\nB: きょうは ちょっと……。 もう おそいし、それに あした おおさかへ しゅっちょうですから。\nA: そうですか。\nB: すみません。",
+          "translation_mm": "A: အခုကနေ အတူတူ သောက်ဖို့ မသွားကြဘူးလားခင်ဗျာ။\nB: ဒီနေ့တော့ နည်းနည်း……။ အချိန်လည်း နောက်ကျနေပြီဖြစ်သလို၊ မနက်ဖြန်လည်း အိုဆာကာကို အလုပ်ကိစ္စနဲ့ ခရီးသွားရမှာမို့လို့ပါ။\nA: ဟုတ်လားခင်ဗျာ။\nB: စိတ်မရှိပါနဲ့ခင်ဗျာ။",
+          "translation_en": "A: Won't you come for a drink with me now?\nB: Today is a bit... It's already late, and besides, I have a business trip to Osaka tomorrow.\nA: I see.\nB: Sorry about that."
+        },
+        {
+          "sub_num": 2,
+          "cues": [
+            "体の 調子が あまり よくないです"
+          ],
+          "cues_ruby": [
+            "<ruby>体<rt>からだ</rt></ruby>の <ruby>調子<rt>ちょうし</rt></ruby>が あまり よくないです"
+          ],
+          "cues_romaji": [
+            "Karada no choushi ga amari yokunai desu"
+          ],
+          "cues_hiragana": [
+            "からだの ちょうしが あまり よくないです"
+          ],
+          "cues_translation_mm": [
+            "နေထိုင်ရတာ သိပ်မကောင်းပါ"
+          ],
+          "cues_translation_en": [
+            "Not feeling very well"
+          ],
+          "ans": "A: これから いっしょに 飲みに 行きませんか。\nB: きょうは ちょっと……。 体の 調子も あまり よくないし、それに あした 大阪へ 出張ですから。\nA: そうですか。\nB: すみません。",
+          "ans_ruby": "A: これから いっしょに <ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きませんか。\nB: きょうは ちょっと……。 <ruby>体<rt>からだ</rt></ruby>の <ruby>調子<rt>ちょうし</rt></ruby>も あまり よくないし、それに あした <ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>出張<rt>しゅっちょう</rt></ruby>ですから。\nA: そうですか。\nB: すみません。",
+          "ans_romaji": "A: Korekara issho ni nomi ni ikimasen ka.\nB: Kyou wa chotto... Karada no choushi mo amari yokunai shi, soreni ashita Oosaka e shucchou desu kara.\nA: Sou desu ka.\nB: Sumimasen.",
+          "ans_hiragana": "A: これから いっしょに のみに いきませんか。\nB: きょうは ちょっと……。 からだの ちょうしも あまり よくないし、それに あした おおさかへ しゅっちょうですから。\nA: そうですか。\nB: すみません。",
+          "translation_mm": "A: အခုကနေ အတူတူ သောက်ဖို့ မသွားကြဘူးလားခင်ဗျာ။\nB: ဒီနေ့တော့ နည်းနည်း……။ နေထိုင်ရတာလည်း သိပ်မကောင်းသလို၊ မနက်ဖြန်လည်း အိုဆာကာကို အလုပ်ကိစ္စနဲ့ ခရီးသွားရမှာမို့လို့ပါ။\nA: ဟုတ်လားခင်ဗျာ။\nB: စိတ်မရှိပါနဲ့ခင်ဗျာ။",
+          "translation_en": "A: Won't you come for a drink with me now?\nB: Today is a bit... I'm not feeling very well, and besides, I have a business trip to Osaka tomorrow.\nA: I see.\nB: Sorry about that."
+        }
+      ],
+      "comic_strip": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img05_RenshuuB_Drawing.webp",
+      "illustration": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img05_RenshuuB_Drawing.webp",
+      "title_hiragana": "れんしゅうC 3ばん",
+      "title_romaji": "Renshuu C 3-ban",
+      "title_translation_mm": "လေ့ကျင့်ခန်း C အမှတ် ၃ (〜し、それに〜 ဖိတ်ခေါ်ချက်အား ယဉ်ကျေးစွာ ငြင်းပယ်ခြင်း)",
+      "title_translation_en": "Practice C No. 3 (~shi, soreni~ Polite Refusal)"
+    }
+  ],
+  "mondai": [
+    {
+      "section_num": 1,
+      "title": "1<ruby>番<rt>ばん</rt></ruby> (CD08) <ruby>聴解問題<rt>ちょうかいもんだい</rt></ruby>",
+      "title_en": "Problem 1: Listening (CD08) — Answer the questions",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "ピアノを 弾きながら 歌えますか。",
+          "ans_example": "はい、歌えます。",
+          "romaji": "pianowo hikinagara utaemasuka.",
+          "translation_mm": "စန္ဒရားတီးရင်း သီချင်းဆိုနိုင်ပါသလား။",
+          "translation_en": "Can you sing while playing the piano?",
+          "hiragana": "ぴあのを ひきながら うたえますか。",
+          "audio_script_ruby": "ピアノを <ruby>弾<rt>ひ</rt></ruby>きながら <ruby>歌<rt>うた</rt></ruby>えますか。",
+          "audio_script_hiragana": "ぴあのを ひきながら うたえますか。",
+          "audio_script_romaji": "Pianowo hikinagara utaemasuka.",
+          "ans_example_ruby": "はい、<ruby>歌<rt>うた</rt></ruby>えます。",
+          "ans_example_hiragana": "はい、うたえます。",
+          "ans_example_romaji": "Hai, utaemasu.",
+          "ans_example_translation_mm": "ဟုတ်ကဲ့၊ သီဆိုနိုင်ပါသည်",
+          "ans_example_translation_en": "Yes, I can sing."
+        },
+        {
+          "q_num": 2,
+          "audio_script": "暇なときは、いつも 何をして いますか。",
+          "ans_example": "本を 読んだり、ビデオを 見たりして います。",
+          "romaji": "himanatokiha, itsumo naniwoshite imasuka.",
+          "translation_mm": "အားလပ်ချိန်များတွင် အမြဲတမ်း ဘာတွေလုပ်လေ့ရှိပါသလဲ။",
+          "translation_en": "What do you usually do in your free time?",
+          "hiragana": "ひまなときは、いつも なにをして いますか。",
+          "audio_script_ruby": "<ruby>暇<rt>ひま</rt></ruby>なときは、いつも <ruby>何<rt>なに</rt></ruby>をして いますか。",
+          "audio_script_hiragana": "ひまなときは、いつも なにをして いますか。",
+          "audio_script_romaji": "Himanatokiha, itsumo naniwoshite imasuka.",
+          "ans_example_ruby": "<ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>んだり、ビデオを <ruby>見<rt>み</rt></ruby>たりして います。",
+          "ans_example_hiragana": "ほんを よんだり、びでおを みたりして います。",
+          "ans_example_romaji": "Honwo yondari, bideowo mitarishite imasu.",
+          "ans_example_translation_mm": "စာအုပ် ဖတ်တာ၊ ဗီဒီယို ကြည့်တာများ လုပ်နေပါသည်",
+          "ans_example_translation_en": "I do things like reading books and watching videos."
+        },
+        {
+          "q_num": 3,
+          "audio_script": "子どものとき、毎日 学校が 終わってから、何をして いましたか。",
+          "ans_example": "サッカーを して いました。",
+          "romaji": "kodomonotoki, mainichi gakkouga owattekara, naniwoshite imashitaka.",
+          "translation_mm": "ငယ်စဉ်ကလေးဘဝက နေ့တိုင်း ကျောင်းဆင်းပြီးနောက် ဘာတွေလုပ်ခဲ့ပါသလဲ။",
+          "translation_en": "When you were a child, what did you do every day after school finished?",
+          "hiragana": "こどものとき、まいにち がっこうが おわってから、なにをして いましたか。",
+          "audio_script_ruby": "<ruby>子<rt>こ</rt></ruby>どものとき、<ruby>毎日<rt>まいにち</rt></ruby> <ruby>学校<rt>がっこう</rt></ruby>が <ruby>終<rt>お</rt></ruby>わってから、<ruby>何<rt>なに</rt></ruby>をして いましたか。",
+          "audio_script_hiragana": "こどものとき、まいにち がっこうが おわってから、なにをして いましたか。",
+          "audio_script_romaji": "Kodomonotoki, mainichi gakkouga owattekara, naniwoshite imashitaka.",
+          "ans_example_ruby": "サッカーを して いました。",
+          "ans_example_hiragana": "さっかーを して いました。",
+          "ans_example_romaji": "Sakkaawo shite imashita.",
+          "ans_example_translation_mm": "ဘောလုံး ကစားနေပါသည်",
+          "ans_example_translation_en": "I was playing soccer."
+        },
+        {
+          "q_num": 4,
+          "audio_script": "東京は 人も 多いし、いろいろな 店もあるし、にぎやかです。あなたが 住んでいる 町は どうですか。",
+          "ans_example": "わたしの 町は 小さいし、人も 少ないし、静かです。",
+          "romaji": "toukyouha hitomo ooishi, iroirona misemoarushi, nigiyakadesu. anataga sundeiru machiha doudesuka.",
+          "translation_mm": "တိုကျိုသည် လူလည်းများပြီး ဆိုင်မျိုးစုံလည်းရှိသဖြင့် စည်ကားလှပါသည်။ သင်နေထိုင်သောမြို့သည် မည်သို့ရှိပါသလဲ။",
+          "translation_en": "Tokyo has many people and various shops, so it is lively. How about the town where you live?",
+          "hiragana": "とうきょうは ひとも おおいし、いろいろな みせもあるし、にぎやかです。あなたが すんでいる まちは どうですか。",
+          "audio_script_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>は <ruby>人<rt>ひと</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、いろいろな <ruby>店<rt>みせ</rt></ruby>もあるし、にぎやかです。あなたが <ruby>住<rt>す</rt></ruby>んでいる <ruby>町<rt>まち</rt></ruby>は どうですか。",
+          "audio_script_hiragana": "とうきょうは ひとも おおいし、いろいろな みせもあるし、にぎやかです。あなたが すんでいる まちは どうですか。",
+          "audio_script_romaji": "Toukyouha hitomo ooishi, iroirona misemoarushi, nigiyakadesu. anataga sundeiru machiha doudesuka.",
+          "ans_example_ruby": "わたしの <ruby>町<rt>まち</rt></ruby>は <ruby>小<rt>ちい</rt></ruby>さいし、<ruby>人<rt>ひと</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないし、<ruby>静<rt>しず</rt></ruby>かです。",
+          "ans_example_hiragana": "わたしの まちは ちいさいし、ひとも すくないし、しずかです。",
+          "ans_example_romaji": "Watashino machiha chiisaishi, hitomo sukunaishi, shizukadesu.",
+          "ans_example_translation_mm": "ကျွန်တော့်မြို့ ငယ်သည်၊ လူလည်း နည်းသည်၊ ငြိမ်သက်ပါသည်",
+          "ans_example_translation_en": "My town is small, there aren't many people, and it's quiet."
+        }
+      ],
+      "title_ruby": "1<ruby>番<rt>ばん</rt></ruby> (CD08) <ruby>聴解問題<rt>ちょうかいもんだい</rt></ruby>",
+      "title_hiragana": "1ばん (CD08) ちょうかいもんだい",
+      "title_romaji": "1 ban (CD08) choukaimondai",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 1",
+      "title_translation_en": "Problem 1: Listening (CD08) — Answer the questions",
+      "title_mm": "လေ့ကျင့်ခန်း 1",
+      "num": 1
+    },
+    {
+      "section_num": 2,
+      "title": "2<ruby>番<rt>ばん</rt></ruby> (CD09) <ruby>聴解<rt>ちょうかい</rt></ruby> — ○か×か",
+      "title_en": "Problem 2: Listening (CD09) — True or False (○ or ×)",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "女：先生、太郎は 学校で どうですか。 男：太郎君は 元気だし、親切だし、友達は みんな 太郎君が 好きですよ。 ★ 太郎君は 人気が ありません。",
+          "ans_example": "× (ただしくない — 太郎君は 人気が あります)",
+          "romaji": "onna : sensei, tarouha gakkoude doudesuka. otoko : taroukunha genkidashi, shinsetsudashi, tomodachiha minna taroukunga sukidesuyo. ★ taroukunha ninkiga arimasen.",
+          "translation_mm": "အမျိုးသမီး: ဆရာရှင့်၊ တာရိုးလေး ကျောင်းမှာ ဘယ်လိုနေပါသလဲရှင်။\nအမျိုးသား: တာရိုးလေးက တက်ကြွပြီး ဖော်ရွေကြင်နာတတ်တာမို့ သူငယ်ချင်းတွေအားလုံး တာရိုးလေးကို ချစ်ခင်ကြပါတယ်ဗျာ။\n★ တာရိုးလေးသည် လူကြိုက်နည်းသည်။",
+          "translation_en": "Woman: Teacher, how is Taro doing at school?\nMan: Taro is energetic and kind, so all his friends like him!\n★ Taro is not popular.",
+          "hiragana": "おんな：せんせい、たろうは がっこうで どうですか。 おとこ：たろうくんは げんきだし、しんせつだし、ともだちは みんな たろうくんが すきですよ。 ★ たろうくんは にんきが ありません。",
+          "audio_script_ruby": "<ruby>女<rt>おんな</rt></ruby>：<ruby>先生<rt>せんせい</rt></ruby>、<ruby>太郎<rt>たろう</rt></ruby>は <ruby>学校<rt>がっこう</rt></ruby>で どうですか。 <ruby>男<rt>おとこ</rt></ruby>：<ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>は <ruby>元気<rt>げんき</rt></ruby>だし、<ruby>親切<rt>しんせつ</rt></ruby>だし、<ruby>友達<rt>ともだち</rt></ruby>は みんな <ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>が <ruby>好<rt>す</rt></ruby>きですよ。 ★ <ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>は <ruby>人気<rt>にんき</rt></ruby>が ありません。",
+          "audio_script_hiragana": "おんな：せんせい、たろうは がっこうで どうですか。 おとこ：たろうくんは げんきだし、しんせつだし、ともだちは みんな たろうくんが すきですよ。 ★ たろうくんは にんきが ありません。",
+          "audio_script_romaji": "Onna : sensei, tarouha gakkoude doudesuka. otoko : taroukunha genkidashi, shinsetsudashi, tomodachiha minna taroukunga sukidesuyo. ★ taroukunha ninkiga arimasen.",
+          "ans_example_ruby": "× (ただしくない — <ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>は <ruby>人気<rt>にんき</rt></ruby>が あります)",
+          "ans_example_hiragana": "× (ただしくない — たろうくんは にんきが あります)",
+          "ans_example_romaji": "X (tadashikunai — taroukunha ninkiga arimasu)",
+          "ans_example_translation_mm": "× (မှားသည် — တာရိုမင်းသည် လူကြိုက်များသည်)",
+          "ans_example_translation_en": "× (Incorrect — Taro is popular)"
+        },
+        {
+          "q_num": 2,
+          "audio_script": "女：ミラーさんが 生まれた 所は どこですか。 男：ニューヨークの 近くです。小さい 町ですが、海が 近いですから、景色も いいし、魚も おいしいです。 ★ ミラーさんは 海の 近くの 町で 生まれました。",
+          "ans_example": "○ (ただしい)",
+          "romaji": "onna : miraasanga umareta tokoroha dokodesuka. otoko : nyuuyookuno chikakudesu. chiisai machidesuga, umiga chikaidesukara, keshikimo iishi, sakanamo oishiidesu. ★ miraasanha umino chikakuno machide umaremashita.",
+          "translation_mm": "အမျိုးသမီး: မစ္စတာမီလာ မွေးဖွားခဲ့တဲ့နေရာက ဘယ်မှာလဲရှင်။\nအမျိုးသား: နယူးယောက်အနီးမှာပါ။ မြို့ငယ်လေးဖြစ်ပေမဲ့ ပင်လယ်နဲ့နီးတာမို့ ရှုခင်းလည်းလှသလို ငါးတွေလည်း အရသာရှိပါတယ်။\n★ မစ္စတာမီလာသည် ပင်လယ်နှင့်နီးသော မြို့လေးတွင် မွေးဖွားခဲ့သည်။",
+          "translation_en": "Woman: Where was the place where you were born, Mr. Miller?\nMan: Near New York. It's a small town, but because it's near the sea, the scenery is beautiful and the fish is delicious.\n★ Mr. Miller was born in a town near the sea.",
+          "hiragana": "おんな：みらーさんが うまれた ところは どこですか。 おとこ：にゅーよーくの ちかくです。ちいさい まちですが、うみが ちかいですから、けしきも いいし、さかなも おいしいです。 ★ みらーさんは うみの ちかくの まちで うまれました。",
+          "audio_script_ruby": "<ruby>女<rt>おんな</rt></ruby>：ミラーさんが <ruby>生<rt>う</rt></ruby>まれた <ruby>所<rt>ところ</rt></ruby>は どこですか。 <ruby>男<rt>おとこ</rt></ruby>：ニューヨークの <ruby>近<rt>ちか</rt></ruby>くです。<ruby>小<rt>ちい</rt></ruby>さい <ruby>町<rt>まち</rt></ruby>ですが、<ruby>海<rt>うみ</rt></ruby>が <ruby>近<rt>ちか</rt></ruby>いですから、<ruby>景色<rt>けしき</rt></ruby>も いいし、<ruby>魚<rt>さかな</rt></ruby>も おいしいです。 ★ ミラーさんは <ruby>海<rt>うみ</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くの <ruby>町<rt>まち</rt></ruby>で <ruby>生<rt>う</rt></ruby>まれました。",
+          "audio_script_hiragana": "おんな：みらーさんが うまれた ところは どこですか。 おとこ：にゅーよーくの ちかくです。ちいさい まちですが、うみが ちかいですから、けしきも いいし、さかなも おいしいです。 ★ みらーさんは うみの ちかくの まちで うまれました。",
+          "audio_script_romaji": "Onna : miraasanga umareta tokoroha dokodesuka. otoko : nyuuyookuno chikakudesu. chiisai machidesuga, umiga chikaidesukara, keshikimo iishi, sakanamo oishiidesu. ★ miraasanha umino chikakuno machide umaremashita.",
+          "ans_example_ruby": "○ (ただしい)",
+          "ans_example_hiragana": "○ (ただしい)",
+          "ans_example_romaji": "○ (tadashii)",
+          "ans_example_translation_mm": "○ (မှန်သည်)",
+          "ans_example_translation_en": "○"
+        },
+        {
+          "q_num": 3,
+          "audio_script": "女：ミラーさん、おはようございます。毎朝早いですね。 男：ええ、朝早く 出ると、電車で 座れるし、新聞も 読めるし……。それに 会社で コーヒーを 飲みながら 日本語の 勉強が できますから。 ★ ミラーさんは 会社へ 来てから、新聞を 読んでいます。",
+          "ans_example": "× (電車で読みます — 会社ではありません)",
+          "romaji": "onna : miraasan, ohayougozaimasu. maiasahayaidesune. otoko : ee, asahayaku deruto, denshade suwarerushi, shinbunmo yomerushi … …. soreni kaishade koohiiwo nominagara nihongono benkyouga dekimasukara. ★ miraasanha kaishahe kitekara, shinbunwo yondeimasu.",
+          "translation_mm": "အမျိုးသမီး: မစ္စတာမီလာ မင်္ဂလာနံနက်ခင်းပါ၊ မနက်တိုင်း စောလှချည်လားနော်။\nအမျိုးသား: ဟုတ်ကဲ့၊ မနက်စောစော ထွက်လာရင် ရထားပေါ်မှာ ထိုင်ခွင့်ရသလို သတင်းစာလည်း ဖတ်နိုင်တယ်လေ\n…… ။ ဒါ့အပြင် ကုမ္ပဏီမှာ ကော်ဖီသောက်ရင်း ဂျပန်စာ လေ့လာနိုင်လို့ပါ။\n★ မစ္စတာမီလာသည် ကုမ္ပဏီသို့ ရောက်ရှိပြီးမှ သတင်းစာ ဖတ်ရှုသည်။",
+          "translation_en": "Woman: Good morning, Mr. Miller. You're early every morning!\nMan: Yes, when I leave early in the morning, I can get a seat on the train, and read the newspaper\n…… Furthermore, at the company, I can study Japanese while drinking coffee.\n★ Mr. Miller reads the newspaper after arriving at the company.",
+          "hiragana": "おんな：みらーさん、おはようございます。まいあさはやいですね。 おとこ：ええ、あさはやく でると、でんしゃで すわれるし、しんぶんも よめるし……。それに かいしゃで こーひーを のみながら にほんごの べんきょうが できますから。 ★ みらーさんは かいしゃへ きてから、しんぶんを よんでいます。",
+          "audio_script_ruby": "<ruby>女<rt>おんな</rt></ruby>：ミラーさん、おはようございます。<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>早<rt>はや</rt></ruby>いですね。 <ruby>男<rt>おとこ</rt></ruby>：ええ、<ruby>朝早<rt>あさはや</rt></ruby>く <ruby>出<rt>で</rt></ruby>ると、<ruby>電車<rt>でんしゃ</rt></ruby>で <ruby>座<rt>すわ</rt></ruby>れるし、<ruby>新聞<rt>しんぶん</rt></ruby>も <ruby>読<rt>よ</rt></ruby>めるし……。それに <ruby>会社<rt>かいしゃ</rt></ruby>で コーヒーを <ruby>飲<rt>の</rt></ruby>みながら <ruby>日本語<rt>にほんご</rt></ruby>の <ruby>勉強<rt>べんきょう</rt></ruby>が できますから。 ★ ミラーさんは <ruby>会社<rt>かいしゃ</rt></ruby>へ <ruby>来<rt>き</rt></ruby>てから、<ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>んでいます。",
+          "audio_script_hiragana": "おんな：みらーさん、おはようございます。まいあさはやいですね。 おとこ：ええ、あさはやく でると、でんしゃで すわれるし、しんぶんも よめるし……。それに かいしゃで こーひーを のみながら にほんごの べんきょうが できますから。 ★ みらーさんは かいしゃへ きてから、しんぶんを よんでいます。",
+          "audio_script_romaji": "Onna : miraasan, ohayougozaimasu. maiasahayaidesune. otoko : ee, asahayaku deruto, denshade suwarerushi, shinbunmo yomerushi … …. soreni kaishade koohiiwo nominagara nihongono benkyouga dekimasukara. ★ miraasanha kaishahe kitekara, shinbunwo yondeimasu.",
+          "ans_example_ruby": "× (<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>みます — <ruby>会社<rt>かいしゃ</rt></ruby>ではありません)",
+          "ans_example_hiragana": "× (でんしゃでよみます — かいしゃではありません)",
+          "ans_example_romaji": "X (denshadeyomimasu — kaishadehaarimasen)",
+          "ans_example_translation_mm": "× (မှားသည် — ရထားပေါ်တွင် ဖတ်ပါသည် — ကုမ္ပဏီတွင် မဟုတ်ပါ)",
+          "ans_example_translation_en": "× (Incorrect — reads on the train, not at the company)"
+        },
+        {
+          "q_num": 4,
+          "audio_script": "女：将来の 夢は 何？ 男：マンガ家に なりたいんだ。それで、今 アルバイトを しながら マンガの かき方を 習っているんだよ。 ★ 男の 人は マンガを かく 仕事を しています。",
+          "ans_example": "× (まだ 習っています — 仕事として はまだです)",
+          "romaji": "onna : shouraino yumeha nani ？ otoko : mangakani naritainda. sorede, ima arubaitowo shinagara mangano kakikatawo naratteirundayo. ★ otokono hitoha mangawo kaku shigotowo shiteimasu.",
+          "translation_mm": "အမျိုးသမီး: အနာဂတ် အိပ်မက်က ဘာလဲ။\nအမျိုးသား: ကာတွန်းဆရာ ဖြစ်ချင်တာလေ။ ဒါကြောင့် အခု အချိန်ပိုင်းအလုပ် လုပ်ရင်း ကာတွန်းရေးဆွဲနည်း သင်ယူနေတာပါ။\n★ အမျိုးသားသည် ကာတွန်းရေးဆွဲသော အလုပ်ကို လုပ်ကိုင်နေသည်။",
+          "translation_en": "Woman: What is your future dream?\nMan: I want to become a manga artist. So right now, I'm learning how to draw manga while working a part-time job.\n★ The man is working as a manga artist.",
+          "hiragana": "おんな：しょうらいの ゆめは なに？ おとこ：まんがかに なりたいんだ。それで、いま あるばいとを しながら まんがの かきかたを ならっているんだよ。 ★ おとこの ひとは まんがを かく しごとを しています。",
+          "audio_script_ruby": "<ruby>女<rt>おんな</rt></ruby>：<ruby>将来<rt>しょうらい</rt></ruby>の <ruby>夢<rt>ゆめ</rt></ruby>は <ruby>何<rt>なに</rt></ruby>？ <ruby>男<rt>おとこ</rt></ruby>：マンガ<ruby>家<rt>か</rt></ruby>に なりたいんだ。それで、<ruby>今<rt>いま</rt></ruby> アルバイトを しながら マンガの かき<ruby>方<rt>かた</rt></ruby>を <ruby>習<rt>なら</rt></ruby>っているんだよ。 ★ <ruby>男<rt>おとこ</rt></ruby>の <ruby>人<rt>ひと</rt></ruby>は マンガを かく <ruby>仕事<rt>しごと</rt></ruby>を しています。",
+          "audio_script_hiragana": "おんな：しょうらいの ゆめは なに？ おとこ：まんがかに なりたいんだ。それで、いま あるばいとを しながら まんがの かきかたを ならっているんだよ。 ★ おとこの ひとは まんがを かく しごとを しています。",
+          "audio_script_romaji": "Onna : shouraino yumeha nani ？ otoko : mangakani naritainda. sorede, ima arubaitowo shinagara mangano kakikatawo naratteirundayo. ★ otokono hitoha mangawo kaku shigotowo shiteimasu.",
+          "ans_example_ruby": "× (まだ <ruby>習<rt>なら</rt></ruby>っています — <ruby>仕事<rt>しごと</rt></ruby>として はまだです)",
+          "ans_example_hiragana": "× (まだ ならっています — しごととして はまだです)",
+          "ans_example_romaji": "X (mada naratteimasu — shigototoshite hamadadesu)",
+          "ans_example_translation_mm": "× (မှားသည် — မှာ သင်နေဆဲ — အလုပ်အဖြစ် မဆောင်ရွက်ရသေးပါ)",
+          "ans_example_translation_en": "× (Incorrect — still learning, not yet as a job)"
+        }
+      ],
+      "title_ruby": "2<ruby>番<rt>ばん</rt></ruby> (CD09) <ruby>聴解<rt>ちょうかい</rt></ruby> — ○か×か",
+      "title_hiragana": "2ばん (CD09) ちょうかい — ○か×か",
+      "title_romaji": "2 ban (CD09) choukai — ○ ka x ka",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 2",
+      "title_translation_en": "Problem 2: Listening (CD09) — True or False (○ or ×)",
+      "title_mm": "လေ့ကျင့်ခန်း 2",
+      "num": 2
+    },
+    {
+      "section_num": 3,
+      "title": "3<ruby>番<rt>ばん</rt></ruby> <ruby>絵<rt>え</rt></ruby>を <ruby>見<rt>み</rt></ruby>て 〜ながら で <ruby>文<rt>ぶん</rt></ruby>を <ruby>作<rt>つく</rt></ruby>りましょう",
+      "title_en": "Problem 3: Look at the picture and make sentences using ~ながら",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "（イラスト：コーヒーを 飲みます、新聞を 読みます）",
+          "ans_example": "コーヒーを 飲みながら 新聞を 読みます。",
+          "romaji": "(irasuto : koohiiwo nomimasu, shinbunwo yomimasu)",
+          "translation_mm": "ကော်ဖီသောက်ရင်း သတင်းစာ ဖတ်ပါသည်။",
+          "translation_en": "I read the newspaper while drinking coffee.",
+          "hiragana": "（いらすと：こーひーを のみます、しんぶんを よみます）",
+          "audio_script_ruby": "（イラスト：コーヒーを <ruby>飲<rt>の</rt></ruby>みます、<ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます）",
+          "audio_script_hiragana": "（いらすと：こーひーを のみます、しんぶんを よみます）",
+          "audio_script_romaji": "(irasuto : koohiiwo nomimasu, shinbunwo yomimasu)",
+          "ans_example_ruby": "コーヒーを <ruby>飲<rt>の</rt></ruby>みながら <ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。",
+          "ans_example_hiragana": "こーひーを のみながら しんぶんを よみます。",
+          "ans_example_romaji": "Koohiiwo nominagara shinbunwo yomimasu.",
+          "ans_example_translation_mm": "ကော်ဖီ သောက်ရင်း သတင်းစာ ဖတ်ပါသည်",
+          "ans_example_translation_en": "I read the newspaper while drinking coffee."
+        },
+        {
+          "q_num": 2,
+          "audio_script": "（イラスト：テレビを 見ます、ごはんを 食べます）",
+          "ans_example": "テレビを 見ながら ごはんを 食べます。",
+          "romaji": "(irasuto : terebiwo mimasu, gohanwo tabemasu)",
+          "translation_mm": "တီဗွီကြည့်ရင်း ထမင်းစားပါသည်။",
+          "translation_en": "I eat a meal while watching TV.",
+          "hiragana": "（いらすと：てれびを みます、ごはんを たべます）",
+          "audio_script_ruby": "（イラスト：テレビを <ruby>見<rt>み</rt></ruby>ます、ごはんを <ruby>食<rt>た</rt></ruby>べます）",
+          "audio_script_hiragana": "（いらすと：てれびを みます、ごはんを たべます）",
+          "audio_script_romaji": "(irasuto : terebiwo mimasu, gohanwo tabemasu)",
+          "ans_example_ruby": "テレビを <ruby>見<rt>み</rt></ruby>ながら ごはんを <ruby>食<rt>た</rt></ruby>べます。",
+          "ans_example_hiragana": "てれびを みながら ごはんを たべます。",
+          "ans_example_romaji": "Terebiwo minagara gohanwo tabemasu.",
+          "ans_example_translation_mm": "တီဗွီ ကြည့်ရင်း ထမင်းစားပါသည်",
+          "ans_example_translation_en": "I eat while watching TV."
+        },
+        {
+          "q_num": 3,
+          "audio_script": "（イラスト：音楽を 聞きます、勉強します）",
+          "ans_example": "音楽を 聞きながら 勉強します。",
+          "romaji": "(irasuto : ongakuwo kikimasu, benkyoushimasu)",
+          "translation_mm": "သီချင်းနားထောင်ရင်း စာကျက်ပါသည်။",
+          "translation_en": "I study while listening to music.",
+          "hiragana": "（いらすと：おんがくを ききます、べんきょうします）",
+          "audio_script_ruby": "（イラスト：<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きます、<ruby>勉強<rt>べんきょう</rt></ruby>します）",
+          "audio_script_hiragana": "（いらすと：おんがくを ききます、べんきょうします）",
+          "audio_script_romaji": "(irasuto : ongakuwo kikimasu, benkyoushimasu)",
+          "ans_example_ruby": "<ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>勉強<rt>べんきょう</rt></ruby>します。",
+          "ans_example_hiragana": "おんがくを ききながら べんきょうします。",
+          "ans_example_romaji": "Ongakuwo kikinagara benkyoushimasu.",
+          "ans_example_translation_mm": "သီချင်း နားထောင်ရင်း လေ့လာပါသည်",
+          "ans_example_translation_en": "I study while listening to music."
+        },
+        {
+          "q_num": 4,
+          "audio_script": "（イラスト：歌を 歌います、踊ります）",
+          "ans_example": "歌いながら 踊ります。",
+          "romaji": "(irasuto : utawo utaimasu, odorimasu)",
+          "translation_mm": "သီချင်းဆိုရင်း ကခုန်ပါသည်။",
+          "translation_en": "I dance while singing a song.",
+          "hiragana": "（いらすと：うたを うたいます、おどります）",
+          "audio_script_ruby": "（イラスト：<ruby>歌<rt>うた</rt></ruby>を <ruby>歌<rt>うた</rt></ruby>います、<ruby>踊<rt>おど</rt></ruby>ります）",
+          "audio_script_hiragana": "（いらすと：うたを うたいます、おどります）",
+          "audio_script_romaji": "(irasuto : utawo utaimasu, odorimasu)",
+          "ans_example_ruby": "<ruby>歌<rt>うた</rt></ruby>いながら <ruby>踊<rt>おど</rt></ruby>ります。",
+          "ans_example_hiragana": "うたいながら おどります。",
+          "ans_example_romaji": "Utainagara odorimasu.",
+          "ans_example_translation_mm": "သီဆိုရင်း ကခုန်ပါသည်",
+          "ans_example_translation_en": "I dance while singing."
+        }
+      ],
+      "cartoon_img": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img06_RenshuuC_Comic_Strip.webp",
+      "comic_strip": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img06_RenshuuC_Comic_Strip.webp",
+      "illustration": "output/illustrations_only/by_lesson/Lesson_28/Lesson_28_img06_RenshuuC_Comic_Strip.webp",
+      "title_ruby": "3<ruby>番<rt>ばん</rt></ruby> <ruby>絵<rt>え</rt></ruby>を <ruby>見<rt>み</rt></ruby>て 〜ながら で <ruby>文<rt>ぶん</rt></ruby>を <ruby>作<rt>つく</rt></ruby>りましょう",
+      "title_hiragana": "3ばん えを みて 〜ながら で ぶんを つくりましょう",
+      "title_romaji": "3 ban ewo mite ~ nagara de bunwo tsukurimashou",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 3",
+      "title_translation_en": "Problem 3: Look at the picture and make sentences using ~ながら",
+      "title_mm": "လေ့ကျင့်ခန်း 3",
+      "rei": {
+        "cue": "アイスクリームを 食べます ＋ 歩きます",
+        "cue_ruby": "アイスクリームを <ruby>食<rt>た</rt></ruby>べます ＋ <ruby>歩<rt>ある</rt></ruby>きます",
+        "cue_romaji": "Aisukuriimu o tabemasu + Arukimasu",
+        "cue_hiragana": "アイスクリームを たべます ＋ あるきます",
+        "cue_translation_mm": "ရေခဲမုန့် စားပါသည် ＋ လမ်းလျှောက်ပါသည်",
+        "cue_translation_en": "Eat ice cream + Walk",
+        "ans": "アイスクリームを 食べながら 歩きます。",
+        "ans_ruby": "アイスクリームを <ruby>食<rt>た</rt></ruby>べながら <ruby>歩<rt>ある</rt></ruby>きます。",
+        "ans_romaji": "Aisukuriimu o tabenagara arukimasu.",
+        "ans_hiragana": "アイスクリームを たべながら あるきます。",
+        "ans_translation_mm": "ရေခဲမုန့်စားရင်း လမ်းလျှောက်ပါသည်။",
+        "ans_translation_en": "I walk while eating ice cream.",
+        "translation_mm": "ရေခဲမုန့်စားရင်း လမ်းလျှောက်ပါသည်။",
+        "translation_en": "I walk while eating ice cream.",
+        "mm": "ရေခဲမုန့်စားရင်း လမ်းလျှောက်ပါသည်။",
+        "en": "I walk while eating ice cream."
+      },
+      "num": 3
+    },
+    {
+      "section_num": 4,
+      "title": "4<ruby>番<rt>ばん</rt></ruby> <ruby>普通形<rt>ふつうけい</rt></ruby>を <ruby>使<rt>つか</rt></ruby>って <ruby>文<rt>ぶん</rt></ruby>を <ruby>完成<rt>かんせい</rt></ruby>させましょう",
+      "title_en": "Problem 4: Complete the sentences using plain form verbs",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "魚は いつも 近くの スーパーで (    ) が、きのうは 休みでしたから、ほかの 店へ (    )。\n（買います、行きます）",
+          "ans_example": "( 買っています ) が、( 行きました )。",
+          "translation_mm": "ငါးကို အမြဲတမ်း အနီးအနားက စူပါမားကတ်မှာ ဝယ်လေ့ရှိပေမဲ့ မနေ့က ပိတ်ထားတာမို့ တခြားဆိုင်ကို သွားခဲ့ပါတယ်။",
+          "translation_en": "I usually buy fish at the nearby supermarket, but yesterday it was closed, so I went to another shop.",
+          "hiragana": "さかなは いつも ちかくの すーぱーで (    ) が、きのうは やすみでしたから、ほかの みせへ (    )。（かいます、いきます）",
+          "romaji": "sakanaha itsumo chikakuno suupaade () ga, kinouha yasumideshitakara, hokano misehe (). (kaimasu, ikimasu)",
+          "audio_script_ruby": "<ruby>魚<rt>さかな</rt></ruby>は いつも <ruby>近<rt>ちか</rt></ruby>くの スーパーで (    ) が、きのうは <ruby>休<rt>やす</rt></ruby>みでしたから、ほかの <ruby>店<rt>みせ</rt></ruby>へ (    )。（<ruby>買<rt>か</rt></ruby>います、<ruby>行<rt>い</rt></ruby>きます）",
+          "audio_script_hiragana": "さかなは いつも ちかくの すーぱーで (    ) が、きのうは やすみでしたから、ほかの みせへ (    )。\n（かいます、いきます）",
+          "audio_script_romaji": "Sakanaha itsumo chikakuno suupaade () ga, kinouha yasumideshitakara, hokano misehe ().\n(kaimasu, ikimasu)",
+          "ans_example_ruby": "( <ruby>買<rt>か</rt></ruby>っています ) が、( <ruby>行<rt>い</rt></ruby>きました )。",
+          "ans_example_hiragana": "( かっています ) が、( いきました )。",
+          "ans_example_romaji": "(katteimasu) ga, (ikimashita).",
+          "ans_example_translation_mm": "(ဝယ်နေသည်) သော်လည်း (သွားခဲ့သည်)",
+          "ans_example_translation_en": "(is buying) but (went)"
+        },
+        {
+          "q_num": 2,
+          "audio_script": "いつも 駅まで (    ) が、けさは 時間が ありませんでしたから、タクシーに (    )。\n（歩きます、乗ります）",
+          "ans_example": "( 歩いています ) が、( 乗りました )。",
+          "translation_mm": "အမြဲတမ်း ဘူတာရုံအထိ လမ်းလျှောက်သွားလေ့ရှိပေမဲ့ ဒီမနက်တော့ အချိန်မရှိတာကြောင့် တက္ကစီ စီးခဲ့ပါတယ်။",
+          "translation_en": "I usually walk to the station, but this morning I didn't have time, so I took a taxi.",
+          "hiragana": "いつも えきまで (    ) が、けさは じかんが ありませんでしたから、たくしーに (    )。（あるきます、のります）",
+          "romaji": "itsumo ekimade () ga, kesaha jikanga arimasendeshitakara, takushiini (). (arukimasu, norimasu)",
+          "audio_script_ruby": "いつも <ruby>駅<rt>えき</rt></ruby>まで (    ) が、けさは <ruby>時間<rt>じかん</rt></ruby>が ありませんでしたから、タクシーに (    )。（<ruby>歩<rt>ある</rt></ruby>きます、<ruby>乗<rt>の</rt></ruby>ります）",
+          "audio_script_hiragana": "いつも えきまで (    ) が、けさは じかんが ありませんでしたから、たくしーに (    )。\n（あるきます、のります）",
+          "audio_script_romaji": "Itsumo ekimade () ga, kesaha jikanga arimasendeshitakara, takushiini ().\n(arukimasu, norimasu)",
+          "ans_example_ruby": "( <ruby>歩<rt>ある</rt></ruby>いています ) が、( <ruby>乗<rt>の</rt></ruby>りました )。",
+          "ans_example_hiragana": "( あるいています ) が、( のりました )。",
+          "ans_example_romaji": "(aruiteimasu) ga, (norimashita).",
+          "ans_example_translation_mm": "(လမ်းလျှောက်နေသည်) သော်လည်း (စီးခဲ့သည်)",
+          "ans_example_translation_en": "(is walking) but (rode)"
+        },
+        {
+          "q_num": 3,
+          "audio_script": "毎朝 (    ) が、きのうは 雨でしたから、プールで (    )。\n（ジョギングします、泳ぎます）",
+          "ans_example": "( ジョギングをして います ) が、( 泳ぎました )。",
+          "translation_mm": "မနက်တိုင်း အပြေးလေ့ကျင့်လေ့ရှိပေမဲ့ မနေ့က မိုးရွာနေတာမို့ ရေကူးကန်မှာ ရေကူးခဲ့ပါတယ်။",
+          "translation_en": "I jog every morning, but yesterday it rained, so I swam in the pool.",
+          "hiragana": "まいあさ (    ) が、きのうは あめでしたから、ぷーるで (    )。（じょぎんぐします、およぎます）",
+          "romaji": "maiasa () ga, kinouha amedeshitakara, puurude (). (jogingushimasu, oyogimasu)",
+          "audio_script_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> (    ) が、きのうは <ruby>雨<rt>あめ</rt></ruby>でしたから、プールで (    )。\n（ジョギングします、<ruby>泳<rt>およ</rt></ruby>ぎます）",
+          "audio_script_hiragana": "まいあさ (    ) が、きのうは あめでしたから、ぷーるで (    )。\n（じょぎんぐします、およぎます）",
+          "audio_script_romaji": "Maiasa () ga, kinouha amedeshitakara, puurude ().\n(jogingushimasu, oyogimasu)",
+          "ans_example_ruby": "( ジョギングをして います ) が、( <ruby>泳<rt>およ</rt></ruby>ぎました )。",
+          "ans_example_hiragana": "( じょぎんぐをして います ) が、( およぎました )。",
+          "ans_example_romaji": "(joginguwoshite imasu) ga, (oyogimashita).",
+          "ans_example_translation_mm": "(ဂျောကင်းလုပ်နေသည်) သော်လည်း (ရေကူးခဲ့သည်)",
+          "ans_example_translation_en": "(is jogging) but (swam)"
+        },
+        {
+          "q_num": 4,
+          "audio_script": "毎朝 パンを (    ) が、けさは コーヒーしか (    )。\n（食べます、飲みます）",
+          "ans_example": "( 食べています ) が、( 飲みませんでした )。",
+          "translation_mm": "မနက်တိုင်း ပေါင်မုန့် စားလေ့ရှိပေမဲ့ ဒီမနက်တော့ ကော်ဖီပဲ သောက်ခဲ့ပါတယ်။",
+          "translation_en": "I eat bread every morning, but this morning I only drank coffee.",
+          "hiragana": "まいあさ ぱんを (    ) が、けさは こーひーしか (    )。（たべます、のみます）",
+          "romaji": "maiasa panwo () ga, kesaha koohiishika (). (tabemasu, nomimasu)",
+          "audio_script_ruby": "<ruby>毎朝<rt>まいあさ</rt></ruby> パンを (    ) が、けさは コーヒーしか (    )。（<ruby>食<rt>た</rt></ruby>べます、<ruby>飲<rt>の</rt></ruby>みます）",
+          "audio_script_hiragana": "まいあさ ぱんを (    ) が、けさは こーひーしか (    )。\n（たべます、のみます）",
+          "audio_script_romaji": "Maiasa panwo () ga, kesaha koohiishika ().\n(tabemasu, nomimasu)",
+          "ans_example_ruby": "( <ruby>食<rt>た</rt></ruby>べています ) が、( <ruby>飲<rt>の</rt></ruby>みませんでした )。",
+          "ans_example_hiragana": "( たべています ) が、( のみませんでした )。",
+          "ans_example_romaji": "(tabeteimasu) ga, (nomimasendeshita).",
+          "ans_example_translation_mm": "(စားနေသည်) သော်လည်း (မသောက်ခဲ့ပါ)",
+          "ans_example_translation_en": "(is eating) but (did not drink)"
+        }
+      ],
+      "title_ruby": "4<ruby>番<rt>ばん</rt></ruby> <ruby>普通形<rt>ふつうけい</rt></ruby>を <ruby>使<rt>つか</rt></ruby>って <ruby>文<rt>ぶん</rt></ruby>を <ruby>完成<rt>かんせい</rt></ruby>させましょう",
+      "title_hiragana": "4ばん ふつうけいを つかって ぶんを かんせいさせましょう",
+      "title_romaji": "4 ban futsuukeiwo tsukatte bunwo kanseisasemashou",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 4",
+      "title_translation_en": "Problem 4: Complete the sentences using plain form verbs",
+      "title_mm": "လေ့ကျင့်ခန်း 4",
+      "rei": {
+        "cue": "日曜日は いつも 9時ごろまで（    ）が、きょうは 用事が ありましたから、6時に（    ）。（寝ます、起きます）",
+        "cue_ruby": "<ruby>日曜日<rt>にちようび</rt></ruby>は いつも 9<ruby>時<rt>じ</rt></ruby>ごろまで（    ）が、きょうは <ruby>用事<rt>ようじ</rt></ruby>が ありましたから、6<ruby>時<rt>じ</rt></ruby>に（    ）。（<ruby>寝<rt>ね</rt></ruby>ます、<ruby>起<rt>お</rt></ruby>きます）",
+        "cue_romaji": "Nichiyoubi wa itsumo 9-ji goro made (    ) ga, kyou wa youji ga arimashita kara, 6-ji ni (    ). (Nemasu, Okimasu)",
+        "cue_hiragana": "にちようびは いつも 9じごろまで（    ）が、きょうは ようじが ありましたから、6じに（    ）。（ねます、おきます）",
+        "cue_translation_mm": "တနင်္ဂနွေနေ့များတွင် အမြဲ ၉ နာရီခန့်အထိ (    ) သော်လည်း၊ ယနေ့မှာ ကိစ္စရှိသောကြောင့် ၆ နာရီတွင် (    )။",
+        "cue_translation_en": "On Sundays I usually sleep until around 9, but today I had errands so I woke up at 6.",
+        "ans": "寝て います、起きました",
+        "ans_ruby": "<ruby>寝<rt>ね</rt></ruby>て います、<ruby>起<rt>お</rt></ruby>きました",
+        "ans_romaji": "Nete imasu, Okimashita",
+        "ans_hiragana": "ねて います、おきました",
+        "ans_translation_mm": "အိပ်လေ့ရှိသည်၊ ထခဲ့ပါသည်",
+        "ans_translation_en": "am sleeping, woke up",
+        "translation_mm": "တနင်္ဂနွေနေ့များတွင် အမြဲ ၉ နာရီခန့်အထိ အိပ်လေ့ရှိသော်လည်း၊ ယနေ့မှာ ကိစ္စရှိသောကြောင့် ၆ နာရီတွင် ထခဲ့ပါသည်။",
+        "translation_en": "On Sundays I usually sleep until around 9, but today I had errands so I woke up at 6.",
+        "mm": "တနင်္ဂနွေနေ့များတွင် အမြဲ ၉ နာရီခန့်အထိ အိပ်လေ့ရှိသော်လည်း၊ ယနေ့မှာ ကိစ္စရှိသောကြောင့် ၆ နာရီတွင် ထခဲ့ပါသည်။",
+        "en": "On Sundays I usually sleep until around 9, but today I had errands so I woke up at 6."
+      },
+      "num": 4
+    },
+    {
+      "section_num": 5,
+      "title": "5<ruby>番<rt>ばん</rt></ruby> この レストランは ( おいしい ) し、( <ruby>安<rt>やす</rt></ruby>い ) し",
+      "title_en": "Problem 5: Fill in blanks using ~し pattern",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "ここは 交通も ( ) し、( ) し、  。",
+          "ans_example": "( 便利だ ) し、( 静かだ ) し、[ b. 住みたいです ]。",
+          "translation_mm": "ဒီနေရာက သွားရေးလာရေးလည်း အဆင်ပြေသလို တိတ်ဆိတ်ငြိမ်သက်လည်းရှိတာမို့ နေထိုင်ချင်ပါတယ်။",
+          "translation_en": "Transportation is convenient here, and it's quiet, so I want to live here.",
+          "hiragana": "ここは こうつうも ( ) し、( ) し、  。",
+          "romaji": "kokoha koutsuumo () shi, () shi,.",
+          "audio_script_ruby": "ここは <ruby>交通<rt>こうつう</rt></ruby>も ( ) し、( ) し、  。",
+          "audio_script_hiragana": "ここは こうつうも ( ) し、( ) し、  。",
+          "audio_script_romaji": "Kokoha koutsuumo () shi, () shi,.",
+          "ans_example_ruby": "( <ruby>便利<rt>べんり</rt></ruby>だ ) し、( <ruby>静<rt>しず</rt></ruby>かだ ) し、[ b. <ruby>住<rt>す</rt></ruby>みたいです ]。",
+          "ans_example_hiragana": "( べんりだ ) し、( しずかだ ) し、[ b. すみたいです ]。",
+          "ans_example_romaji": "(benrida) shi, (shizukada) shi, [ b. sumitaidesu ].",
+          "ans_example_translation_mm": "(အဆင်ပြေသည်)၊ (ငြိမ်သက်သည်)၊ [b. နေလိုပါသည်]",
+          "ans_example_translation_en": "(convenient), (quiet), [b. I want to live there]"
+        },
+        {
+          "q_num": 2,
+          "audio_script": "この 靴は 色も ( ) し、サイズも ( ) し、 。",
+          "ans_example": "( すてきだ ) し、( ちょうど いい ) し、[ d. 買います ]。",
+          "translation_mm": "ဒီဖိနပ်က အရောင်လည်းလှသလို ဆိုဒ်လည်း အတော်ပဲမို့ ဝယ်ပါ့မယ်။",
+          "translation_en": "These shoes have a wonderful color, and the size fits just right, so I'll buy them.",
+          "hiragana": "この くつは いろも ( ) し、さいずも ( ) し、 。",
+          "romaji": "kono kutsuha iromo () shi, saizumo () shi,.",
+          "audio_script_ruby": "この <ruby>靴<rt>くつ</rt></ruby>は <ruby>色<rt>いろ</rt></ruby>も ( ) し、サイズも ( ) し、 。",
+          "audio_script_hiragana": "この くつは いろも ( ) し、さいずも ( ) し、 。",
+          "audio_script_romaji": "Kono kutsuha iromo () shi, saizumo () shi,.",
+          "ans_example_ruby": "( すてきだ ) し、( ちょうど いい ) し、[ d. <ruby>買<rt>か</rt></ruby>います ]。",
+          "ans_example_hiragana": "( すてきだ ) し、( ちょうど いい ) し、[ d. かいます ]。",
+          "ans_example_romaji": "(sutekida) shi, (choudo ii) shi, [ d. kaimasu ].",
+          "ans_example_translation_mm": "(လှပသည်)၊ (<ruby>丁度<rt>ちょうど</rt></ruby>ကောင်းသည်)၊ [d. ဝယ်မည်]",
+          "ans_example_translation_en": "(lovely), (just right), [d. I'll buy it]"
+        },
+        {
+          "q_num": 3,
+          "audio_script": "あの 先生は 話も ( ) し、( ) し、 。",
+          "ans_example": "( おもしろい ) し、( 熱心だ ) し、[ a. 学生に 人気が あります ]。",
+          "translation_mm": "ဟိုဆရာသည် ပြောစကားလည်း စိတ်ဝင်စားစရာကောင်းသလို စိတ်အားထက်သန်မှုလည်းရှိတာမို့ ကျောင်းသားများအကြား ရေပန်းစားပါသည်။",
+          "translation_en": "That teacher's talks are interesting and he is enthusiastic, so he is popular among students.",
+          "hiragana": "あの せんせいは はなしも ( ) し、( ) し、 。",
+          "romaji": "ano senseiha hanashimo () shi, () shi,.",
+          "audio_script_ruby": "あの <ruby>先生<rt>せんせい</rt></ruby>は <ruby>話<rt>はなし</rt></ruby>も ( ) し、( ) し、 。",
+          "audio_script_hiragana": "あの せんせいは はなしも ( ) し、( ) し、 。",
+          "audio_script_romaji": "Ano senseiha hanashimo () shi, () shi,.",
+          "ans_example_ruby": "( おもしろい ) し、( <ruby>熱心<rt>ねっしん</rt></ruby>だ ) し、[ a. <ruby>学生<rt>がくせい</rt></ruby>に <ruby>人気<rt>にんき</rt></ruby>が あります ]。",
+          "ans_example_hiragana": "( おもしろい ) し、( ねっしんだ ) し、[ a. がくせいに にんきが あります ]。",
+          "ans_example_romaji": "(omoshiroi) shi, (nesshinda) shi, [ a. gakuseini ninkiga arimasu ].",
+          "ans_example_translation_mm": "(ဆွဲဆောင်မှု ရှိသည်)၊ (ကြိုးစားသည်)၊ [a. ကျောင်းသားများ ကြိုက်ကြသည်]",
+          "ans_example_translation_en": "(interesting), (enthusiastic), [a. popular among students]"
+        },
+        {
+          "q_num": 4,
+          "audio_script": "きょうは 天気も ( ) し、お金も ( ) し、 。",
+          "ans_example": "( 悪い ) し、( ない ) し、[ c. どこも 行きません ]。",
+          "translation_mm": "ဒီနေ့က ရာသီဥတုလည်းဆိုးသလို ပိုက်ဆံလည်းမရှိတာမို့ ဘယ်မှမသွားပါဘူး။",
+          "translation_en": "Today the weather is bad and I have no money, so I won't go anywhere.",
+          "hiragana": "きょうは てんきも ( ) し、おかねも ( ) し、 。",
+          "romaji": "kyouha tenkimo () shi, okanemo () shi,.",
+          "audio_script_ruby": "きょうは <ruby>天気<rt>てんき</rt></ruby>も ( ) し、お<ruby>金<rt>かね</rt></ruby>も ( ) し、 。",
+          "audio_script_hiragana": "きょうは てんきも ( ) し、おかねも ( ) し、 。",
+          "audio_script_romaji": "Kyouha tenkimo () shi, okanemo () shi,.",
+          "ans_example_ruby": "( <ruby>悪<rt>わる</rt></ruby>い ) し、( ない ) し、[ c. どこも <ruby>行<rt>い</rt></ruby>きません ]。",
+          "ans_example_hiragana": "( わるい ) し、( ない ) し、[ c. どこも いきません ]。",
+          "ans_example_romaji": "(warui) shi, (nai) shi, [ c. dokomo ikimasen ].",
+          "ans_example_translation_mm": "(မကောင်းပါ)၊ (မရှိပါ)၊ [c. ဘယ်မှ မသွားပါ]",
+          "ans_example_translation_en": "(bad weather), (no money), [c. won't go anywhere]"
+        }
+      ],
+      "title_ruby": "5<ruby>番<rt>ばん</rt></ruby> この レストランは ( おいしい ) し、( <ruby>安<rt>やす</rt></ruby>い ) し",
+      "title_hiragana": "5ばん この れすとらんは ( おいしい ) し、( やすい ) し",
+      "title_romaji": "5 ban kono resutoranha (oishii) shi, (yasui) shi",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 5",
+      "title_translation_en": "Problem 5: Fill in blanks using ~し pattern",
+      "title_mm": "လေ့ကျင့်ခန်း 5",
+      "rei": {
+        "cue": "この レストランは（    ）し、（    ）し、［    ］。（おいしい、安い）",
+        "cue_ruby": "この レストランは（    ）し、（    ）し、［    ］。（おいしい、<ruby>安<rt>やす</rt></ruby>い）",
+        "cue_romaji": "Kono resutoran wa (    ) shi, (    ) shi, [    ]. (Oishii, Yasui)",
+        "cue_hiragana": "この レストランは（    ）し、（    ）し、［    ］。（おいしい、やすい）",
+        "cue_translation_mm": "ဒီစားသောက်ဆိုင်က (    ) လည်းဖြစ်တယ်၊ (    ) လည်းဖြစ်တာကြောင့် [    ]။",
+        "cue_translation_en": "This restaurant is (    ) and (    ), so [    ].",
+        "ans": "おいしい、安い、e",
+        "ans_ruby": "おいしい、<ruby>安<rt>やす</rt></ruby>い、e",
+        "ans_romaji": "Oishii, Yasui, e",
+        "ans_hiragana": "おいしい、やすい、e",
+        "ans_translation_mm": "အရသာရှိသည်၊ ဈေးသက်သာသည်၊ e (အမြဲဒီကို လာပါသည်)",
+        "ans_translation_en": "delicious, cheap, e (I always come here)",
+        "translation_mm": "ဒီစားသောက်ဆိုင်က အရသာလည်းရှိတယ်၊ ဈေးလည်းသက်သာတာကြောင့် [ အမြဲ ဒီကို လာပါတယ် ]။",
+        "translation_en": "This restaurant is delicious and cheap, so [ I always come here ].",
+        "mm": "ဒီစားသောက်ဆိုင်က အရသာလည်းရှိတယ်၊ ဈေးလည်းသက်သာတာကြောင့် [ အမြဲ ဒီကို လာပါတယ် ]။",
+        "en": "This restaurant is delicious and cheap, so [ I always come here ]."
+      },
+      "num": 5
+    },
+    {
+      "section_num": 6,
+      "title": "6<ruby>番<rt>ばん</rt></ruby> <ruby>留学生<rt>りゅうがくせい</rt></ruby>パーティーの お<ruby>知<rt>し</rt></ruby>らせ",
+      "title_en": "Problem 6: International Student Party Notice — Fill in the blanks",
+      "passage_title": "<ruby>留学生<rt>りゅうがくせい</rt></ruby>パーティーの お<ruby>知<rt>し</rt></ruby>らせ",
+      "passage_text": "日本の 学生と いっしょに パーティーを します。\nいろいろな 国の 料理を 食べながら 日本人と 友達に なりましょう。\nカラオケも あるし、ダンスも できるし、すてきな プレゼントも あります。\n皆さん、ぜひ 参加して ください。\n日にち　12月3日（土） 午後4時〜8時\n場所　さくら大学体育館\n※ パーティーは 無料です。",
+      "questions": [
+        {
+          "num": 1,
+          "text": "① から ②",
+          "ans": "①午後4時 から ②8時",
+          "text_ruby": "① から ②",
+          "ans_ruby": "①<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby> から ②8<ruby>時<rt>じ</rt></ruby>",
+          "translation_mm": "① ညနေ ၄ နာရီ မှ ② ၈ နာရီ",
+          "translation_en": "From (1) 4:00 PM to (2) 8:00 PM",
+          "hiragana": "① から ②",
+          "romaji": "① kara ②",
+          "text_hiragana": "① から ②",
+          "text_romaji": "① kara ②",
+          "ans_hiragana": "①ごご4じ から ②8じ",
+          "ans_romaji": "① gogo 4 ji kara ② 8 ji",
+          "ans_translation_mm": "① ညနေ ၄ နာရီ မှ ② ည ၈ နာရီ",
+          "ans_translation_en": "From ① 4:00 PM to ② 8:00 PM",
+          "ans_mm": "① ညနေ ၄ နာရီ မှ ② ည ၈ နာရီ",
+          "ans_en": "From ① 4:00 PM to ② 8:00 PM"
+        },
+        {
+          "num": 2,
+          "text": "③ も 来ますから、新しい 友達が 作れます。",
+          "ans": "③日本人",
+          "text_ruby": "③ も <ruby>来<rt>き</rt></ruby>ますから、<ruby>新<rt>あたら</rt></ruby>しい <ruby>友達<rt>ともだち</rt></ruby>が <ruby>作<rt>つく</rt></ruby>れます。",
+          "ans_ruby": "③<ruby>日本人<rt>にほんじん</rt></ruby>",
+          "translation_mm": "③ ဂျပန်လူမျိုးများ (ဂျပန်ကျောင်းသားများ) လည်း လာကြမည်ဖြစ်၍ မိတ်ဆွေသစ်များ ဖွဲ့နိုင်ပါသည်။",
+          "translation_en": "(3) Japanese people (Japanese students) will also come, so you can make new friends.",
+          "hiragana": "③ も きますから、あたらしい ともだちが つくれます。",
+          "romaji": "③ mo kimasukara, atarashii tomodachiga tsukuremasu.",
+          "text_hiragana": "③ も きますから、あたらしい ともだちが つくれます。",
+          "text_romaji": "③ mo kimasukara, atarashii tomodachiga tsukuremasu.",
+          "ans_hiragana": "③にほんじん",
+          "ans_romaji": "③ nihonjin",
+          "ans_translation_mm": "③ ဂျပန်လူမျိုးများ",
+          "ans_translation_en": "③ Japanese people",
+          "ans_mm": "③ ဂျပန်လူမျိုးများ",
+          "ans_en": "③ Japanese people"
+        },
+        {
+          "num": 3,
+          "text": "④ を したり します。",
+          "ans": "④ダンス",
+          "text_ruby": "④ を したり します。",
+          "ans_ruby": "④ダンス",
+          "translation_mm": "④ ကခုန်ခြင်းများလည်း ပြုလုပ်ပါမည်။",
+          "translation_en": "You can also do things like (4) dancing.",
+          "hiragana": "④ を したり します。",
+          "romaji": "④ wo shitari shimasu.",
+          "text_hiragana": "④ を したり します。",
+          "text_romaji": "④ wo shitari shimasu.",
+          "ans_hiragana": "④だんす",
+          "ans_romaji": "④ dansu",
+          "ans_translation_mm": "④ ကခုန်ခြင်း",
+          "ans_translation_en": "④ Dancing",
+          "ans_mm": "④ ကခုန်ခြင်း",
+          "ans_en": "④ Dancing"
+        },
+        {
+          "num": 4,
+          "text": "⑤",
+          "ans": "⑤払わなくても いいです",
+          "text_ruby": "⑤",
+          "ans_ruby": "⑤<ruby>払<rt>はら</rt></ruby>わなくても いいです",
+          "translation_mm": "⑤ ငွေပေးစရာ မလိုပါ (အခမဲ့ ဖြစ်ပါသည်)။",
+          "translation_en": "(5) You do not have to pay (it is free).",
+          "hiragana": "⑤",
+          "romaji": "⑤",
+          "text_hiragana": "⑤",
+          "text_romaji": "⑤",
+          "ans_hiragana": "⑤はらわなくても いいです",
+          "ans_romaji": "⑤ harawanakutemo iidesu",
+          "ans_translation_mm": "⑤ ပေးစရာမလိုပါ (အခမဲ့ဖြစ်သည်)",
+          "ans_translation_en": "⑤ Do not have to pay (Free)",
+          "ans_mm": "⑤ ပေးစရာမလိုပါ (အခမဲ့ဖြစ်သည်)",
+          "ans_en": "⑤ Do not have to pay (Free)"
+        }
+      ],
+      "passage_translation_mm": "ဂျပန်ကျောင်းသားများနှင့်အတူ ပါတီပွဲ ပြုလုပ်ပါမည်။\nနိုင်ငံအသီးသီးမှ ဟင်းလျာများကို စားသောက်ရင်း ဂျပန်လူမျိုးများနှင့် မိတ်ဆွေဖွဲ့ကြပါစို့။\nကာရာအိုကေလည်း ပါဝင်သလို ကခုန်ခြင်းလည်း ပြုလုပ်နိုင်ပြီး လှပသောအမှတ်တရလက်ဆောင်များလည်း ရှိပါသည်။\nအားလုံးပဲ မဖြစ်မနေ ပါဝင်ဆင်နွှဲကြပါရန် ဖိတ်ခေါ်အပ်ပါသည်။\nရက်စွဲ: ဒီဇင်ဘာလ ၃ ရက် (စနေနေ့) ညနေ ၄ နာရီမှ ၈ နာရီ\nနေရာ: ဆာကူရာတက္ကသိုလ် အားကစားခန်းမ\n※ ပါတီပွဲ တက်ရောက်ခ အခမဲ့ ဖြစ်ပါသည်။",
+      "passage_translation_en": "We will hold a party together with Japanese students.\nLet's make friends with Japanese people while eating food from various countries!\nThere will be karaoke, you can dance, and there will be wonderful presents.\nEveryone, please be sure to participate!\nDate: December 3 (Sat) 4:00 PM - 8:00 PM\nPlace: Sakura University Gymnasium\n* The party is free of charge.",
+      "title_ruby": "6<ruby>番<rt>ばん</rt></ruby> <ruby>留学生<rt>りゅうがくせい</rt></ruby>パーティーの お<ruby>知<rt>し</rt></ruby>らせ",
+      "title_hiragana": "6ばん りゅうがくせいぱーてぃーの おしらせ",
+      "title_romaji": "6 ban ryuugakuseipaateiino oshirase",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 6",
+      "title_translation_en": "Problem 6: International Student Party Notice — Fill in the blanks",
+      "title_mm": "လေ့ကျင့်ခန်း 6",
+      "passage_ruby": "<ruby>日本<rt>にほん</rt></ruby>の <ruby>学生<rt>がくせい</rt></ruby>と いっしょに パーティーを します。\nいろいろな <ruby>国<rt>くに</rt></ruby>の <ruby>料理<rt>りょうり</rt></ruby>を <ruby>食<rt>た</rt></ruby>べながら <ruby>日本人<rt>にほんじん</rt></ruby>と <ruby>友達<rt>ともだち</rt></ruby>に なりましょう。\nカラオケも あるし、ダンスも できるし、すてきな プレゼントも あります。\n<ruby>皆<rt>みな</rt></ruby>さん、ぜひ <ruby>参加<rt>さんか</rt></ruby>して ください。\n<ruby>日<rt>ひ</rt></ruby>にち　12<ruby>月<rt>がつ</rt></ruby>3<ruby>日<rt>か</rt></ruby>（<ruby>土<rt>つち</rt></ruby>） <ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>〜8<ruby>時<rt>じ</rt></ruby>\n<ruby>場所<rt>ばしょ</rt></ruby>　さくら<ruby>大学<rt>だいがく</rt></ruby><ruby>体育館<rt>たいいくかん</rt></ruby>\n※ パーティーは <ruby>無料<rt>むりょう</rt></ruby>です。",
+      "passage_hiragana": "にほんの がくせいと いっしょに ぱーてぃーを します。。いろいろな くにの りょうりを たべながら にほんじんと ともだちに なりましょう。。からおけも あるし、だんすも できるし、すてきな ぷれぜんとも あります。。みなさん、ぜひ さんかして ください。。ひにち　12がつ3か（つち） ごご4じ〜8じじばしょ　さくらだいがくたいいくかんさくらだいがくたいいくかん※ ぱーてぃーは むりょうです。",
+      "passage_romaji": "Nihonno gakuseito isshoni paateiiwo shimasu.\nIroirona kunino ryouriwo tabenagara nihonjinto tomodachini narimashou.\nKaraokemo arushi, dansumo dekirushi, sutekina purezentomo arimasu.\nMinasan, zehi sankashite kudasai.\nHinichi 12 gatsu 3 ka (tsuchi) gogo 4 ji ~ 8 ji\nBasho sakuradaigakutaiikukan\n※ paateiiha muryoudesu.",
+      "passage_text_ruby": "<ruby>日本<rt>にほん</rt></ruby>の <ruby>学生<rt>がくせい</rt></ruby>と いっしょに パーティーを します。\nいろいろな <ruby>国<rt>くに</rt></ruby>の <ruby>料理<rt>りょうり</rt></ruby>を <ruby>食<rt>た</rt></ruby>べながら <ruby>日本人<rt>にほんじん</rt></ruby>と <ruby>友達<rt>ともだち</rt></ruby>に なりましょう。\nカラオケも あるし、ダンスも できるし、すてきな プレゼントも あります。\n<ruby>皆<rt>みな</rt></ruby>さん、ぜひ <ruby>参加<rt>さんか</rt></ruby>して ください。\n<ruby>日<rt>ひ</rt></ruby>にち　12<ruby>月<rt>がつ</rt></ruby>3<ruby>日<rt>か</rt></ruby>（<ruby>土<rt>つち</rt></ruby>） <ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby>〜8<ruby>時<rt>じ</rt></ruby>\n<ruby>場所<rt>ばしょ</rt></ruby>　さくら<ruby>大学<rt>だいがく</rt></ruby><ruby>体育館<rt>たいいくかん</rt></ruby>\n※ パーティーは <ruby>無料<rt>むりょう</rt></ruby>です。",
+      "rei": {
+        "cue": "(    ) パーティーは 10月20日です。",
+        "cue_ruby": "(    ) パーティーは 10<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>です。",
+        "cue_romaji": "(    ) Paatii wa 10-gatsu 20-nichi desu.",
+        "cue_hiragana": "(    ) パーティーは 10がつ20にちです。",
+        "cue_translation_mm": "(    ) ပါတီသည် အောက်တိုဘာ ၂၀ ရက်နေ့တွင် ဖြစ်ပါသည်။",
+        "cue_translation_en": "(    ) The party is on October 20th.",
+        "ans": "○",
+        "ans_ruby": "○",
+        "ans_romaji": "Maru",
+        "ans_hiragana": "まる",
+        "ans_translation_mm": "မှန်ပါသည် (○)",
+        "ans_translation_en": "Correct (○)",
+        "translation_mm": "( ○ ) ပါတီသည် အောက်တိုဘာ ၂၀ ရက်နေ့တွင် ဖြစ်ပါသည်။",
+        "translation_en": "( ○ ) The party is on October 20th.",
+        "mm": "( ○ ) ပါတီသည် အောက်တိုဘာ ၂၀ ရက်နေ့တွင် ဖြစ်ပါသည်။",
+        "en": "( ○ ) The party is on October 20th."
+      },
+      "num": 6
+    },
+    {
+      "section_num": 7,
+      "title": "7<ruby>番<rt>ばん</rt></ruby> イベントの お<ruby>知<rt>し</rt></ruby>らせを <ruby>書<rt>か</rt></ruby>きましょう",
+      "title_en": "Problem 7: Write an event notice (creative writing — <ruby>略<rt>りゃく</rt></ruby>)",
+      "items": [
+        {
+          "q_num": 1,
+          "audio_script": "イベント（れい：お花見、運動会）の お知らせを 書きましょう。",
+          "ans_example": "（略— free writing exercise）",
+          "translation_mm": "ပွဲအခမ်းအနား (ဥပမာ: ပန်းကြည့်ပွဲ၊ အားကစားပွဲ) အသိပေးကြေညာချက်တစ်ခု ရေးသားကြည့်ကြပါစို့။",
+          "translation_en": "Let's write an announcement for an event (e.g. cherry blossom viewing, sports festival).",
+          "hiragana": "いべんと（れい：おはなみ、うんどうかい）の おしらせを かきましょう。",
+          "romaji": "ibento (rei : ohanami, undoukai) no oshirasewo kakimashou.",
+          "audio_script_ruby": "イベント（れい：お<ruby>花見<rt>はなみ</rt></ruby>、<ruby>運動会<rt>うんどうかい</rt></ruby>）の お<ruby>知<rt>し</rt></ruby>らせを <ruby>書<rt>か</rt></ruby>きましょう。",
+          "audio_script_hiragana": "いべんと（れい：おはなみ、うんどうかい）の おしらせを かきましょう。",
+          "audio_script_romaji": "Ibento (rei : ohanami, undoukai) no oshirasewo kakimashou.",
+          "ans_example_ruby": "（<ruby>略<rt>りゃく</rt></ruby>— free writing exercise）",
+          "ans_example_hiragana": "（りゃく— free writing exercise）",
+          "ans_example_romaji": "(ryaku — free writing exercise)",
+          "ans_example_translation_mm": "(ကျောင်းသားကိုယ်တိုင် ဖြေဆိုရမည် — ကိုယ်ပိုင်အဖြေ)",
+          "ans_example_translation_en": "(Free writing exercise)"
+        }
+      ],
+      "title_ruby": "7<ruby>番<rt>ばん</rt></ruby> イベントの お<ruby>知<rt>し</rt></ruby>らせを <ruby>書<rt>か</rt></ruby>きましょう",
+      "title_hiragana": "7ばん いべんとの おしらせを かきましょう",
+      "title_romaji": "7 ban ibentono oshirasewo kakimashou",
+      "title_translation_mm": "လေ့ကျင့်ခန်း 7",
+      "title_translation_en": "Problem 7: Write an event notice (creative writing — <ruby>略<rt>りゃく</rt></ruby>)",
+      "title_mm": "လေ့ကျင့်ခန်း 7",
+      "num": 7
+    }
+  ],
+  "answers": {
+    "renshuub": [
+      "1<ruby>番<rt>ばん</rt></ruby>: 1) <ruby>本<rt>ほん</rt></ruby>を <ruby>見<rt>み</rt></ruby>ながら <ruby>料理<rt>りょうり</rt></ruby>をします。 2) <ruby>歌<rt>うた</rt></ruby>いながら <ruby>踊<rt>おど</rt></ruby>ります。 3) <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>食事<rt>しょくじ</rt></ruby>をします。 4) <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みながら <ruby>食<rt>た</rt></ruby>べています。",
+      "2<ruby>番<rt>ばん</rt></ruby>: 1) <ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら メモして ください。 2) <ruby>運転<rt>うんてん</rt></ruby>しながら <ruby>電話<rt>でんわ</rt></ruby>を しないで ください。 3) お<ruby>茶<rt>ちゃ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>みながら <ruby>話<rt>はな</rt></ruby>しましょう。 4) ピアノを <ruby>弾<rt>ひ</rt></ruby>きながら <ruby>歌<rt>うた</rt></ruby>えますか。 5) ボランティアを しながら <ruby>世界<rt>せかい</rt></ruby>を <ruby>旅行<rt>りょこう</rt></ruby>して います。 6) <ruby>絵<rt>え</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えながら マンガを かいて います。",
+      "3<ruby>番<rt>ばん</rt></ruby>: 1) ニュースや ドラマを <ruby>見<rt>み</rt></ruby>て います。 2) <ruby>子<rt>こ</rt></ruby>どもと <ruby>遊<rt>あそ</rt></ruby>んだり、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>ったり して います。 3) <ruby>自転車<rt>じてんしゃ</rt></ruby>で <ruby>通<rt>かよ</rt></ruby>って います。 4) <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>んで います。",
+      "4<ruby>番<rt>ばん</rt></ruby>: 1) <ruby>北海道<rt>ほっかいどう</rt></ruby>は <ruby>涼<rt>すず</rt></ruby>しいし、<ruby>景色<rt>けしき</rt></ruby>も きれいだし、それに <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>も おいしいです。 2) あの <ruby>美容院<rt>びよういん</rt></ruby>は <ruby>上手<rt>じょうず</rt></ruby>だし、<ruby>速<rt>はや</rt></ruby>いし、それに <ruby>安<rt>やす</rt></ruby>いです。 3) <ruby>新<rt>あたら</rt></ruby>しい <ruby>台所<rt>だいどころ</rt></ruby>は きれいだし、<ruby>広<rt>ひろ</rt></ruby>いし、それに <ruby>便利<rt>べんり</rt></ruby>です。 4) この <ruby>車<rt>くるま</rt></ruby>は <ruby>形<rt>かたち</rt></ruby>もいいし、<ruby>色<rt>いろ</rt></ruby>もきれいだし、それに <ruby>値段<rt>ねだん</rt></ruby>もそんなに <ruby>高<rt>たか</rt></ruby>くないです。",
+      "5<ruby>番<rt>ばん</rt></ruby>: 1) この <ruby>店<rt>みせ</rt></ruby>は <ruby>安<rt>やす</rt></ruby>いし、<ruby>品物<rt>しなもの</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、いつもここで <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>して います。 2) あしたは <ruby>休<rt>やす</rt></ruby>みだし、<ruby>用事<rt>ようじ</rt></ruby>もないし、うちで ゆっくり <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます。 3) デザインも すてきだし、サイズも ちょうど いいし、この <ruby>靴<rt>くつ</rt></ruby>を <ruby>買<rt>か</rt></ruby>います。 4) この マンションは <ruby>景色<rt>けしき</rt></ruby>も すばらしいし、ペットも <ruby>飼<rt>か</rt></ruby>えるし、よく <ruby>売<rt>う</rt></ruby>れて います。",
+      "6<ruby>番<rt>ばん</rt></ruby>: 1) <ruby>緑<rt>みどり</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>も おいしいですから。 2) <ruby>子<rt>こ</rt></ruby>どもも <ruby>好<rt>す</rt></ruby>きだし、<ruby>大切<rt>たいせつ</rt></ruby>な <ruby>仕事<rt>しごと</rt></ruby>だと <ruby>思<rt>おも</rt></ruby>いますから。 3) ボーナスも ないし、<ruby>給料<rt>きゅうりょう</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないですから。 4) <ruby>値段<rt>ねだん</rt></ruby>も <ruby>安<rt>やす</rt></ruby>いし、デザインも いいし、<ruby>故障<rt>こしょう</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないですから。"
+    ],
+    "renshuuc": [
+      "1<ruby>番<rt>ばん</rt></ruby>: 1) ① <ruby>小説家<rt>しょうせつか</rt></ruby>に なります ② アルバイトを します ③ <ruby>小説<rt>しょうせつ</rt></ruby>を <ruby>書<rt>か</rt></ruby>きます 2) ① <ruby>自分<rt>じぶん</rt></ruby>の <ruby>店<rt>みせ</rt></ruby>を <ruby>持<rt>も</rt></ruby>ちます ② レストランで <ruby>働<rt>はたら</rt></ruby>きます ③ <ruby>料理<rt>りょうり</rt></ruby>の <ruby>勉強<rt>べんきょう</rt></ruby>を します",
+      "2<ruby>番<rt>ばん</rt></ruby>: 1) ① <ruby>店<rt>みせ</rt></ruby>が きれいです ② サービスが いいです 2) ① <ruby>値段<rt>ねだん</rt></ruby>が <ruby>安<rt>やす</rt></ruby>いです ② いい <ruby>音楽<rt>おんがく</rt></ruby>が <ruby>聞<rt>き</rt></ruby>けます",
+      "3<ruby>番<rt>ばん</rt></ruby>: 1) もう <ruby>遅<rt>おそ</rt></ruby>いです 2) <ruby>体<rt>からだ</rt></ruby>の <ruby>調子<rt>ちょうし</rt></ruby>が あまり よくないです"
+    ],
+    "mondai": [
+      "1<ruby>番<rt>ばん</rt></ruby>: 1) はい、<ruby>歌<rt>うた</rt></ruby>えます。 2) <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>んだり、ビデオを <ruby>見<rt>み</rt></ruby>たりして います。 3) サッカーを して いました。 4) わたしの <ruby>町<rt>まち</rt></ruby>は <ruby>小<rt>ちい</rt></ruby>さいし、<ruby>人<rt>ひと</rt></ruby>も <ruby>少<rt>すく</rt></ruby>ないし、<ruby>静<rt>しず</rt></ruby>かです。",
+      "2<ruby>番<rt>ばん</rt></ruby>: 1) × (ただしくない — <ruby>太郎<rt>たろう</rt></ruby><ruby>君<rt>くん</rt></ruby>は <ruby>人気<rt>にんき</rt></ruby>が あります) 2) ○ (ただしい) 3) × (<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>みます — <ruby>会社<rt>かいしゃ</rt></ruby>ではありません) 4) × (まだ <ruby>習<rt>なら</rt></ruby>っています — <ruby>仕事<rt>しごと</rt></ruby>として はまだです)",
+      "3<ruby>番<rt>ばん</rt></ruby>: 1) コーヒーを <ruby>飲<rt>の</rt></ruby>みながら <ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。 2) テレビを <ruby>見<rt>み</rt></ruby>ながら ごはんを <ruby>食<rt>た</rt></ruby>べます。 3) <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きながら <ruby>勉強<rt>べんきょう</rt></ruby>します。 4) <ruby>歌<rt>うた</rt></ruby>いながら <ruby>踊<rt>おど</rt></ruby>ります。",
+      "4<ruby>番<rt>ばん</rt></ruby>: 1) ( <ruby>買<rt>か</rt></ruby>っています ) が、( <ruby>行<rt>い</rt></ruby>きました )。 2) ( <ruby>歩<rt>ある</rt></ruby>いています ) が、( <ruby>乗<rt>の</rt></ruby>りました )。 3) ( ジョギングをして います ) が、( <ruby>泳<rt>およ</rt></ruby>ぎました )。 4) ( <ruby>食<rt>た</rt></ruby>べています ) が、( <ruby>飲<rt>の</rt></ruby>みませんでした )。",
+      "5<ruby>番<rt>ばん</rt></ruby>: 1) ( <ruby>便利<rt>べんり</rt></ruby>だ ) し、( <ruby>静<rt>しず</rt></ruby>かだ ) し、[ b. <ruby>住<rt>す</rt></ruby>みたいです ]。 2) ( すてきだ ) し、( ちょうど いい ) し、[ d. <ruby>買<rt>か</rt></ruby>います ]。 3) ( おもしろい ) し、( <ruby>熱心<rt>ねっしん</rt></ruby>だ ) し、[ a. <ruby>学生<rt>がくせい</rt></ruby>に <ruby>人気<rt>にんき</rt></ruby>が あります ]。 4) ( <ruby>悪<rt>わる</rt></ruby>い ) し、( ない ) し、[ c. どこも <ruby>行<rt>い</rt></ruby>きません ]。",
+      "6<ruby>番<rt>ばん</rt></ruby>: 1) ①<ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>じ</rt></ruby> から ②8<ruby>時<rt>じ</rt></ruby> 2) ③<ruby>日本人<rt>にほんじん</rt></ruby> 3) ④ダンス 4) ⑤<ruby>払<rt>はら</rt></ruby>わなくても いいです",
+      "7<ruby>番<rt>ばん</rt></ruby>: 1) （<ruby>略<rt>りゃく</rt></ruby>— free writing exercise）"
+    ]
+  },
+  "schemaVersion": 2,
+  "category": "LESSON",
+  "level": "N4",
+  "id": 28,
+  "lesson_num": 28,
+  "title": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+  "title_romaji": "Shucchou mo ooishi, shiken mo arushi...",
+  "title_mm": "ခရီးထွက်တာလည်း များသလို၊ စာမေးပွဲလည်း ရှိတယ်……",
+  "title_en": "I have many business trips, and exams too…",
+  "theme_mm": "〜ながら (တစ်ပြိုင်တည်း ပြုလုပ်ခြင်း) နှင့် 〜し (အကြောင်းများစွာ ဖော်ပြခြင်း)",
+  "theme_en": "~ながら (simultaneous actions) and ~し (listing multiple reasons)",
+  "title_ruby": "<ruby>出張<rt>しゅっちょう</rt></ruby>も <ruby>多<rt>おお</rt></ruby>いし、<ruby>試験<rt>しけん</rt></ruby>も あるし……",
+  "title_hiragana": "しゅっちょうも おおいし、しけんも あるし……"
+}

@@ -5,7 +5,225 @@
   "n4_images_version": 1,
   "n4_images_url": "https://github.com/mimi22-oss/canolia-assets/releases/download/v1.0.0/n4_offline_pack.zip",
   "n4_images_size": 3224881,
-  "updated_at": "2026-10-06",
-  "notes_mm": "N4 သင်ခန်းစာများ၊ ဝေါဟာရ၊ သဒ္ဒါနှင့် မေးခွန်းဟောင်းများ အားလုံး ပါဝင်ပါသည်။",
-  "notes_en": "Initial release with complete N4-N1 database and N4 illustrations."
+  "updated_at": "2026-10-07",
+  "notes_mm": "N4 သင်ခန်းစာများ (Lesson 26 - 52) သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် စာလုံးပေါင်း ပြင်ဆင်ချက်များ ပါဝင်ပါသည်။",
+  "notes_en": "Updated N4 lessons (Lesson 26 - 52) with enriched furigana and grammar notes.",
+  "updated_files": [
+    {
+      "file_name": "n4_lesson_26.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_26.json",
+      "version": 2,
+      "size": 262215,
+      "description_mm": "Lesson 26 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 26 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_27.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_27.json",
+      "version": 2,
+      "size": 273674,
+      "description_mm": "Lesson 27 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 27 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_28.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_28.json",
+      "version": 2,
+      "size": 257668,
+      "description_mm": "Lesson 28 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 28 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_29.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_29.json",
+      "version": 2,
+      "size": 270078,
+      "description_mm": "Lesson 29 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 29 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_30.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_30.json",
+      "version": 2,
+      "size": 357977,
+      "description_mm": "Lesson 30 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 30 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_31.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_31.json",
+      "version": 2,
+      "size": 283198,
+      "description_mm": "Lesson 31 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 31 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_32.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_32.json",
+      "version": 2,
+      "size": 216748,
+      "description_mm": "Lesson 32 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 32 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_33.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_33.json",
+      "version": 2,
+      "size": 287057,
+      "description_mm": "Lesson 33 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 33 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_34.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_34.json",
+      "version": 2,
+      "size": 288469,
+      "description_mm": "Lesson 34 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 34 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_35.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_35.json",
+      "version": 2,
+      "size": 875605,
+      "description_mm": "Lesson 35 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 35 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_36.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_36.json",
+      "version": 2,
+      "size": 345623,
+      "description_mm": "Lesson 36 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 36 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_37.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_37.json",
+      "version": 2,
+      "size": 418708,
+      "description_mm": "Lesson 37 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 37 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_38.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_38.json",
+      "version": 2,
+      "size": 532110,
+      "description_mm": "Lesson 38 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 38 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_39.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_39.json",
+      "version": 2,
+      "size": 504154,
+      "description_mm": "Lesson 39 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 39 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_40.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_40.json",
+      "version": 2,
+      "size": 369150,
+      "description_mm": "Lesson 40 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 40 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_41.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_41.json",
+      "version": 2,
+      "size": 475292,
+      "description_mm": "Lesson 41 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 41 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_42.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_42.json",
+      "version": 2,
+      "size": 345741,
+      "description_mm": "Lesson 42 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 42 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_43.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_43.json",
+      "version": 2,
+      "size": 373685,
+      "description_mm": "Lesson 43 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 43 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_44.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_44.json",
+      "version": 2,
+      "size": 404114,
+      "description_mm": "Lesson 44 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 44 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_45.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_45.json",
+      "version": 2,
+      "size": 658703,
+      "description_mm": "Lesson 45 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 45 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_46.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_46.json",
+      "version": 2,
+      "size": 373427,
+      "description_mm": "Lesson 46 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 46 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_47.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_47.json",
+      "version": 2,
+      "size": 386615,
+      "description_mm": "Lesson 47 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 47 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_48.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_48.json",
+      "version": 2,
+      "size": 365079,
+      "description_mm": "Lesson 48 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 48 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_49.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_49.json",
+      "version": 2,
+      "size": 397382,
+      "description_mm": "Lesson 49 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 49 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_50.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_50.json",
+      "version": 2,
+      "size": 486650,
+      "description_mm": "Lesson 50 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 50 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_51.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_51.json",
+      "version": 2,
+      "size": 406378,
+      "description_mm": "Lesson 51 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 51 grammar notes, furigana enrichment, and typo fixes"
+    },
+    {
+      "file_name": "n4_lesson_52.json",
+      "url": "https://raw.githubusercontent.com/mimi22-oss/canolia-assets/main/patches/n4_lesson_52.json",
+      "version": 2,
+      "size": 374888,
+      "description_mm": "Lesson 52 သဒ္ဒါရှင်းလင်းချက်၊ ဖူရိဂါနာနှင့် အမှားပြင်ဆင်ချက်များ",
+      "description_en": "Lesson 52 grammar notes, furigana enrichment, and typo fixes"
+    }
+  ]
 }
