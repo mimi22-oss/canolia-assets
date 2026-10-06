@@ -1,0 +1,11 @@
+{
+  "content_version": 1,
+  "content_seed_url": "https://github.com/mimi22-oss/canolia-assets/releases/download/v1.0.0/content.seed",
+  "content_seed_size": 7996014,
+  "n4_images_version": 1,
+  "n4_images_url": "https://github.com/mimi22-oss/canolia-assets/releases/download/v1.0.0/n4_offline_pack.zip",
+  "n4_images_size": 3224881,
+  "updated_at": "2026-10-06",
+  "notes_mm": "N4 သင်ခန်းစာများ၊ ဝေါဟာရ၊ သဒ္ဒါနှင့် မေးခွန်းဟောင်းများ အားလုံး ပါဝင်ပါသည်။",
+  "notes_en": "Initial release with complete N4-N1 database and N4 illustrations."
+}
