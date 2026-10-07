@@ -6,7 +6,8 @@ Official downloadable offline asset packages for the **Canolia Kodomo** Japanese
 
 | Pack | Content | Format | Size | Download |
 |---|---|---|---|---|
-| **N4 Offline Pack** | Minna No Nihongo N4 Lesson Illustrations (211 images) & Original Textbook Page Scans (311 pages) | WebP | 64.20 MB | [Download ZIP](n4_offline_pack.zip) |
+| **N4 Illustrations Pack** | Minna No Nihongo N4 Lesson Illustrations (211 cartoon images) | WebP | 5.43 MB | [Download ZIP](n4_offline_pack.zip) |
+| **N4 Textbook Scans Pack** *(Optional)* | Minna No Nihongo N4 Original Textbook Page Scans (310 pages) | WebP | 25.27 MB | [Download ZIP](n4_scans_pack.zip) |
 
 ### Releases & OTA Updates
 - Download assets from the [GitHub Releases](https://github.com/mimi22-oss/canolia-assets/releases) tab.
