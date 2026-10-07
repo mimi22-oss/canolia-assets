@@ -100,14 +100,47 @@ git push origin main
 ## ၅။ စက်တွင်း သိမ်းဆည်းသည့် တည်နေရာများ (Storage Directory Layout)
 
 - **Desktop (Windows/Mac/Linux)**:
-  `~/.canolia-kodomo/overrides/`
-  - `overrides/n4_lesson_52.json` (ဒေါင်းလုဒ်ဆွဲထားသော patched file)
-  - `overrides/n4_lesson_52.json.version` (ဗားရှင်းမှတ်တမ်းဖိုင်)
-  - `packs/n4/` (WebP ရုပ်ပြပုံများ)
+  `~/.canolia-kodomo/` (`C:\Users\<Username>\.canolia-kodomo\` on Windows)
+  - `overrides/` (ဒေါင်းလုဒ်ဆွဲထားသော patched json ဖိုင်များနှင့် `.version` မှတ်တမ်းဖိုင်များ)
+  - `packs/n4/` (WebP ရုပ်ပြကာတွန်းပုံများ - ၂၁၁ ပုံ)
+  - `packs/n4_scans/` (WebP မူရင်းစာအုပ်စကင်များ - ၃၁၀ ပုံ)
 - **Android**:
-  `context.filesDir/overrides/`
-  - `overrides/n4_lesson_52.json`
-  - `overrides/n4_lesson_52.json.version`
+  `context.filesDir/`
+  - `overrides/` (Patched json ဖိုင်များ)
   - `packs/n4/` (WebP ရုပ်ပြပုံများ)
+  - `packs/n4_scans/` (WebP မူရင်းစာအုပ်စကင်များ)
 - **iOS**:
-  `NSDocumentDirectory/overrides/`
+  `NSDocumentDirectory/`
+  - `overrides/`
+  - `packs/n4/`
+  - `packs/n4_scans/`
+
+---
+
+## ၆။ စက်တွင်း Local Cache ရှင်းလင်းနည်း (Clearing Local Cache)
+
+OTA ဒေါင်းလုဒ်ဆွဲခြင်းကို အစအဆုံး အသစ်စမ်းသပ်လိုပါက သို့မဟုတ် ပုံ cache များကို ဖျက်လိုပါက:
+
+### Desktop (Windows PowerShell)
+```powershell
+# ရုပ်ပြကာတွန်းနှင့် မူရင်းစာအုပ်စကင် packs အားလုံးကို ရှင်းရန်:
+Remove-Item -Path "$HOME\.canolia-kodomo\packs" -Recurse -Force
+
+# ကာတွန်း pack တစ်ခုတည်းသာ ရှင်းရန်:
+Remove-Item -Path "$HOME\.canolia-kodomo\packs\n4" -Recurse -Force
+
+# စာအုပ်စကင် pack တစ်ခုတည်းသာ ရှင်းရန်:
+Remove-Item -Path "$HOME\.canolia-kodomo\packs\n4_scans" -Recurse -Force
+
+# App cache အားလုံး (JSON patch များပါမကျန်) လုံးဝဖျက်ရန်:
+Remove-Item -Path "$HOME\.canolia-kodomo" -Recurse -Force
+```
+
+### Desktop (macOS / Linux)
+```bash
+rm -rf ~/.canolia-kodomo/packs
+```
+
+### Android
+Settings -> Apps -> Canolia Kodomo -> Storage -> Clear Cache / Clear Storage
+
